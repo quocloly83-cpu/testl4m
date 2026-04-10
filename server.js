@@ -2075,6 +2075,6 @@ app.post("/api/delete", async (req, res) => {
 initStore().finally(() => {
   app.listen(PORT, () => {
     console.log("Server chạy tại port " + PORT);
-    console.log("thua2");
+    console.log("vc");
   });
 });

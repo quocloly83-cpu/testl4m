@@ -1,19 +1,5 @@
 {
   "claims": {
-    "9313b609231391b56248c9998837a34c": {
-      "id": "9313b609231391b56248c9998837a34c",
-      "createdAt": 1775921690508,
-      "expiresAt": 1775922290508,
-      "browserHash": "76d4edd3f0c975ce2e7c05a66beb0d5516761b46ed149c78d211f34509fd86b3",
-      "uaHash": "070b88bf5db1245fa8b463ec19c175a943c7cac31e7e1e01de62041445acbcba",
-      "ipHash": "7fa7e0e1e819d0626d530d887f9bcf02ca782a594da6bc91ed1250e6191045b5",
-      "identityHash": "d173b98cec53024882fedc80f6eb3bbacebacf4cae11934d93716d3db3b989c0",
-      "status": "claimed",
-      "verifiedAt": 1775921896793,
-      "claimedAt": 1775921896793,
-      "key": "ATH-7CLJ-I832",
-      "keyExpireAt": 1776008296793
-    },
     "291a58c414034d651700932190c40de0": {
       "id": "291a58c414034d651700932190c40de0",
       "createdAt": 1775923027367,
@@ -4773,10 +4759,23 @@
       "claimedAt": 1776008282839,
       "key": "ATH-24OD-XJMG",
       "keyExpireAt": 1776094682839
+    },
+    "da11052938aafd55a13c2c69017cd0fd": {
+      "id": "da11052938aafd55a13c2c69017cd0fd",
+      "createdAt": 1776008834806,
+      "expiresAt": 1776009434806,
+      "browserHash": "96c552deaf8ff10f8082e73c568d36c4516a7f4f7f55639cefb1bd762a1a228e",
+      "uaHash": "1b87c8e9b122954ad49b418a6f8ee8dd734d86fff4c85991d30bdce3d83260a6",
+      "ipHash": "0479b9ec29001645bb889defaf80b452fb72c9fa8995e79e578519300daf8b93",
+      "identityHash": "5749b47325151fa5689bda9e0faacc7677b3c54bd84f761b861d9b45d67deeb4",
+      "status": "started",
+      "verifiedAt": 0,
+      "claimedAt": 0,
+      "key": "",
+      "keyExpireAt": 0
     }
   },
   "cooldowns": {
-    "d173b98cec53024882fedc80f6eb3bbacebacf4cae11934d93716d3db3b989c0": 1776008296793,
     "8a0d6233e3d0025f2b51bf08c0965963923debf3a580711292b52e0ca7ce92d7": 1776009839018,
     "96ad359098e94d7b806024d3c56daa07772f6fe426c7222e3ff4f7b574e69dc4": 1776010155154,
     "d6ee11b645bd3cad2ed2f3baf648349fe016c74bd3b70c558ca07dd8f90cc361": 1776010244464,

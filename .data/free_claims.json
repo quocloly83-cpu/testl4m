@@ -1,61 +1,5 @@
 {
   "claims": {
-    "3dd974092e3660f8ef23c4e3d62dfc98": {
-      "id": "3dd974092e3660f8ef23c4e3d62dfc98",
-      "createdAt": 1775888435236,
-      "expiresAt": 1775889035236,
-      "browserHash": "fe415557181bdad87bd2c5f1c8d198393f0191477ac2562311aba2e595e8deea",
-      "uaHash": "b115c558a2a073b037b9c6c705ca4a36abba220690b89937a262bc5aa8ff1247",
-      "ipHash": "66d45ef7b6cee06545631ac5bc744da76e6abf311b3039e74bee069d5d15f909",
-      "identityHash": "f64132f098726f8b1eaa3abbfeff832af120d70fbb513e81219662a1751111b7",
-      "status": "verified",
-      "verifiedAt": 1775888573487,
-      "claimedAt": 1775888571286,
-      "key": "ATH-GSP1-ZCV9",
-      "keyExpireAt": 1775974971286
-    },
-    "0376c9ad1c39d02b363d2464595dde12": {
-      "id": "0376c9ad1c39d02b363d2464595dde12",
-      "createdAt": 1775888789756,
-      "expiresAt": 1775889389756,
-      "browserHash": "30f739e6c1ae78a131ef13bda00d1d9ceabcd2d8271eee1342445a0f95625497",
-      "uaHash": "69ea04d8e46c0585048e36e514e912d7b16736a6296438928c0dc27e78fb438d",
-      "ipHash": "58893f6d60237791ae5149c9b9a5caa9145529153f33e1ca16978119caf490db",
-      "identityHash": "90e04bab981c3c9f46ea768b83687c3b3803d92431d9a3a403c38017d641ac81",
-      "status": "started",
-      "verifiedAt": 0,
-      "claimedAt": 0,
-      "key": "",
-      "keyExpireAt": 0
-    },
-    "223eb2c64d36fd5cee70e343b4ea008e": {
-      "id": "223eb2c64d36fd5cee70e343b4ea008e",
-      "createdAt": 1775888799292,
-      "expiresAt": 1775889399292,
-      "browserHash": "3bbe8fbd4e6e05dee662f3151d637d80f774e75c8ae60e6ebd35ca9a2db49afb",
-      "uaHash": "9806b02ab3d5ce5d91a18a5e1fbd6f210168b22f93385f8b14217c03c572afb5",
-      "ipHash": "11b649a7849fb6cba969c67e99c92ed654981bfaef5384796988b904a0f64aea",
-      "identityHash": "31ae7136c00806d69e93ce109b64573bd7d90974d2600f53bd492a01843acc73",
-      "status": "claimed",
-      "verifiedAt": 1775889070272,
-      "claimedAt": 1775889070273,
-      "key": "ATH-TPKX-292R",
-      "keyExpireAt": 1775975470273
-    },
-    "eddffbdaf8936f6f63cbcb8c92e659d7": {
-      "id": "eddffbdaf8936f6f63cbcb8c92e659d7",
-      "createdAt": 1775888826616,
-      "expiresAt": 1775889426616,
-      "browserHash": "84cf1d076e275ac5f838ede12ab648872ff3a02bf1378160755653127b9706b1",
-      "uaHash": "69ea04d8e46c0585048e36e514e912d7b16736a6296438928c0dc27e78fb438d",
-      "ipHash": "83ec7eff4dee2dfe0d3c5a0509b10dfc2f8c986a76e037874e5e316a5c97a15b",
-      "identityHash": "9c4c74debb5c8e6571a6173209faa1aadff2b3349d2c8a48f0462b65441a9775",
-      "status": "claimed",
-      "verifiedAt": 1775888936513,
-      "claimedAt": 1775888936514,
-      "key": "ATH-HZSY-BV50",
-      "keyExpireAt": 1775975336514
-    },
     "050244bd0096fba7298c02012f1742f1": {
       "id": "050244bd0096fba7298c02012f1742f1",
       "createdAt": 1775888958107,
@@ -4255,12 +4199,23 @@
       "claimedAt": 0,
       "key": "",
       "keyExpireAt": 0
+    },
+    "94afe914feee7612327b1560af7c52b1": {
+      "id": "94afe914feee7612327b1560af7c52b1",
+      "createdAt": 1775975835806,
+      "expiresAt": 1775976435806,
+      "browserHash": "cc504f1b0d9a8d1f05e11e0656306a6d269680cb11c6ebd17f0ad72880097145",
+      "uaHash": "69ea04d8e46c0585048e36e514e912d7b16736a6296438928c0dc27e78fb438d",
+      "ipHash": "2382927e634cda75b92b65a236627dbaba05c69fd18546473d275877f54c6a45",
+      "identityHash": "34720e70440932dc4c65f3264e5099edaa7ee32749e7851cd9388a81c91e3fc3",
+      "status": "started",
+      "verifiedAt": 0,
+      "claimedAt": 0,
+      "key": "",
+      "keyExpireAt": 0
     }
   },
   "cooldowns": {
-    "31ae7136c00806d69e93ce109b64573bd7d90974d2600f53bd492a01843acc73": 1775975470273,
-    "435c6bed2faa14cab43753c341d3ee1181b207717aac4e5f2296d037fdbe56bd": 1775975479087,
-    "4b91bf89641fd958cb7aa6598a75c0672db274bf5bdf394ac7887f1fcd932454": 1775975736980,
     "f32afb495e16b8e4d6cc39e90ee00a0214e813b325135ac521d3c661a7ba6e2f": 1775978427168,
     "ae3322f8ccb789c373b90a8698913c98e24e5756524c1625fefa780fd39d9a5c": 1775979654328,
     "79b3b601b9d65b6a7423bc5a10794be8d292f80e5681cdca1b271983d19a38c3": 1775980697813,

@@ -1,19 +1,5 @@
 {
   "claims": {
-    "db6b5036f2dadd028adb941e0156efd6": {
-      "id": "db6b5036f2dadd028adb941e0156efd6",
-      "createdAt": 1775896717201,
-      "expiresAt": 1775897317201,
-      "browserHash": "efcd416bc55e65e32a06b2b9f5937a04345d18b0c27a052303754eb33e8b0776",
-      "uaHash": "ff9b6d5d995c1983bdeff028fb2abdfca05db296c62989f1dd230e821d593b9b",
-      "ipHash": "9c7c25462e5115c89e9bdcb0ba27cf050867069cf50869dd8c904b4157e2438f",
-      "identityHash": "230ad0050a4fd1880730e5c2316d4086ae94b59e7358c922d2398493a2f2fdd6",
-      "status": "claimed",
-      "verifiedAt": 1775896887178,
-      "claimedAt": 1775896887178,
-      "key": "ATH-4SU9-1ZQC",
-      "keyExpireAt": 1775983287178
-    },
     "261f4e62e067c5eea1417ba9af2c9f1a": {
       "id": "261f4e62e067c5eea1417ba9af2c9f1a",
       "createdAt": 1775897070107,
@@ -4339,11 +4325,23 @@
       "claimedAt": 1775983195913,
       "key": "ATH-G51Q-I9AQ",
       "keyExpireAt": 1776069595913
+    },
+    "78fda99c12cd6826759c2fe3f3d996ba": {
+      "id": "78fda99c12cd6826759c2fe3f3d996ba",
+      "createdAt": 1775984069226,
+      "expiresAt": 1775984669226,
+      "browserHash": "55af4fe16140adf3606cdf973255d3ca7fa854ef498be183c1e3b78c63e27531",
+      "uaHash": "69ea04d8e46c0585048e36e514e912d7b16736a6296438928c0dc27e78fb438d",
+      "ipHash": "aa213a5dd2a40913ddf34bd1d8af2dd34b7ff798b66f3b00c5c75324453ebb45",
+      "identityHash": "0e82793596392a4c3030e8218ac22062cfffaf9a9b46ff1f4d945ea1234ce8ca",
+      "status": "started",
+      "verifiedAt": 0,
+      "claimedAt": 0,
+      "key": "",
+      "keyExpireAt": 0
     }
   },
   "cooldowns": {
-    "230ad0050a4fd1880730e5c2316d4086ae94b59e7358c922d2398493a2f2fdd6": 1775983287178,
-    "8790b04cf235cbbade62db4ab39adab3a185768a47f1aceb3d9c2535ebc8a49d": 1775984043134,
     "4a8d637ab49c1ea8ad313c2ff44c0c2b8c6f6404e30da4b570241cc5302da981": 1775984309061,
     "e42bf0012e4f6bf233da14e6e91d2d4b73f9c21c2f65d36eb91c3ba94bce8cf5": 1775984977569,
     "787631d46c10860be28617b75f7b3e9c8c9b54ede4a442d71cfb193c40842b79": 1775985061541,

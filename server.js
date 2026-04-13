@@ -20,7 +20,7 @@ const FACEBOOK_URL =
   "https://www.facebook.com/share/1JHonUUaCA/?mibextid=wwXIfr";
 const ZALO_URL = "https://zalo.me/0818249250";
 const TIKTOK_URL =
-  "https://www.tiktok.com/@huyftsupport?_r=1&_t=ZS-94olc9q74ba";
+  "https://www.tiktok.com/@huyftnew?_r=1&_t=ZS-95TqXpmb4YE";
 const YOUTUBE_URL = "https://www.youtube.com/@THGaming.";
 
 const FF_URL = process.env.FF_URL || "https://ff.garena.com/vn/";

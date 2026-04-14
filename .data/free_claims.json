@@ -1,19 +1,5 @@
 {
   "claims": {
-    "8ed40c81569a852532db8d940346b888": {
-      "id": "8ed40c81569a852532db8d940346b888",
-      "createdAt": 1776155580146,
-      "expiresAt": 1776156180146,
-      "browserHash": "294d6629abfa8d3d95a6eac285675cf8e86ec78ed7445565f64b2b9bdb0f7c52",
-      "uaHash": "69ea04d8e46c0585048e36e514e912d7b16736a6296438928c0dc27e78fb438d",
-      "ipHash": "b52f2f09e5c4b05e75fc2cf231c73ca3d8909c911aa937e91089cde7a5e6441a",
-      "identityHash": "676a1c30f3a89d3642f4aa61f766c3f492308fe736c1feafcb01e57a5e2ede9e",
-      "status": "started",
-      "verifiedAt": 0,
-      "claimedAt": 0,
-      "key": "",
-      "keyExpireAt": 0
-    },
     "e9f3f293674d19f2767ec05f58479d5b": {
       "id": "e9f3f293674d19f2767ec05f58479d5b",
       "createdAt": 1776156150598,
@@ -358,11 +344,11 @@
       "uaHash": "1a32ae452c8628f0b50319736ed023828a71967c57eb095f09a94bd65623426e",
       "ipHash": "4c6bb52446a8863b2c0ab05a77990a9e9bed0c23cf916d7c60aff59ca024963f",
       "identityHash": "cb2b6e34d82480248a31fc55508ddb9bec4fe8bd6c156d16588ab508969b5501",
-      "status": "started",
-      "verifiedAt": 0,
-      "claimedAt": 0,
-      "key": "",
-      "keyExpireAt": 0
+      "status": "claimed",
+      "verifiedAt": 1776163503958,
+      "claimedAt": 1776163503958,
+      "key": "ATH-28DF-NDQA",
+      "keyExpireAt": 1776249903958
     },
     "73c3f3e83a2264067dad4e5b9f42d82a": {
       "id": "73c3f3e83a2264067dad4e5b9f42d82a",
@@ -380,7 +366,6 @@
     }
   },
   "cooldowns": {
-    "5e93a83e2796c011b14bc23ec7a1f93f34f29ffcb3ead67dd751368f52af052b": 1776163415045,
     "1296b6345176d5f55b915222d9d645b06b3f352ec7a567ad97ede8c0ecb35b63": 1776164640380,
     "964a5712c3120154cecc30a63d93ce9eb93b726e8f5b2ec511fd06ff4a0d1e8e": 1776165166683,
     "ee53d0f6349a3d4b27ab3f0e2aa13361a599b66493ae1b70ddcb0b14ce735caa": 1776165311616,
@@ -519,6 +504,7 @@
     "1def87034aba46fd12af1cd8234773f02706464014b2cc3f66e7cbeaf502c896": 1776248156299,
     "c20b707f8d72afd1a56bebcaed1f269a1a78419437fe0aec1da3df97f9423c85": 1776248834164,
     "764c5326f3ec3d97987c6000bc02562888751a1d7bafe41eab51e0301145bd95": 1776249111871,
-    "7bed53fe0edf8b7205fdfc56c56f4f2151a2372c85a4e7c53d5df1d2bfb28d31": 1776249143936
+    "7bed53fe0edf8b7205fdfc56c56f4f2151a2372c85a4e7c53d5df1d2bfb28d31": 1776249143936,
+    "cb2b6e34d82480248a31fc55508ddb9bec4fe8bd6c156d16588ab508969b5501": 1776249903958
   }
 }

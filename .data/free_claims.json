@@ -1,19 +1,5 @@
 {
   "claims": {
-    "7a4f310f83986385749d8d645e9a89dc": {
-      "id": "7a4f310f83986385749d8d645e9a89dc",
-      "createdAt": 1776242099977,
-      "expiresAt": 1776242699977,
-      "browserHash": "bae51ee1c9912c6eded9e21bc566798424e0db2a09fbae8bbefa8640c5a16c56",
-      "uaHash": "c378273f7787788aecfcfef0c93ead30970e2271e3055640af88a3f125e0ce2f",
-      "ipHash": "16314db3309d36dc3f2f836089e61bc650adb664810ff2bc43671eed078e0221",
-      "identityHash": "123b3d609601e184fbdeb87d19490895197f92887b1de8bffb74a877650ae3a7",
-      "status": "started",
-      "verifiedAt": 0,
-      "claimedAt": 0,
-      "key": "",
-      "keyExpireAt": 0
-    },
     "c8ba5ed58c283135795e04bfa4dbddcd": {
       "id": "c8ba5ed58c283135795e04bfa4dbddcd",
       "createdAt": 1776242120671,
@@ -1618,11 +1604,11 @@
       "uaHash": "d84e942950de2b93644836b7c61977321e139bd06e9d482ef8e048a4d03f6f3f",
       "ipHash": "ea96010b61aec5c59e3feadf8869a72bd0675850080d8279dee0661f393c0e7b",
       "identityHash": "3da69fe867b0ba6b6f7efcbfa1c2ef15e314a2c7ebcbc3925fcd877604632b76",
-      "status": "started",
-      "verifiedAt": 0,
-      "claimedAt": 0,
-      "key": "",
-      "keyExpireAt": 0
+      "status": "claimed",
+      "verifiedAt": 1776249911200,
+      "claimedAt": 1776249911203,
+      "key": "ATH-7TYB-6Q26",
+      "keyExpireAt": 1776336311203
     },
     "fb022a9c204e3970525b9c22b2d98bb3": {
       "id": "fb022a9c204e3970525b9c22b2d98bb3",
@@ -1668,7 +1654,6 @@
     }
   },
   "cooldowns": {
-    "cb2b6e34d82480248a31fc55508ddb9bec4fe8bd6c156d16588ab508969b5501": 1776249903958,
     "5edb70e7fe61aed4dd810cb29996b33e9c771d7d4fe193bcbeb25882fafa9e1f": 1776249944600,
     "407364812f4afe4157746839889d2fd3c62cf573eb52757b85938beeb6ab4864": 1776251399101,
     "71193149a25e6a0115695ba15ab3cd2716332d3551d58fee0c057c5c62195c60": 1776251636581,
@@ -2103,6 +2088,7 @@
     "58f99acdcde363820cdd2539b40bac16db64bf7ac12623fb43765e75297e0a8f": 1776335974573,
     "416280c43e1746cd76230fe457ccdd347c4b5fb1ea85f2d678ee090b676a77eb": 1776336000011,
     "32f2292a1d599cc794deed5a028b479d738e3b1899ecf1fe8bbaa4b30aa9cfac": 1776336092144,
-    "7a96bca9adf3e839898b80a4769a7eb3e3b303e37df2e88ca5e730d35030e34a": 1776336230890
+    "7a96bca9adf3e839898b80a4769a7eb3e3b303e37df2e88ca5e730d35030e34a": 1776336230890,
+    "3da69fe867b0ba6b6f7efcbfa1c2ef15e314a2c7ebcbc3925fcd877604632b76": 1776336311203
   }
 }

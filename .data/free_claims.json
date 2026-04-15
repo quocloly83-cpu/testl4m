@@ -1,19 +1,5 @@
 {
   "claims": {
-    "31514fc58ae35200f47bce7a635a98a7": {
-      "id": "31514fc58ae35200f47bce7a635a98a7",
-      "createdAt": 1776234168422,
-      "expiresAt": 1776234768422,
-      "browserHash": "b4e913ffdf46ff59a6219be0c82fb557cad4408e064e434acb93c393b9ee921c",
-      "uaHash": "c8576e0b0543095450c1733e913c51c4d53dfe7dc4ef0ac83ff4c79f2301dd54",
-      "ipHash": "36c3682e0f186ef188bceeabff143c4a26dd027f207167b18ee57ac1faeb53f1",
-      "identityHash": "1e442948482188a2ee39fb0baf3c2eb8167113ecb7dfb10c771f2d12eeb64b7e",
-      "status": "started",
-      "verifiedAt": 0,
-      "claimedAt": 0,
-      "key": "",
-      "keyExpireAt": 0
-    },
     "66ee34a41d5b7b52e209b7d7a3984ead": {
       "id": "66ee34a41d5b7b52e209b7d7a3984ead",
       "createdAt": 1776234248150,
@@ -1156,11 +1142,11 @@
       "uaHash": "ff9b6d5d995c1983bdeff028fb2abdfca05db296c62989f1dd230e821d593b9b",
       "ipHash": "3408ee965db5fd9c155ca95cc51d40b32beb78aa98e7069f4cebdfc9a2a41352",
       "identityHash": "8638db4c65bbb2e32efeada3e40cf6382d925f6c27e24c83e26d8567d89db38a",
-      "status": "started",
-      "verifiedAt": 0,
-      "claimedAt": 0,
-      "key": "",
-      "keyExpireAt": 0
+      "status": "claimed",
+      "verifiedAt": 1776242013267,
+      "claimedAt": 1776242013270,
+      "key": "ATH-LHGN-MGDS",
+      "keyExpireAt": 1776328413270
     },
     "cb90ff0f985fc3671d483a36c49304b9": {
       "id": "cb90ff0f985fc3671d483a36c49304b9",
@@ -1192,7 +1178,6 @@
     }
   },
   "cooldowns": {
-    "5726d29c9ad0fd181667c77c202bfd20f84b9016ebbd6ddf91f2ecf095c082ca": 1776241994175,
     "a1ffbebb6cfb7548fcf3fbb2e2386e6b4221eeddb76915bec2fc235ce0ef1c9c": 1776243200252,
     "676a1c30f3a89d3642f4aa61f766c3f492308fe736c1feafcb01e57a5e2ede9e": 1776243257284,
     "5410d7e6710dfb78d0698b885efa22a040629dc63ebb2d9cd7bda7efebb85f36": 1776243518100,
@@ -1604,6 +1589,7 @@
     "53be16e7a49ab6cc32c6c9aad3d63dd2dea9cdbd95cf2447357ce805760bc433": 1776327677577,
     "afcfcb8ff89bfcb7504818691b870bb0527c7e9805c15aa7fd1c4133b18b468c": 1776327938297,
     "a28bccf68e39f037240d7c71aefb56d7de63212e3c59f03dc6656d3b9b34b671": 1776328165657,
-    "9232d7d2593224de7b7c4d6fc10ac89bf62afa0bb6b75edeba0b58bda177a1b7": 1776328330777
+    "9232d7d2593224de7b7c4d6fc10ac89bf62afa0bb6b75edeba0b58bda177a1b7": 1776328330777,
+    "8638db4c65bbb2e32efeada3e40cf6382d925f6c27e24c83e26d8567d89db38a": 1776328413270
   }
 }

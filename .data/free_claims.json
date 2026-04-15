@@ -1,19 +1,5 @@
 {
   "claims": {
-    "a257c987fa0b171d266fe378069a04e4": {
-      "id": "a257c987fa0b171d266fe378069a04e4",
-      "createdAt": 1776247971810,
-      "expiresAt": 1776248571810,
-      "browserHash": "5bcb6dfffdffc9f6b268c74f3b11052d7d9961be634af37974fc4c2363e13d23",
-      "uaHash": "04d41517d7a20e2e2b7e2c59527239e8d357894bd99b0b5d04fac39445123fd3",
-      "ipHash": "2d11450b68b09d4316d696645002b9c01ace5d64dc241b71c543e8b12a0dad12",
-      "identityHash": "3f3dd9052085b081eecd79d4faf7b620decff30cf1ce341cf3e12c676c717e0b",
-      "status": "started",
-      "verifiedAt": 0,
-      "claimedAt": 0,
-      "key": "",
-      "keyExpireAt": 0
-    },
     "62e4d904f10e95db332ee8c2d6a23f53": {
       "id": "62e4d904f10e95db332ee8c2d6a23f53",
       "createdAt": 1776248084038,
@@ -2752,11 +2738,11 @@
       "uaHash": "3c11b54035bc8a0f976d8d87fcebd36e968194bab2d4930da3bdc852103ec987",
       "ipHash": "93ad38ada151a04e34e033a112e17dfbd652132add2ab2444298dae3608bf23d",
       "identityHash": "057bb3dd68dce8d7054df88e93d2d37dc746eca8672171a025d50e7eaf4dac8f",
-      "status": "started",
-      "verifiedAt": 0,
-      "claimedAt": 0,
-      "key": "",
-      "keyExpireAt": 0
+      "status": "claimed",
+      "verifiedAt": 1776255792479,
+      "claimedAt": 1776255792482,
+      "key": "ATH-U52V-UKR4",
+      "keyExpireAt": 1776342192482
     },
     "cce0120a401ae659a37b047b0688054f": {
       "id": "cce0120a401ae659a37b047b0688054f",
@@ -2858,8 +2844,6 @@
     }
   },
   "cooldowns": {
-    "6b582f19930a4815985db652fa2f9a1be64bd793ea560645d7d8d1783ac0f8fb": 1776255785641,
-    "a0c5a6c1275ca857d7b6e8859a2c8f23469bacfdb20a12a1679654cd3223384e": 1776255788682,
     "e21a649edfc37a157bf32afc452bb44c6fc21cc855522e4286c79255926179d7": 1776255929784,
     "6e34539f2e9bdacb479ee095e05d29fad18105019c46e7182b3d13a614d5aac7": 1776256037762,
     "e34f7efd5d0d8b9bed9b3e6d70e5f8cc2bdd643cb01fb516ce182d4a0fc4e703": 1776256292324,
@@ -3293,6 +3277,7 @@
     "9a8254a84e87e7412ad79904fa4096787a90b595cbfad0f8978d7f12345c0492": 1776341596820,
     "743260478ac1919c27692f2cc8ac3c1d53c270248df404fa8dc82a58e9585790": 1776341650389,
     "f7b9954917e7083d3c886869e04845aac83f3fbc90c76e6b9e1884a9e09ad601": 1776341755224,
-    "23ad093859fde1c348da87f06987a9fd7666c10477b1fa69ae5a018f4a51fd68": 1776341973181
+    "23ad093859fde1c348da87f06987a9fd7666c10477b1fa69ae5a018f4a51fd68": 1776341973181,
+    "057bb3dd68dce8d7054df88e93d2d37dc746eca8672171a025d50e7eaf4dac8f": 1776342192482
   }
 }

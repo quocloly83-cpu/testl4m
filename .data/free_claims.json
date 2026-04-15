@@ -1,19 +1,5 @@
 {
   "claims": {
-    "f6079e6ae1f1b6f6f73947ce9fd869e7": {
-      "id": "f6079e6ae1f1b6f6f73947ce9fd869e7",
-      "createdAt": 1776247556504,
-      "expiresAt": 1776248156504,
-      "browserHash": "a178cacae365b6da3620f725899eb7d1231662cad853b5a334e30ab3dee7eaf1",
-      "uaHash": "882172a28119baf7e20a74bf5530d5b2f0b7f1e26e72d984612d90ae005429ff",
-      "ipHash": "dcf08d27c534746dfdb3a3a1b6dec1ace4d50fb9a75d0d9e0bcb727d1950b466",
-      "identityHash": "ca6490493c9f00edca9b5feac3faa7771a32d391813591a2b3f8b50d43b1e10f",
-      "status": "started",
-      "verifiedAt": 0,
-      "claimedAt": 0,
-      "key": "",
-      "keyExpireAt": 0
-    },
     "aed5615bb243a6d8657c73a64a694936": {
       "id": "aed5615bb243a6d8657c73a64a694936",
       "createdAt": 1776247648614,
@@ -2766,11 +2752,11 @@
       "uaHash": "36709a46e19405c3706894c673dbb5b2b55893ebfc03ce488a370fab29ef487a",
       "ipHash": "7216815421b47720a70696299c022c9020d13b7ec279c3566df2dc2d6b726688",
       "identityHash": "f7b9954917e7083d3c886869e04845aac83f3fbc90c76e6b9e1884a9e09ad601",
-      "status": "started",
-      "verifiedAt": 0,
-      "claimedAt": 0,
-      "key": "",
-      "keyExpireAt": 0
+      "status": "claimed",
+      "verifiedAt": 1776255355222,
+      "claimedAt": 1776255355224,
+      "key": "ATH-UBJ9-8EOH",
+      "keyExpireAt": 1776341755224
     },
     "41bd539bb06836b026d3864bf0ac055c": {
       "id": "41bd539bb06836b026d3864bf0ac055c",
@@ -2816,7 +2802,6 @@
     }
   },
   "cooldowns": {
-    "ca7fde9584e9b6d85edf00306e13c6c12544ff19c5ea8de58939a7fcb618ff92": 1776255311356,
     "efc1b9820d15788283a52486691f5879d73d6f5ec4893acb92ad05a28429e8d7": 1776255379315,
     "c8e799a9005457734b21fe2d95db5b25fde4b19075de76c567daec5908437b7f": 1776255403067,
     "bb7fc7a85e4faa6a21157092d5da5aa4cb50ae11409a46d44008d989e0cfa482": 1776255414630,
@@ -3257,6 +3242,7 @@
     "14fba3c0426977cfee4dd98c06abf72cf716d47918b7bcbce0bd958baab34160": 1776341412957,
     "1154332661b5cb4f9539212d8e8841c8753e232ffae5000c44bef79532a06157": 1776341513571,
     "9a8254a84e87e7412ad79904fa4096787a90b595cbfad0f8978d7f12345c0492": 1776341596820,
-    "743260478ac1919c27692f2cc8ac3c1d53c270248df404fa8dc82a58e9585790": 1776341650389
+    "743260478ac1919c27692f2cc8ac3c1d53c270248df404fa8dc82a58e9585790": 1776341650389,
+    "f7b9954917e7083d3c886869e04845aac83f3fbc90c76e6b9e1884a9e09ad601": 1776341755224
   }
 }

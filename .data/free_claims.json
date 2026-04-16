@@ -1,19 +1,5 @@
 {
   "claims": {
-    "af4a5b9cb3dd2a40811ce164fc13490d": {
-      "id": "af4a5b9cb3dd2a40811ce164fc13490d",
-      "createdAt": 1776306361059,
-      "expiresAt": 1776306961059,
-      "browserHash": "3b4ce8796517f6c13e6029c7f36570ed2aecfb525d33da342a0c0fc4d313d6c0",
-      "uaHash": "40eaeed115c336cf037ef7761cd0c6b38dfc7e85c4ba6cfe529572bc31037d63",
-      "ipHash": "3acf3527d9edc69ad3198b569936907e19f1da931224b52f2533f8d99e606559",
-      "identityHash": "576082e3a6c8724cedf70d8c1e16028fae09197de5ffd5b394a833d7548c9540",
-      "status": "started",
-      "verifiedAt": 0,
-      "claimedAt": 0,
-      "key": "",
-      "keyExpireAt": 0
-    },
     "2f89b6852b4b2ac7ffc73f53240005f2": {
       "id": "2f89b6852b4b2ac7ffc73f53240005f2",
       "createdAt": 1776306410858,
@@ -1086,11 +1072,11 @@
       "uaHash": "6021caf373acee537997faa2c1966941544367c06be3d3cc619c4c86a379e97d",
       "ipHash": "603be9aeae5c54e4bc90de61058e3859b3d00356750c2874766c7475fa5e5bc0",
       "identityHash": "9e952fe4e73f2a91231145a6a37d97de4f01993cf0406c28bba31af803397369",
-      "status": "started",
-      "verifiedAt": 0,
-      "claimedAt": 0,
-      "key": "",
-      "keyExpireAt": 0
+      "status": "claimed",
+      "verifiedAt": 1776314190471,
+      "claimedAt": 1776314190472,
+      "key": "ATH-AY3Z-E3V2",
+      "keyExpireAt": 1776400590472
     },
     "4d90bac5332ecac371a20baa3633c66a": {
       "id": "4d90bac5332ecac371a20baa3633c66a",
@@ -1164,8 +1150,6 @@
     }
   },
   "cooldowns": {
-    "28f92fec2aa5792c416cf1dd487b6b76b92b4f3e0be3910b6a46bc5775c6f28c": 1776314160084,
-    "5fc117ea18d02ca76e8ed68ff952babc4e07d88f10b5c47dc8d80786afe3b39d": 1776314181231,
     "432f6a399820b11744cb8117e02dfd88893fe10a84bdf98f50e4866dd3f5a051": 1776314210202,
     "175d636ffd9dd40c9c29f96a2df208709bcb7d55a220aaed724c5abaf5aebe27": 1776314278088,
     "254715147970b22257261b52c0d9ae92fe938bc64014c18641caeb3dd45e8bc7": 1776314296056,
@@ -1487,6 +1471,7 @@
     "6877d67974b245c66c3cb1688f6d9bf25d69ad17f8dc38cb09a1f4eaebc9054b": 1776399813417,
     "bf361aa0de92b4a1da37594a2ac27c87213b7b74eb6f9cbca33c9f66dce6aac1": 1776400444311,
     "2ad00fa18c45d324fc1f261671583b1c5efc88d0d7ea4d6114722d08d66acdfd": 1776400498124,
-    "180ab605a90c8970175db2122d8c3326c3ccf632bbe28a36491dda5c70284fb0": 1776400511016
+    "180ab605a90c8970175db2122d8c3326c3ccf632bbe28a36491dda5c70284fb0": 1776400511016,
+    "9e952fe4e73f2a91231145a6a37d97de4f01993cf0406c28bba31af803397369": 1776400590472
   }
 }

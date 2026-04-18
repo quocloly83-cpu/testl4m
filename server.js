@@ -1356,11 +1356,11 @@ function baseStyles() {
     .socialBtn:hover,.gameBtn:hover{box-shadow:0 0 18px rgba(201,176,122,.10)}
     .footer{margin-top:10px;text-align:center;font-size:12px;color:#b9b0c9;line-height:1.7;overflow-wrap:anywhere;word-break:break-word}
       .liveFx{
-        margin-top:14px;padding:82px 16px 16px;border-radius:24px;
+        margin-top:14px;padding:96px 16px 16px;border-radius:24px;
         background:
           linear-gradient(180deg, rgba(7,12,24,.96), rgba(15,10,31,.90)),
           radial-gradient(circle at top right, rgba(97,180,255,.08), transparent 28%);
-        border:1px solid rgba(160,132,255,.18);color:#f1e8ff;font-size:12px;min-height:186px;
+        border:1px solid rgba(160,132,255,.18);color:#f1e8ff;font-size:12px;min-height:198px;
         white-space:pre-wrap;line-height:1.7;position:relative;overflow:hidden;
         box-shadow:inset 0 0 0 1px rgba(255,255,255,.03), 0 18px 40px rgba(4,0,18,.28);
         font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;
@@ -1374,17 +1374,21 @@ function baseStyles() {
       box-shadow:0 0 18px rgba(220,225,255,.16);animation:neonBar 4.1s linear infinite;pointer-events:none;
     }
       .liveFxHud{
-        position:absolute;left:14px;right:14px;top:10px;display:flex;align-items:center;justify-content:space-between;
-        font-size:10px;color:#9bc6ff;letter-spacing:1px;text-transform:uppercase;opacity:.92
+        position:absolute;left:14px;right:14px;top:10px;display:flex;align-items:flex-start;justify-content:space-between;
+        gap:12px;flex-wrap:wrap;font-size:10px;color:#9bc6ff;letter-spacing:1px;text-transform:uppercase;opacity:.92;z-index:2
       }
-      .liveFxControls{
-        position:absolute;left:14px;right:14px;top:38px;display:flex;justify-content:flex-end;gap:8px;z-index:2;
+      .liveFxHudMain{
+        display:flex;align-items:center;justify-content:space-between;gap:10px;flex:1 1 220px;min-width:0;flex-wrap:wrap
+      }
+      .liveFxActions{
+        display:flex;align-items:center;justify-content:flex-end;gap:8px;flex:0 0 auto;flex-wrap:wrap
       }
       .monitorGameBtn{
-        min-width:64px;height:28px;padding:0 12px;border-radius:999px;border:1px solid rgba(255,255,255,.10);
-        background:linear-gradient(180deg, rgba(255,255,255,.10), rgba(255,255,255,.04));
+        min-width:72px;height:30px;padding:0 14px;border-radius:999px;border:1px solid rgba(255,255,255,.12);
+        background:linear-gradient(180deg, rgba(255,255,255,.12), rgba(255,255,255,.05));
         color:#f8f1df;font-size:11px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;cursor:pointer;
         box-shadow:inset 0 1px 0 rgba(255,255,255,.04), 0 8px 18px rgba(0,0,0,.14);
+        white-space:nowrap;
       }
       .monitorGameBtn:hover{
         border-color:rgba(214,196,154,.26);
@@ -1614,9 +1618,11 @@ function baseStyles() {
         .loginFrame::after{left:-14px;right:-14px;top:-18px;bottom:-18px}
         .loginTitle{font-size:30px}
         .loginHint{font-size:13px;max-width:92%}
-        .liveFx{padding-top:98px;min-height:208px}
-        .liveFxControls{justify-content:flex-start;top:44px;flex-wrap:wrap}
-        .monitorGameBtn{min-width:72px}
+        .liveFx{padding-top:116px;min-height:222px}
+        .liveFxHud{top:12px;gap:10px}
+        .liveFxHudMain{flex-basis:100%}
+        .liveFxActions{width:100%;justify-content:flex-start}
+        .monitorGameBtn{min-width:78px}
         .toast{bottom:calc(14px + env(safe-area-inset-bottom))}
       }
   
@@ -2251,8 +2257,7 @@ function renderPanelHtml() {
 
     function writeFx(lines) {
         const hud =
-          '<div class="liveFxHud"><div class="hudDots"><span></span><span></span><span></span></div><div class="fxMeta"><span>runtime monitor</span><span class="fxMeter"></span><span>locked</span></div></div>' +
-          '<div class="liveFxControls"><button class="monitorGameBtn" onclick="prepGame(\'FF\')">FF</button><button class="monitorGameBtn" onclick="prepGame(\'FFMAX\')">FFMAX</button></div>';
+          '<div class="liveFxHud"><div class="liveFxHudMain"><div class="hudDots"><span></span><span></span><span></span></div><div class="fxMeta"><span>runtime monitor</span><span class="fxMeter"></span><span>locked</span></div></div><div class="liveFxActions"><button type="button" class="monitorGameBtn" onclick="prepGame(\'FF\')">FF</button><button type="button" class="monitorGameBtn" onclick="prepGame(\'FFMAX\')">FFMAX</button></div></div>';
         const body = lines.map(function(line){
           if (typeof line === "string") {
             return '<span class="fxLine">' + escapeHtml(line) + '</span>';
@@ -3923,6 +3928,10 @@ app.post("/api/check", async (req, res) => {
     return res.json({ ok: false, msg: "Thiếu key hoặc thiết bị" });
   }
 
+  if (freeRuntime && typeof freeRuntime.syncUsageCleanup === "function") {
+    freeRuntime.syncUsageCleanup(key);
+  }
+
   const record = findKeyRecord(key);
   if (!record) {
     if (isExpiredDeletedMainKey(key)) {
@@ -3936,6 +3945,15 @@ app.post("/api/check", async (req, res) => {
   const item = record.item;
 
   if (item.expireAt && Date.now() >= item.expireAt) {
+    if (
+      record.scope === "free" &&
+      freeRuntime &&
+      typeof freeRuntime.deleteKey === "function"
+    ) {
+      freeRuntime.deleteKey(key, { background: true }).catch((err) => {
+        console.error("Background free key delete failed:", err.message);
+      });
+    }
     return res.json({ ok: false, msg: "Key đã hết hạn" });
   }
 
@@ -3988,6 +4006,10 @@ app.post("/api/status", async (req, res) => {
     return res.json({ ok: false, msg: "Phiên không đúng thiết bị" });
   }
 
+  if (freeRuntime && typeof freeRuntime.syncUsageCleanup === "function") {
+    freeRuntime.syncUsageCleanup(parsed.key);
+  }
+
   const record = findKeyRecord(parsed.key);
   if (!record) {
     return res.json({ ok: false, msg: "Key không tồn tại" });
@@ -3995,6 +4017,15 @@ app.post("/api/status", async (req, res) => {
   const item = record.item;
 
   if (item.expireAt && Date.now() >= item.expireAt) {
+    if (
+      record.scope === "free" &&
+      freeRuntime &&
+      typeof freeRuntime.deleteKey === "function"
+    ) {
+      freeRuntime.deleteKey(parsed.key, { background: true }).catch((err) => {
+        console.error("Background free key delete failed:", err.message);
+      });
+    }
     return res.json({ ok: false, msg: "Key đã hết hạn" });
   }
 

@@ -1,19 +1,5 @@
 {
   "claims": {
-    "a1affa19be5fe12fbf363a63d593fe89": {
-      "id": "a1affa19be5fe12fbf363a63d593fe89",
-      "createdAt": 1776602180725,
-      "expiresAt": 1776602780725,
-      "browserHash": "0904b148545252e1d33f6bf6c4ad25cbca7646e1bd2177a2376b29694480d17b",
-      "uaHash": "961cacd1aeae48d6d3302ec4faedf1bb1b1738b4302aa8a4069567ad34728c8b",
-      "ipHash": "64ef256ef64a87b8395f79621e1c5e1d92288d2f2e2d354cd1d2c937481e280b",
-      "identityHash": "696658f1bbc510a1a21d9202bb219fe8de3990d34b6f47a6c21bd0ffdac30de6",
-      "status": "started",
-      "verifiedAt": 0,
-      "claimedAt": 0,
-      "key": "",
-      "keyExpireAt": 0
-    },
     "a2e76fb46346f1928518ac45b31d1505": {
       "id": "a2e76fb46346f1928518ac45b31d1505",
       "createdAt": 1776602234213,
@@ -480,15 +466,15 @@
       "id": "c2edd5aefffc001d1e92be5e0721768d",
       "createdAt": 1776603195952,
       "expiresAt": 1776603795952,
-      "browserHash": "25f9a41084f8ee0eee8df1a5d783dda5212712cafe34d70a2a73222b8d53beef",
-      "uaHash": "093b7ffda31ae6856735ba3c69ae2d7cd14b047af342776cbac7d0d317092d20",
-      "ipHash": "3399ae36fbb1c69eb7000511f5745cae4cbeeadf65a649a6f1efc75cd1149e5f",
+      "browserHash": "",
+      "uaHash": "",
+      "ipHash": "",
       "identityHash": "b051b987efcc20487b49e6a5728bcfde5ef8bd9b1804ae28039f912afc0b1241",
-      "status": "started",
-      "verifiedAt": 0,
-      "claimedAt": 0,
-      "key": "",
-      "keyExpireAt": 0
+      "status": "claimed",
+      "verifiedAt": 1776603404059,
+      "claimedAt": 1776603404063,
+      "key": "ATH-FRDD-JYC8",
+      "keyExpireAt": 1776689804063
     },
     "b2248eed1fc3372192988104bd5e269f": {
       "id": "b2248eed1fc3372192988104bd5e269f",
@@ -548,7 +534,6 @@
     }
   },
   "cooldowns": {
-    "33e7a55bebfdeb8046c338edc67945a67979d9c5ed9cf24d44290ca2aca8a755": 1776603389247,
     "4754948b31759694fd48088eae79344c6e1be90e4d79cc3dd37df582274cafb4": 1776603411350,
     "0b2202a804551437ca8007c5ec2ae41f5f0fa75bb76ff717ffe37313fde584f7": 1776603422328,
     "6f4bac3d72afed1cb0672d95169649f6667bf3848bd2e7321fdec3766a79ab46": 1776603433421,
@@ -1263,6 +1248,7 @@
     "c3bbf679a9ae33ad54ac9df76984d4e87baffd24cb351520165f793dada5d5f1": 1776689270960,
     "9a30c08757b85ccb34fbb1824d3766adac985b3623ca6d2eae40d721453084bd": 1776689444361,
     "1b2229fc5d4f84f659de115462ecab280bdb438b27c77d124970f1c810cdc604": 1776689610877,
-    "6ac92982df291eca6df347c7792056ae3a8d39dd9e748fc33345b17901509332": 1776689676477
+    "6ac92982df291eca6df347c7792056ae3a8d39dd9e748fc33345b17901509332": 1776689676477,
+    "b051b987efcc20487b49e6a5728bcfde5ef8bd9b1804ae28039f912afc0b1241": 1776689804063
   }
 }

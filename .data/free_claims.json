@@ -1,75 +1,5 @@
 {
   "claims": {
-    "f50d060e34675ab73c7a18245924b209": {
-      "id": "f50d060e34675ab73c7a18245924b209",
-      "createdAt": 1776727888512,
-      "expiresAt": 1776728488512,
-      "browserHash": "",
-      "uaHash": "",
-      "ipHash": "",
-      "identityHash": "cf569af5bba325e02562e0b369c0456ff1524889ff9db81126129903d9f54765",
-      "status": "claimed",
-      "verifiedAt": 1776728073279,
-      "claimedAt": 1776728073282,
-      "key": "ATH-NY2K-2HZ1",
-      "keyExpireAt": 1776814473282
-    },
-    "8bccb932bb9f2804a73f75f9285deb79": {
-      "id": "8bccb932bb9f2804a73f75f9285deb79",
-      "createdAt": 1776728089675,
-      "expiresAt": 1776728689675,
-      "browserHash": "",
-      "uaHash": "",
-      "ipHash": "",
-      "identityHash": "1152f5d6ef3ead97f9ab1c03d6312705eca49da94611138d24c9d4a97647acb2",
-      "status": "claimed",
-      "verifiedAt": 1776728227689,
-      "claimedAt": 1776728227691,
-      "key": "ATH-3SKR-NVFK",
-      "keyExpireAt": 1776814627691
-    },
-    "27e389c6fa9795b6bf08dd61a436ee3a": {
-      "id": "27e389c6fa9795b6bf08dd61a436ee3a",
-      "createdAt": 1776728114210,
-      "expiresAt": 1776728714210,
-      "browserHash": "e292f4ae87736dcabdd6d1aeb5129d3402e0b7dd2b14b84ecc6be346ce44df2e",
-      "uaHash": "36709a46e19405c3706894c673dbb5b2b55893ebfc03ce488a370fab29ef487a",
-      "ipHash": "e390c24627e24d6448940a190e5c80b31a3a860a8ab7996e69653d57d2bf3952",
-      "identityHash": "c1ca4c7774998107fc90d51e2efa88e1dbb5e2272e44bf1101b92787fbd2fa0a",
-      "status": "started",
-      "verifiedAt": 0,
-      "claimedAt": 0,
-      "key": "",
-      "keyExpireAt": 0
-    },
-    "372a4854bdabfdf3dce97c37b96a10ac": {
-      "id": "372a4854bdabfdf3dce97c37b96a10ac",
-      "createdAt": 1776728136560,
-      "expiresAt": 1776728736560,
-      "browserHash": "6d470318c1cd16f93628dbefa170e2005b6216048023c992708ea93d1be14404",
-      "uaHash": "ad0adc2694dd363690c12ec6e11e0c8fdd3bb3f7128ddcdd4b81128020d1ce9e",
-      "ipHash": "6823d9b446b1ba1bc339927b37b56185b68497c729b8489c89340a8e852394a8",
-      "identityHash": "c1bd4b54d910ae101b833e3236210717f6cef8ca1ee2efd8894ca3fc47b27e96",
-      "status": "started",
-      "verifiedAt": 0,
-      "claimedAt": 0,
-      "key": "",
-      "keyExpireAt": 0
-    },
-    "e06bb5547426d83629f563be54a5ecb0": {
-      "id": "e06bb5547426d83629f563be54a5ecb0",
-      "createdAt": 1776728166507,
-      "expiresAt": 1776728766507,
-      "browserHash": "",
-      "uaHash": "",
-      "ipHash": "",
-      "identityHash": "81fa1222e8ab56a71b80b350829383108d4f0ce6e81315ac7632993d5d6d4dd3",
-      "status": "claimed",
-      "verifiedAt": 1776728290760,
-      "claimedAt": 1776728290762,
-      "key": "ATH-0ELH-S2KI",
-      "keyExpireAt": 1776814690762
-    },
     "1b01d9fe9cc7c7dedfa074b988a7b215": {
       "id": "1b01d9fe9cc7c7dedfa074b988a7b215",
       "createdAt": 1776728261536,
@@ -209,11 +139,23 @@
       "claimedAt": 0,
       "key": "",
       "keyExpireAt": 0
+    },
+    "1e126e0aa610f6c0bcdbeb2522f27be8": {
+      "id": "1e126e0aa610f6c0bcdbeb2522f27be8",
+      "createdAt": 1776729549488,
+      "expiresAt": 1776730149488,
+      "browserHash": "43b1e80dbaabea0721b493521676e5aa1b1e460be631c5ab24eaafee3e19581b",
+      "uaHash": "aea358e42173dbf001147a4000ad690cbe40b2aa8e2e74d47928d8cfa892cc67",
+      "ipHash": "41101a167b84762babb804ae094febe3f067c800a9ade42c5dfe78a23f87a21d",
+      "identityHash": "cee9bcae3ba7614ba7e44efc6d14f1d9e7f6ed0cd3ba4437505b11555095d4ee",
+      "status": "started",
+      "verifiedAt": 0,
+      "claimedAt": 0,
+      "key": "",
+      "keyExpireAt": 0
     }
   },
   "cooldowns": {
-    "01e543a77359b96284ba7ed9920a3ecc48032dfad6abd5d7b843cfad4b97c4c9": 1776729392363,
-    "e3a51adab75a98b83aba234db477e638f79b28008e50d130f457a9b2c3a764fc": 1776729530595,
     "21ef637e6f3c67f1ae61d4519c8320ea8c508e6143ffc30d94fdb8141f1742e9": 1776729580484,
     "e5211d3aec8bc45e96e5dae99a6f37b53fdf895bf3d437aa947603d56a84b66f": 1776729724527,
     "35b6f350f6c6820c2359c69cfd03e2e9cf52675af06c4301bdbffa2a5530d758": 1776729843090,

@@ -28,34 +28,6 @@
       "key": "ATH-VRV1-0D81",
       "keyExpireAt": 1776854718006
     },
-    "569e88a1a500b3a740c5f946df51e089": {
-      "id": "569e88a1a500b3a740c5f946df51e089",
-      "createdAt": 1776768147605,
-      "expiresAt": 1776768747605,
-      "browserHash": "3515b98ae59ad121fedc5e982d6a8fe45715ca086adfb15ac1c812a5dd010696",
-      "uaHash": "6021caf373acee537997faa2c1966941544367c06be3d3cc619c4c86a379e97d",
-      "ipHash": "2f90a09888988e48d1ccb2adffcd0d6dd4b0f2c073a518de480bea81ff68be04",
-      "identityHash": "39738c54402430cf8b9ca04bcc8b3db99a7c1738957227cdae550cc732480e1a",
-      "status": "started",
-      "verifiedAt": 0,
-      "claimedAt": 0,
-      "key": "",
-      "keyExpireAt": 0
-    },
-    "d2f892175ec26bcb1c279d1cef9eb6c2": {
-      "id": "d2f892175ec26bcb1c279d1cef9eb6c2",
-      "createdAt": 1776768157499,
-      "expiresAt": 1776768757499,
-      "browserHash": "19d7ac4ea44e4716c07a249061a264530dedd3c633a211a83f3c3893912aa8d0",
-      "uaHash": "717e2aa4200a2c2c9a074be68a9d8b8cea713fd1001913178961e1077767b458",
-      "ipHash": "48faab281045422b2924ac1c23339222020d7e38449bb97fa530b11f6164f250",
-      "identityHash": "f83ad749ebb4fb253a222346c7b114ac49949c83926125bd17c10bdfa97b47ce",
-      "status": "started",
-      "verifiedAt": 0,
-      "claimedAt": 0,
-      "key": "",
-      "keyExpireAt": 0
-    },
     "522f34a1c4803748252c44c86a2618cf": {
       "id": "522f34a1c4803748252c44c86a2618cf",
       "createdAt": 1776768246310,
@@ -326,15 +298,15 @@
       "id": "773501b47b4f4f0420f352ee0ac3f572",
       "createdAt": 1776769150646,
       "expiresAt": 1776769750646,
-      "browserHash": "54d557724558bb5c9cd90183c38a7c8b216e32634c0a98107e77570c85f816b5",
-      "uaHash": "6021caf373acee537997faa2c1966941544367c06be3d3cc619c4c86a379e97d",
-      "ipHash": "15155c6e9c72803b634a72a0c699136ce2a2edd7d1416d22b6b15ab540df2a8a",
+      "browserHash": "",
+      "uaHash": "",
+      "ipHash": "",
       "identityHash": "006ef7d7a4160cbde15c3d11717fdcba36cad9f28d72c7649f4ef2394005e7a3",
-      "status": "started",
-      "verifiedAt": 0,
-      "claimedAt": 0,
-      "key": "",
-      "keyExpireAt": 0
+      "status": "claimed",
+      "verifiedAt": 1776769360336,
+      "claimedAt": 1776769360340,
+      "key": "ATH-96SK-P20Y",
+      "keyExpireAt": 1776855760340
     },
     "1a58c2c0995eebd083f9166f9d6592c7": {
       "id": "1a58c2c0995eebd083f9166f9d6592c7",
@@ -377,10 +349,23 @@
       "claimedAt": 0,
       "key": "",
       "keyExpireAt": 0
+    },
+    "0eeefae58e694934dbfe0a2c2d03ddb3": {
+      "id": "0eeefae58e694934dbfe0a2c2d03ddb3",
+      "createdAt": 1776769361720,
+      "expiresAt": 1776769961720,
+      "browserHash": "607d65cb71a54548f95ebbbbe299afab8bd85c10ffdb97b2f35074b0210ca0ed",
+      "uaHash": "ac303fb23585ffae1f566d113e587e009a504a83067dc9f159db8ec77fe06311",
+      "ipHash": "56206f0c5c1c73456ab8613bdae77e559774a639ca0a8e74a5c5f10af4dec94b",
+      "identityHash": "20d17d50a1d92cbec966e8210dc307983284e16eb86ce26367fa3df2ef1fcc01",
+      "status": "started",
+      "verifiedAt": 0,
+      "claimedAt": 0,
+      "key": "",
+      "keyExpireAt": 0
     }
   },
   "cooldowns": {
-    "b6f8869009408746aec57f2134f2c9b4d7914ac076f7dd4bf24ca284b0a8f6dc": 1776769345313,
     "d6a43adf7357e9afa81ca95dd00eb27653fae4477231e74f510cf7025814cbb8": 1776769667396,
     "b10c7bf1e41f814203aa11333398d7da4099b0e70519d77ea223bd49b97b312d": 1776769773267,
     "e6bfa028cff5e8a8d7a3ad8f72ee6afb895020268fe7ff723ae4f2afb0ce5222": 1776769842764,
@@ -888,6 +873,7 @@
     "8426d2f2bddffa5682fb9d55201178bb0944f7b983153f56a4746c93c86d02ad": 1776855589933,
     "8c5109631cd99aa717c63d7b21aa774fdc00df0738b1c312b6556fe8193a8f24": 1776855629421,
     "dbff49ea50510b9a23ece91c1d6ef1adaf0ac98149727e82da249ff702cd1dd5": 1776855687796,
-    "f4102cec5354c35101eb8d71cf8bdf56d4e0b9f910060e8292851f8ecc7aa6fa": 1776855716468
+    "f4102cec5354c35101eb8d71cf8bdf56d4e0b9f910060e8292851f8ecc7aa6fa": 1776855716468,
+    "006ef7d7a4160cbde15c3d11717fdcba36cad9f28d72c7649f4ef2394005e7a3": 1776855760340
   }
 }

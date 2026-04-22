@@ -1,19 +1,5 @@
 {
   "claims": {
-    "8159d37c10a1dd4ff2cd4ef7dbc1bddc": {
-      "id": "8159d37c10a1dd4ff2cd4ef7dbc1bddc",
-      "createdAt": 1776871595993,
-      "expiresAt": 1776872195993,
-      "browserHash": "",
-      "uaHash": "",
-      "ipHash": "",
-      "identityHash": "da5f4eb3f0a2ef175a899442c8394b8877ef7af6b12a82b026f53b8915d222b9",
-      "status": "claimed",
-      "verifiedAt": 1776871885997,
-      "claimedAt": 1776871886000,
-      "key": "ATH-AFM4-G954",
-      "keyExpireAt": 1776958286000
-    },
     "5f69b168ea712ba82f1380ccd77d4863": {
       "id": "5f69b168ea712ba82f1380ccd77d4863",
       "createdAt": 1776871798759,
@@ -28,20 +14,6 @@
       "key": "ATH-WIK7-2CHF",
       "keyExpireAt": 1776958352448
     },
-    "f538d3325f1ede0f7f863a55b1b6c3de": {
-      "id": "f538d3325f1ede0f7f863a55b1b6c3de",
-      "createdAt": 1776871871712,
-      "expiresAt": 1776872471712,
-      "browserHash": "e50539a66e38d992776d51a1eb9b0d22b1c34a114badc14be8bce6d3b5117544",
-      "uaHash": "28621d28c27f7070891d614c36caeb562d02e222e529e0306b457bd4064e9396",
-      "ipHash": "550000367f483234ec343541f9b059e82a97c4a9b15888f0dc9e251b560c38f6",
-      "identityHash": "65799063804f1f5c1291b413bbc941ec0b94befc58b7ce842c457f06082dc9d0",
-      "status": "started",
-      "verifiedAt": 0,
-      "claimedAt": 0,
-      "key": "",
-      "keyExpireAt": 0
-    },
     "b515f9ee754e120e464d905cd8002664": {
       "id": "b515f9ee754e120e464d905cd8002664",
       "createdAt": 1776871884741,
@@ -55,34 +27,6 @@
       "claimedAt": 1776872088886,
       "key": "ATH-DY7M-HRHY",
       "keyExpireAt": 1776958488886
-    },
-    "6c7cba68a5d47511488df32d8317b32a": {
-      "id": "6c7cba68a5d47511488df32d8317b32a",
-      "createdAt": 1776871886899,
-      "expiresAt": 1776872486899,
-      "browserHash": "86bb7024a224dafe2cf60533a9147591e0e71a8b5e0ac0040c06cc2fc7eece22",
-      "uaHash": "6f30af95c0c1e64381e7be2f578e679ed824ef9613cafed86a872ccd74850dda",
-      "ipHash": "4d1b5ec484603ffeb7e95594436bd60e88593fd5c00f11bdf465c0cabec7081e",
-      "identityHash": "0e617f515af13a8126922e6150fd1664a39a86bcf89318ef7d8467681eb7773e",
-      "status": "started",
-      "verifiedAt": 0,
-      "claimedAt": 0,
-      "key": "",
-      "keyExpireAt": 0
-    },
-    "31c8dd60aa9652125080a19c8bead08c": {
-      "id": "31c8dd60aa9652125080a19c8bead08c",
-      "createdAt": 1776871892341,
-      "expiresAt": 1776872492341,
-      "browserHash": "b9c0bbf4487a2ea26a790b3078ad688d943a8b1b2fcde89240637725b63746c9",
-      "uaHash": "7498aa31d9366bf29724cd91dff10289a2590a830cd98be701dc15397c6ee9d4",
-      "ipHash": "701c169015f0f6d45e269ef6b349e1a7c959da97992b40b58fa11b39095865a0",
-      "identityHash": "c80d2ddf310acc9b5c171777f0db56ee2c538a59aeccb62e096ca0fbd563d22d",
-      "status": "started",
-      "verifiedAt": 0,
-      "claimedAt": 0,
-      "key": "",
-      "keyExpireAt": 0
     },
     "4bf8a5f791ed26f334b1a1dfbaa3b97c": {
       "id": "4bf8a5f791ed26f334b1a1dfbaa3b97c",
@@ -335,10 +279,23 @@
       "claimedAt": 0,
       "key": "",
       "keyExpireAt": 0
+    },
+    "a84eaf261c60a555c8f14714a5e6ebec": {
+      "id": "a84eaf261c60a555c8f14714a5e6ebec",
+      "createdAt": 1776873103873,
+      "expiresAt": 1776873703873,
+      "browserHash": "ac95b40c2e3fe272c2ad215d076ef5bd24fdadbd43b0e166b02dec53e569d805",
+      "uaHash": "36709a46e19405c3706894c673dbb5b2b55893ebfc03ce488a370fab29ef487a",
+      "ipHash": "2a7accdc52db9f4f7fa75adce609f4c4117bb7e4955e392eae564916d38cf150",
+      "identityHash": "46d6dd3b36cf66baa414af49d3c77be1ad6a4dff3a081bee2ae17cbc0bb3eaa1",
+      "status": "started",
+      "verifiedAt": 0,
+      "claimedAt": 0,
+      "key": "",
+      "keyExpireAt": 0
     }
   },
   "cooldowns": {
-    "4203087e7890b9cbe46d3a331b430a089064968d6236845f37771044f933de46": 1776873098329,
     "9c1f6a101afc579974c1f01015f72c962868ed2523202dc496d4888a5e65fa74": 1776873237031,
     "0fffc310a50b29e5c8622ddf323f838a7729589ffc6fa896de0676fac7aa41d8": 1776873244107,
     "fee3d96cb8333ae15ca411379ac8397c07cca97d19e3e9e0a05b7b0ff56f6300": 1776873251490,

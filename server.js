@@ -2231,7 +2231,7 @@ function renderPanelHtml() {
               <div class="loginStatusItem"><span class="loginStatusTick">✓</span><span>Hoạt Động Ổn Định Mượt Mà Trên Adr Và iOS</span></div>
               <div class="loginStatusItem"><span class="loginStatusTick">✓</span><span>An Toàn Tài Khoản Game</span></div>
               <div class="loginStatusItem"><span class="loginStatusTick">✓</span><span>Tự Động Update</span></div>
-              <div class="loginStatusItem"><span class="loginStatusTick">✓</span><span>Lấy độ nhạy tham khảo all thiết bị</span></div>
+              <div class="loginStatusItem"><span class="loginStatusTick">✓</span><span>THÔNG BÁO : APP ĐANG UPDATE THÊM MỤC LẤY ĐỘ NHẠY , NÊN ANH EM CHƯA THỂ VÔ APP ĐƯỢC, 11H30 CÓ KEY MỚI Ở KÊNH TIKTOK , LÚC ĐÓ KHẢ NĂNG SẼ UPDATE XONG NHE !</span></div>
             </div>
             <div class="loginIntro">
               <div class="loginEyebrow">Premium Login</div>

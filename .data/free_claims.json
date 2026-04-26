@@ -1,33 +1,5 @@
 {
   "claims": {
-    "d0fd13da7757f93a0af8ec7ade8a3c0c": {
-      "id": "d0fd13da7757f93a0af8ec7ade8a3c0c",
-      "createdAt": 1777170172886,
-      "expiresAt": 1777170772886,
-      "browserHash": "",
-      "uaHash": "",
-      "ipHash": "",
-      "identityHash": "e8710fc2ecb11c43726c5818c5445e9b6cf5d63af856b5b5cbca81a1544a2ecc",
-      "status": "claimed",
-      "verifiedAt": 1777170376022,
-      "claimedAt": 1777170376025,
-      "key": "ATH-IRSP-KFWB",
-      "keyExpireAt": 1777256776025
-    },
-    "db73b12df83104e91dbf4e0b152b4cae": {
-      "id": "db73b12df83104e91dbf4e0b152b4cae",
-      "createdAt": 1777170241243,
-      "expiresAt": 1777170841243,
-      "browserHash": "",
-      "uaHash": "",
-      "ipHash": "",
-      "identityHash": "63cf712afdc76271f22af7912e0c844e6417d5511541d2b5206d749c671c1402",
-      "status": "claimed",
-      "verifiedAt": 1777170417734,
-      "claimedAt": 1777170417736,
-      "key": "ATH-MWK4-I2FB",
-      "keyExpireAt": 1777256817736
-    },
     "c26f017fe689b6ad27c4c84bc051d978": {
       "id": "c26f017fe689b6ad27c4c84bc051d978",
       "createdAt": 1777170324345,
@@ -559,10 +531,23 @@
       "claimedAt": 0,
       "key": "",
       "keyExpireAt": 0
+    },
+    "d76c6004f935faf1e4c4eaed445e119d": {
+      "id": "d76c6004f935faf1e4c4eaed445e119d",
+      "createdAt": 1777171625822,
+      "expiresAt": 1777172225822,
+      "browserHash": "baa87525d2dc4678b4363821c7e10c0e56a51d549c3d692c8776c21626fd3421",
+      "uaHash": "b5e025d98a48860416959df510207deb502857eb6d4792ae8986d8fb903fdf5a",
+      "ipHash": "a1dacddeecca3fa4ea7db3e01344988c8be6fc220aca443222d447d750f69fb6",
+      "identityHash": "3a0d4180054c21cf0c1546f87adc59048a18c49cd0a53ca0340825caf248fb27",
+      "status": "started",
+      "verifiedAt": 0,
+      "claimedAt": 0,
+      "key": "",
+      "keyExpireAt": 0
     }
   },
   "cooldowns": {
-    "7f2587beefa8c0156b95fa7d3293d738fad6dfd9bf2d084822037302f52f3d7a": 1777171611023,
     "21c0f833c5485ff5a2787f5f0ba89071856b2b56566d0813fe71aa2616ec223d": 1777171756114,
     "b3a3bfa8b1eab76384737b8452ca01e2ecfc9444a357f7592350f6df9776fcbf": 1777171821913,
     "abc5fa35dc80106ea315d8c4b43d9af028e9eb6bd851a8ce98774d2c62413f8c": 1777171891898,

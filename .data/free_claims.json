@@ -28,34 +28,6 @@
       "key": "ATH-GPON-ER7Y",
       "keyExpireAt": 1777284380016
     },
-    "fe7865bf32d0214884869dea57ac8035": {
-      "id": "fe7865bf32d0214884869dea57ac8035",
-      "createdAt": 1777197849457,
-      "expiresAt": 1777198449457,
-      "browserHash": "2e4b396a2fcf7b86227e40013d1f596b997a790f56dceaae3055f7472e09f118",
-      "uaHash": "28621d28c27f7070891d614c36caeb562d02e222e529e0306b457bd4064e9396",
-      "ipHash": "a4c3ad5a2390561225c7bde136bb090be1d51501d8e3e5e3d1942c8c32f20dfd",
-      "identityHash": "7bf831bd4bc4622fee519cbc1a078072527c29fea9046591ce0b01776c14d50c",
-      "status": "started",
-      "verifiedAt": 0,
-      "claimedAt": 0,
-      "key": "",
-      "keyExpireAt": 0
-    },
-    "3a4605250dc9dc0e47a536e01c9b35e5": {
-      "id": "3a4605250dc9dc0e47a536e01c9b35e5",
-      "createdAt": 1777197852679,
-      "expiresAt": 1777198452679,
-      "browserHash": "c472102d27daffaf47cfc6f7f5a224c7ee4514138877514615618a523378dbdd",
-      "uaHash": "16e4a40fb23e262c5367ce24541568b0c542432ccc4a18c75f7902ebc6d6e1d5",
-      "ipHash": "c4b0b50d47be6fd5b8c34dcc3cfd8b81e30cf8cb0581b09e17a5cf2d09f599cb",
-      "identityHash": "51dae27ed74bb52a75a6b5184ff52edb4a8508ff436600366277786312327cfa",
-      "status": "started",
-      "verifiedAt": 0,
-      "claimedAt": 0,
-      "key": "",
-      "keyExpireAt": 0
-    },
     "4902dcef59482dce52f427e03fea0488": {
       "id": "4902dcef59482dce52f427e03fea0488",
       "createdAt": 1777197871448,
@@ -270,15 +242,15 @@
       "id": "21b3b609e06623b01a96262ccf5f8373",
       "createdAt": 1777198793655,
       "expiresAt": 1777199393655,
-      "browserHash": "9c6e665f40ba30535c6db71dcc1d998ff5abeaaa2e9d677e11e8954bf189d7dd",
-      "uaHash": "5494b998cdf52bf09e20c9d7e3c76a372eff41fd0caaa2a254872e205ca1db53",
-      "ipHash": "527728b46a8ebc06905396a95e40d881aa1f46581e9f4b4442dbff4e8a41ce92",
+      "browserHash": "",
+      "uaHash": "",
+      "ipHash": "",
       "identityHash": "bf7cd002bbd34b8312eecc3a6d309dd628a017a724860cdc5e3c215ca030c1be",
-      "status": "started",
-      "verifiedAt": 0,
-      "claimedAt": 0,
-      "key": "",
-      "keyExpireAt": 0
+      "status": "claimed",
+      "verifiedAt": 1777199066946,
+      "claimedAt": 1777199066951,
+      "key": "ATH-VH0J-SUP0",
+      "keyExpireAt": 1777285466951
     },
     "57db8c9d8406605fb5fa075f94001a1f": {
       "id": "57db8c9d8406605fb5fa075f94001a1f",
@@ -352,7 +324,6 @@
     }
   },
   "cooldowns": {
-    "69f77806628ba76a514760180b189afa08d7dbbf296f92a8f5254b46155f4d54": 1777199049146,
     "47cebd33ec47a7c350fda4c6b02e49a17300cf5f52ffbd5580c2d1c48002029e": 1777199202811,
     "13aef820a420467e852e333165b618f177026b21c07df129dd9c979af23e17b9": 1777199222546,
     "526456412b3b422134e40e51cca2197caf992d6f44023ce292388b8668c2c9d5": 1777199381901,
@@ -1017,6 +988,7 @@
     "4022d8d6923526b1a47072b431d2d3abdc29f691a75c50b04ee094b1a2bcc2c2": 1777285340654,
     "251255fc73bffc1b46103e8abac549d9778bcb5ed6c4e005fa39947ff4edc6dc": 1777285360110,
     "0dcb0beb1421118efc0919c38edf4284eb44c6601cffbcbff036b5c0ea244a9b": 1777285418357,
-    "603aebebdbeb9edb8680a681ff8fdfdc159512c14354ab469acb7e8699e6b9dd": 1777285432093
+    "603aebebdbeb9edb8680a681ff8fdfdc159512c14354ab469acb7e8699e6b9dd": 1777285432093,
+    "bf7cd002bbd34b8312eecc3a6d309dd628a017a724860cdc5e3c215ca030c1be": 1777285466951
   }
 }

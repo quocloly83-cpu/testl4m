@@ -42,20 +42,6 @@
       "key": "ATH-CDID-9MT6",
       "keyExpireAt": 1777305954379
     },
-    "47db766dde2d9e90af4ea7835d7b24fd": {
-      "id": "47db766dde2d9e90af4ea7835d7b24fd",
-      "createdAt": 1777219477188,
-      "expiresAt": 1777220077188,
-      "browserHash": "91dd7faeacd685d852c0ebc31ad78e280b4c85f200ba744dcc113e08402686bb",
-      "uaHash": "04466d4e720b6728191b326ef50192fa3f433a71e4b10a2769b402b7c7d53bf3",
-      "ipHash": "8df5dd57f9bc42ebdbac912f0786ad00352fda863e2fb02e16c523616a22f096",
-      "identityHash": "d07fdd96fddc0ed0a42d0ce8759a6bf292641ce33ab585b23e8aede9be999d60",
-      "status": "started",
-      "verifiedAt": 0,
-      "claimedAt": 0,
-      "key": "",
-      "keyExpireAt": 0
-    },
     "5a5a808d3e533ab066dfee2c45a1c9fb": {
       "id": "5a5a808d3e533ab066dfee2c45a1c9fb",
       "createdAt": 1777219537588,
@@ -349,10 +335,23 @@
       "claimedAt": 0,
       "key": "",
       "keyExpireAt": 0
+    },
+    "6a05c092af7fb4a8e32c4f649db43c60": {
+      "id": "6a05c092af7fb4a8e32c4f649db43c60",
+      "createdAt": 1777220730467,
+      "expiresAt": 1777221330467,
+      "browserHash": "c9ddcd8586690450607bc58293ab5f8630e4ac296d2f393c6b50ba0c1f3f8e88",
+      "uaHash": "28621d28c27f7070891d614c36caeb562d02e222e529e0306b457bd4064e9396",
+      "ipHash": "73d03a6eac16bac5d0b2025dd9c7ba4cac60175c707cf7e50d83329173ffab5e",
+      "identityHash": "8de39fd6b3c7eca99d3bee7688725b9beb53e7cf6cbe88074cec518f8bd4ecb3",
+      "status": "started",
+      "verifiedAt": 0,
+      "claimedAt": 0,
+      "key": "",
+      "keyExpireAt": 0
     }
   },
   "cooldowns": {
-    "884309cdd8c7d059cd1ba73de7ecb6fafd0f6527ac964e975e0c18f66c85d14e": 1777220723515,
     "3651e5e363455c835fd3ae555b0ca98a33d9545e4c3887d822412a6aaf156e14": 1777220883951,
     "f8d446720be3c5ac9e143daf93a9ed6e30a70d242332dd98b19769dc667ac2df": 1777220970993,
     "6eafcb9734da02fb3f32d870cc009a9b2d4f16384974764005d483bc18d22a48": 1777221159632,

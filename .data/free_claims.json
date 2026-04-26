@@ -42,20 +42,6 @@
       "key": "ATH-5TOJ-SAS3",
       "keyExpireAt": 1777260410408
     },
-    "5d315e8496fefe8746e0a03106279f87": {
-      "id": "5d315e8496fefe8746e0a03106279f87",
-      "createdAt": 1777173961209,
-      "expiresAt": 1777174561209,
-      "browserHash": "85ab94fdae49f665087a58182c907ccde8aab40316249d42c9fb55976c884842",
-      "uaHash": "36709a46e19405c3706894c673dbb5b2b55893ebfc03ce488a370fab29ef487a",
-      "ipHash": "e6aa29f7e53aed6f3e019be2d3d7a0d954f6dfdef948054aaab2ffe642fe124c",
-      "identityHash": "83cf11862d8ab3a5f20aa220dbb3c78dac5988d37bacc55cc594e93b36f58763",
-      "status": "started",
-      "verifiedAt": 0,
-      "claimedAt": 0,
-      "key": "",
-      "keyExpireAt": 0
-    },
     "bca7343464a17cd0fba4cc637e04e64a": {
       "id": "bca7343464a17cd0fba4cc637e04e64a",
       "createdAt": 1777173968813,
@@ -69,34 +55,6 @@
       "claimedAt": 1777174200320,
       "key": "ATH-ERDH-T44P",
       "keyExpireAt": 1777260600320
-    },
-    "5be1f1d40036b32ee4a1d9ec0a12ad70": {
-      "id": "5be1f1d40036b32ee4a1d9ec0a12ad70",
-      "createdAt": 1777173973064,
-      "expiresAt": 1777174573064,
-      "browserHash": "74fa257733a0d5a0d828a9cbc46cbca9a6220dadaeb7f837de853ac4ae2cdf60",
-      "uaHash": "4987deb46b5409dbcc9d3ee75633a1ba0cdab11924a2e9af2bbaf8944db15222",
-      "ipHash": "7cac0226c11f6fb1987ec2eb334292676b2c663537b1088bfba55b39360012f7",
-      "identityHash": "857acf8b42003406793d55e4be52e5c60d0ada0ed64c3f053e12ab20c3b070ee",
-      "status": "started",
-      "verifiedAt": 0,
-      "claimedAt": 0,
-      "key": "",
-      "keyExpireAt": 0
-    },
-    "422160dbb291ed96eb76d237edf3fcf9": {
-      "id": "422160dbb291ed96eb76d237edf3fcf9",
-      "createdAt": 1777173982264,
-      "expiresAt": 1777174582264,
-      "browserHash": "36d9e6b9f64d3f15195ace8bf4a1dd78b98f8f6b56a9598c6b73dacccc6a01d3",
-      "uaHash": "28621d28c27f7070891d614c36caeb562d02e222e529e0306b457bd4064e9396",
-      "ipHash": "47464903f363efda083236e06d1601c5a4dff5fe83e7832a17d641533c28b78c",
-      "identityHash": "bb420fe18e92d451c57b1b8168463435b9665aee107607472469c9067308ff81",
-      "status": "started",
-      "verifiedAt": 0,
-      "claimedAt": 0,
-      "key": "",
-      "keyExpireAt": 0
     },
     "e651d6239a8a78c95dfccf4d8d223825": {
       "id": "e651d6239a8a78c95dfccf4d8d223825",
@@ -466,15 +424,15 @@
       "id": "6c5213a0ca79faa2201f3cfa97531994",
       "createdAt": 1777174992280,
       "expiresAt": 1777175592280,
-      "browserHash": "90f0eed9534f2fb37441d60c0189733c037fc8c55610898139d9321a0095183a",
-      "uaHash": "db56a892e267f91545c797f0730363185b52107fafb0ea223a055c2ccba9f47b",
-      "ipHash": "4769e96fad549ef33a8d659bfa20f5ab76561b4162f19745112d57708ae63475",
+      "browserHash": "",
+      "uaHash": "",
+      "ipHash": "",
       "identityHash": "7912e5ecc1d5c8b4015f93a86dc2f8e0a9d08ed00f41096df4484581310551f9",
-      "status": "started",
-      "verifiedAt": 0,
-      "claimedAt": 0,
-      "key": "",
-      "keyExpireAt": 0
+      "status": "claimed",
+      "verifiedAt": 1777175186759,
+      "claimedAt": 1777175186764,
+      "key": "ATH-NHI4-TGTT",
+      "keyExpireAt": 1777261586764
     },
     "ffad196370f796e3d57af98598c92b38": {
       "id": "ffad196370f796e3d57af98598c92b38",
@@ -506,8 +464,6 @@
     }
   },
   "cooldowns": {
-    "4e81d397f30de4877939e1ffc26de4e4e3f6a19aaa96cf10cf67e1ecc62dc735": 1777175149691,
-    "5c0032315ea0c03ab662f994fc76e88d9909e04bb4d4cda1089d1b9db3480476": 1777175164153,
     "88307636d7c4763f9c52c8ba2abefa9b71cd74c58d918ea7a6ac67f8808acad3": 1777175444439,
     "0d1bf7a93de9545acc93d0ae6328993b6e0d18f54e62812d3bc20e31316722ee": 1777175515625,
     "17c581e4481252579614ee2a67efdc615e09331c89104437c9ce259b199828a8": 1777175618961,
@@ -1181,6 +1137,7 @@
     "a55969fa7944d0f2a54d5ba7f483567ffe79283e831a99320f7b00da0b29cb68": 1777261253680,
     "630a4b6d6f11ccba8889336ab1e41492deb28228fc4f8fbc49e2623c1b4acc87": 1777261259675,
     "12f76249d9dff295ea063a935f046f09857f11d82e640fb7fb3f53dfba61a012": 1777261405306,
-    "11cc1d78332a2aa5937f20a384a6f96dabf231c1cd01afae8aefc90bf4246f17": 1777261544793
+    "11cc1d78332a2aa5937f20a384a6f96dabf231c1cd01afae8aefc90bf4246f17": 1777261544793,
+    "7912e5ecc1d5c8b4015f93a86dc2f8e0a9d08ed00f41096df4484581310551f9": 1777261586764
   }
 }

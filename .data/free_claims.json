@@ -1,33 +1,5 @@
 {
   "claims": {
-    "b87dcc629444d3628ff6f6793bee9db5": {
-      "id": "b87dcc629444d3628ff6f6793bee9db5",
-      "createdAt": 1777374753731,
-      "expiresAt": 1777375353731,
-      "browserHash": "",
-      "uaHash": "",
-      "ipHash": "",
-      "identityHash": "7972a269fdc9f5d564cf0d887c6169bd670704f4bcbdae048f610167a9610210",
-      "status": "claimed",
-      "verifiedAt": 1777374966999,
-      "claimedAt": 1777374967003,
-      "key": "ATH-1A28-3NO0",
-      "keyExpireAt": 1777461367003
-    },
-    "81ebcc55b21e419a4152a8663abe3cbd": {
-      "id": "81ebcc55b21e419a4152a8663abe3cbd",
-      "createdAt": 1777374874502,
-      "expiresAt": 1777375474502,
-      "browserHash": "",
-      "uaHash": "",
-      "ipHash": "",
-      "identityHash": "00915645e1dfa9c8cbfa56edb949df26cb91b8b814829e11cc51c5c6c9625be6",
-      "status": "claimed",
-      "verifiedAt": 1777375005549,
-      "claimedAt": 1777375005552,
-      "key": "ATH-FFZA-QCL3",
-      "keyExpireAt": 1777461405552
-    },
     "a99cd22ab2aa6528f6b842ecd6415a8d": {
       "id": "a99cd22ab2aa6528f6b842ecd6415a8d",
       "createdAt": 1777374897431,
@@ -447,10 +419,23 @@
       "claimedAt": 0,
       "key": "",
       "keyExpireAt": 0
+    },
+    "a7ab8e3a59673851c3ca1e1808cfd693": {
+      "id": "a7ab8e3a59673851c3ca1e1808cfd693",
+      "createdAt": 1777376212362,
+      "expiresAt": 1777376812362,
+      "browserHash": "b43b5e986b48e212e6aaba1960fa165b6521acea9b3349704b5f1d62b6b68810",
+      "uaHash": "11e58767f60fd379209779a8cfef01e61ceb9230f62d899fd19fa5753d905183",
+      "ipHash": "625afa9e9590e004a038db80ac4ea3a11dd9ab859141ed6f2fc921a54e1a1f89",
+      "identityHash": "686b895abd2a15ff004dd4a451943b8d6b9f8efe21f26fe3a5953a7634a44cbd",
+      "status": "started",
+      "verifiedAt": 0,
+      "claimedAt": 0,
+      "key": "",
+      "keyExpireAt": 0
     }
   },
   "cooldowns": {
-    "d185a7e4b7c3a4d3c0ec310371f67ac17d37eaa8014a0e7aeaf2ff43d0597a39": 1777376161539,
     "78a4f97917d0453ee87333a20d8cc43ae1e89b359bb8fbb7bba2c2fb77a471f7": 1777376471473,
     "17999141308d60f1cea43b950df744dfafc4c9617450abb25e2d774a220b29b1": 1777376548152,
     "95907caa6316c6bcca95e6a2cd0deaa4a868de81ca6fe06c8af003086947c231": 1777376645935,

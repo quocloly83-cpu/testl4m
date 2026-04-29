@@ -42,20 +42,6 @@
       "key": "ATH-UK5K-TLPK",
       "keyExpireAt": 1777528368803
     },
-    "017f658f7d6488bb7096e48fc4e928c5": {
-      "id": "017f658f7d6488bb7096e48fc4e928c5",
-      "createdAt": 1777441907438,
-      "expiresAt": 1777442507438,
-      "browserHash": "962e12a265d78e7a08c001449199b4d16b37129aa224c6e5c3503ec8eb0b7df0",
-      "uaHash": "69dcdd7bdfd1a799f9356ab3075e928a334d1a06facc023c5a209a2680cdb89c",
-      "ipHash": "1e4601e15efa5b0d657e5234f40d57b8db18193e18014574361ea8ff70af0222",
-      "identityHash": "07ed26bf06135a1dea932df988cc83dd67a9212473e96dc388ba4e8499a84682",
-      "status": "started",
-      "verifiedAt": 0,
-      "claimedAt": 0,
-      "key": "",
-      "keyExpireAt": 0
-    },
     "9c4017bc7291aeca4010d21d8df8b580": {
       "id": "9c4017bc7291aeca4010d21d8df8b580",
       "createdAt": 1777441912519,
@@ -158,10 +144,24 @@
       "id": "d197c729a05fe6f233d1eb7de1303170",
       "createdAt": 1777442932237,
       "expiresAt": 1777443532237,
-      "browserHash": "50d768762b8d2e135d41a6cda7923b7cd2484815a79a707151df6e015f9ffbf0",
-      "uaHash": "62339a609b6092e15ebbccfa5ef4ebf49dd62583c8784c205096dd25bdf97854",
-      "ipHash": "0e644998d7a5d3265dd52a9ef79e04f56b5e5e3a0ab02d915a393910264ce495",
+      "browserHash": "",
+      "uaHash": "",
+      "ipHash": "",
       "identityHash": "d4f5c0a56f6c48026b0aec07008882e87ef4e688f1d6b9454658c80869fff831",
+      "status": "claimed",
+      "verifiedAt": 1777443117129,
+      "claimedAt": 1777443117132,
+      "key": "ATH-4VGA-V1VZ",
+      "keyExpireAt": 1777529517132
+    },
+    "5ba50964d059abfceb5764bca20e58cb": {
+      "id": "5ba50964d059abfceb5764bca20e58cb",
+      "createdAt": 1777443117160,
+      "expiresAt": 1777443717160,
+      "browserHash": "69b8ea1a0553ca2abf325998e782f013ccd030f7080e709f0a96a0b75467f11d",
+      "uaHash": "1ec466ae8816b56f8cce1a86d782b5299a74c8d0d19b2f788b40358bcfb60e46",
+      "ipHash": "796bb5f5b242a39aa27de3795f8d8e852148cf5f49c8e49a42d7d9652c4f9a32",
+      "identityHash": "daf791d173886c38abea8bafd5cd2db1c0e15b3fe0fd7922dd4465a2d4b68275",
       "status": "started",
       "verifiedAt": 0,
       "claimedAt": 0,
@@ -563,6 +563,7 @@
     "9357b7d6b6570c79121fb628435a239dc8c4b527cfab1536f3a1ea867b655acb": 1777528385775,
     "bcfe40216e3545bcd6683eb9c4e262457042a1565d8c7cb613d3002220d5f3e5": 1777528436284,
     "0d973543e0e606175fc1c88b8f30bafcc9f2f8f0f73868283d2d6a39db8055ec": 1777528480720,
-    "f9a842877961d08f2cddd1ec810b0f96c0d613b9dda539c786987f169f90e5b7": 1777529175178
+    "f9a842877961d08f2cddd1ec810b0f96c0d613b9dda539c786987f169f90e5b7": 1777529175178,
+    "d4f5c0a56f6c48026b0aec07008882e87ef4e688f1d6b9454658c80869fff831": 1777529517132
   }
 }

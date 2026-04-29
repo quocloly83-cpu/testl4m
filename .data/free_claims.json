@@ -1,33 +1,5 @@
 {
   "claims": {
-    "1d953ffe9eb6a35a65a9dad70f92e6d7": {
-      "id": "1d953ffe9eb6a35a65a9dad70f92e6d7",
-      "createdAt": 1777422426733,
-      "expiresAt": 1777423026733,
-      "browserHash": "",
-      "uaHash": "",
-      "ipHash": "",
-      "identityHash": "5704259976c12a98ef7ac475def42dea8339f33544cff9399333e2e46511be8b",
-      "status": "claimed",
-      "verifiedAt": 1777422728160,
-      "claimedAt": 1777422728167,
-      "key": "ATH-42UC-NV9D",
-      "keyExpireAt": 1777509128167
-    },
-    "9e9e9ec5fb28bbf76c5257d604bd0e25": {
-      "id": "9e9e9ec5fb28bbf76c5257d604bd0e25",
-      "createdAt": 1777422536693,
-      "expiresAt": 1777423136693,
-      "browserHash": "",
-      "uaHash": "",
-      "ipHash": "",
-      "identityHash": "ace1570e20a08579fe12863ed33f5301980fa10b4918cd38d1ae2c6380787910",
-      "status": "claimed",
-      "verifiedAt": 1777422720455,
-      "claimedAt": 1777422720458,
-      "key": "ATH-ILKM-3KSE",
-      "keyExpireAt": 1777509120458
-    },
     "2db4bcf55c83f1e3bdada9bc4a767cdb": {
       "id": "2db4bcf55c83f1e3bdada9bc4a767cdb",
       "createdAt": 1777423241386,
@@ -97,10 +69,23 @@
       "claimedAt": 0,
       "key": "",
       "keyExpireAt": 0
+    },
+    "c733e39b92a6e42f3be9605e776455a5": {
+      "id": "c733e39b92a6e42f3be9605e776455a5",
+      "createdAt": 1777423951730,
+      "expiresAt": 1777424551730,
+      "browserHash": "b288d64d6c3a9cdd80988a5f925c90d22ad977ca5580b93c0b296c7a0f89a8c5",
+      "uaHash": "d97f9366c38c5f3175a2e985a2456e638fd8f4716667b8e07ca5a8e10cbc8409",
+      "ipHash": "1862ff2f0cb030824bc35938a078fc15567473703c18b9a6cc39bd65ccc03b02",
+      "identityHash": "b5eb9cf170b3c1d568e7b43a3943ddd53c1b73b3a43af83b75a55ecf229b675e",
+      "status": "started",
+      "verifiedAt": 0,
+      "claimedAt": 0,
+      "key": "",
+      "keyExpireAt": 0
     }
   },
   "cooldowns": {
-    "875ec40116866e82d0546bfe50a625f2c7cc05345b705855e12c882d776de26e": 1777423944579,
     "893c958e24b9639f602220cee4013c1990efe16c45c7fd6700ece2290e296c56": 1777424633922,
     "33cfebfa9a7768a89500c5b78adea5411fb6732d21a62522416d1618b8db893d": 1777424681433,
     "85a6418adae54c7eb6a3c146c69cea07654cdcde9ebf4af195581f273945e04f": 1777425622391,

@@ -1,19 +1,5 @@
 {
   "claims": {
-    "b311d9656c3e48758f416b6592e192e7": {
-      "id": "b311d9656c3e48758f416b6592e192e7",
-      "createdAt": 1777434579190,
-      "expiresAt": 1777435179190,
-      "browserHash": "da5e6906014933b1b2b1af72c20daa0b831d01554d9b748cb54a30a390e02203",
-      "uaHash": "aa9807785fa8e9e9dcbd0c55192ed182369aa85e40aef3cfc81d2ab65efb59a6",
-      "ipHash": "1d85f83d9e93031bf663f5ebb84ece0c8d8b1c288e514f0bd47ada516c938676",
-      "identityHash": "3233f999926b9e2bb9185c94ba84bd9cd2c6957c09de04c2f3db96e03cf872a5",
-      "status": "started",
-      "verifiedAt": 0,
-      "claimedAt": 0,
-      "key": "",
-      "keyExpireAt": 0
-    },
     "9725d28aeb9882b54df0a3f4be2b6a7e": {
       "id": "9725d28aeb9882b54df0a3f4be2b6a7e",
       "createdAt": 1777434669693,
@@ -181,12 +167,23 @@
       "claimedAt": 0,
       "key": "",
       "keyExpireAt": 0
+    },
+    "50dd88e936a7c14ab36f4aabd97f02b4": {
+      "id": "50dd88e936a7c14ab36f4aabd97f02b4",
+      "createdAt": 1777435823055,
+      "expiresAt": 1777436423055,
+      "browserHash": "05ffc4e7d959c6174bd45e5493af94660d3c6b1aa56b6017791dc0e65b38fa2e",
+      "uaHash": "4dd7af46d38e786d77ee792f4680495036d6c706b6c32f50ed2c10bda18ab53f",
+      "ipHash": "b72b0aeecbae3d9a1a3a92ff8fc69f290286aa8d4f1f07f9b3b5e50d0188f717",
+      "identityHash": "61afe1fa9053dc406cdb4406ccecc62b9a3adceaaa482599e4868e546777544f",
+      "status": "started",
+      "verifiedAt": 0,
+      "claimedAt": 0,
+      "key": "",
+      "keyExpireAt": 0
     }
   },
   "cooldowns": {
-    "611a707fe5dc2e77287a677b82607ddbadacdb603019d2d0dad0ff6c6cb3bdf9": 1777435768942,
-    "a497985789aff790e0e0b77100296955645d0df5c8dfd0d47ad80c39a66fe60c": 1777435779808,
-    "58608a693a1be4f107d07fe136f09c0fae84890424bb4ced4907865302808da3": 1777435792133,
     "f40049587005f8825d63780859fc33abf4b21327ad6b387f08ae245366e20b84": 1777436061841,
     "c029a751e877dc6109f1c6083ebf8ce5ea719aa4a03f846894725f6bc0a215a9": 1777436289993,
     "193e80a28245c7363e3b99d2952bf7a0f0f8f3fe276eedb01f1456bc8097225c": 1777436349064,

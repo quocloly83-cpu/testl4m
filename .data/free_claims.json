@@ -1,33 +1,5 @@
 {
   "claims": {
-    "f5b27defcda06076cbdffc02cc1199b5": {
-      "id": "f5b27defcda06076cbdffc02cc1199b5",
-      "createdAt": 1777509642963,
-      "expiresAt": 1777510242963,
-      "browserHash": "89dc6a2c8a16996cf3ec3abd95f058926de2ee17923e7f5c4b26e009e7586ecc",
-      "uaHash": "bfc956248cedae7501ed572f1b155e998b8cb49e82be1a15e80cb96c2fd6241c",
-      "ipHash": "e6e5c2154b90700a26c7242aaec1ce55d0d40b6efeae981893ef3604a1c695c0",
-      "identityHash": "d505c335530aa68f208bd9c34c6abffc2d71133bef1b6182eb8a4428da62a62a",
-      "status": "started",
-      "verifiedAt": 0,
-      "claimedAt": 0,
-      "key": "",
-      "keyExpireAt": 0
-    },
-    "7305538de1d0b3c09cb7b934e41a43cc": {
-      "id": "7305538de1d0b3c09cb7b934e41a43cc",
-      "createdAt": 1777509691027,
-      "expiresAt": 1777510291027,
-      "browserHash": "d463d42d64f720cb92534a36c9574f2e25fcd38bed8fef9953ea99a8c4d62975",
-      "uaHash": "449596ebe43a4ecc12a9b33a6824fe2dd09c46c4903ace9b6dc8dc10ea56c6ff",
-      "ipHash": "c5c87c027c2f2f9351bae0c5cb73bdad0ccddb448dedfb679ef10c98eab6f592",
-      "identityHash": "5f587b2095607ab2af31f7bf8bc85af5485b33193755a1748408d12866a93919",
-      "status": "started",
-      "verifiedAt": 0,
-      "claimedAt": 0,
-      "key": "",
-      "keyExpireAt": 0
-    },
     "8f0f871a8e153de4c2cd45e9fe87d791": {
       "id": "8f0f871a8e153de4c2cd45e9fe87d791",
       "createdAt": 1777509703848,
@@ -41,20 +13,6 @@
       "claimedAt": 1777509880002,
       "key": "ATH-26SH-G22W",
       "keyExpireAt": 1777596280002
-    },
-    "271cdf37aba3bb5795c36a95320ab38e": {
-      "id": "271cdf37aba3bb5795c36a95320ab38e",
-      "createdAt": 1777509717847,
-      "expiresAt": 1777510317847,
-      "browserHash": "c3210cee654d33d06f00efae6b7cb7d37afaf6a3c26ecbb51b5596447459c04b",
-      "uaHash": "aa9807785fa8e9e9dcbd0c55192ed182369aa85e40aef3cfc81d2ab65efb59a6",
-      "ipHash": "7a855ac877920601143d22dd9806271b8f29b59c30736a54f5d0dbf06de52e93",
-      "identityHash": "35bb54d15af872eec621dd2d7df09b1c1e87bcebb77123be2de2b864cf32bab2",
-      "status": "started",
-      "verifiedAt": 0,
-      "claimedAt": 0,
-      "key": "",
-      "keyExpireAt": 0
     },
     "5a90d67517698b74b71d536322c30b92": {
       "id": "5a90d67517698b74b71d536322c30b92",
@@ -144,15 +102,15 @@
       "id": "248c72a1b7fcd47db3b8426d80c4bb21",
       "createdAt": 1777510835357,
       "expiresAt": 1777511435357,
-      "browserHash": "89d0529793fb0fac1d27f93f2219e4257133268f19bf4b48e1e97117e56102f4",
-      "uaHash": "6ff26ba1134aa991e9b56472cad5ebda1872c8a72da6facfb17b40751c174b0f",
-      "ipHash": "559fff3c5b19cbe73660968fb95aac5eb91dea3b143da649de1f1e28b808c5f2",
+      "browserHash": "",
+      "uaHash": "",
+      "ipHash": "",
       "identityHash": "caddbf2b32e55739ea9b775bab891fc373626a66a01110b478efd4baeb628575",
-      "status": "started",
-      "verifiedAt": 0,
-      "claimedAt": 0,
-      "key": "",
-      "keyExpireAt": 0
+      "status": "claimed",
+      "verifiedAt": 1777510974360,
+      "claimedAt": 1777510974362,
+      "key": "ATH-HZ60-RX93",
+      "keyExpireAt": 1777597374362
     }
   },
   "cooldowns": {
@@ -534,6 +492,7 @@
     "8cf3cc15b75f4055845a2ecd62a58dfd268a9495727f17b6639efddc6fd74e7a": 1777596666582,
     "4cf7a0517216e69b08105d0d914382873fb7693b0ac6cc4a43b0dbad5cf9d0b5": 1777596825940,
     "b4beedbfc31108bf52ab628cc705017d7ca27bfaea0079b6614e2c17888f1a61": 1777596892899,
-    "7f039a8071d305463eb3c6e8d101945d817f5eba47dbac50cce880aa462f6079": 1777596966806
+    "7f039a8071d305463eb3c6e8d101945d817f5eba47dbac50cce880aa462f6079": 1777596966806,
+    "caddbf2b32e55739ea9b775bab891fc373626a66a01110b478efd4baeb628575": 1777597374362
   }
 }

@@ -42,20 +42,6 @@
       "key": "ATH-6XRS-CR18",
       "keyExpireAt": 1777624534255
     },
-    "031879cb3faf0db88db46e7c7476d4b7": {
-      "id": "031879cb3faf0db88db46e7c7476d4b7",
-      "createdAt": 1777538086806,
-      "expiresAt": 1777538686806,
-      "browserHash": "722494e5961c4b1f2f5dee7fd2aec5c3a3b43cea26b925f078b089009c5c375e",
-      "uaHash": "50fe7a7cdd71b44453ee7186c3a6b94a2b7b3345b303eab7855d129e820132d9",
-      "ipHash": "4cb2912a4dfddb13e36564c17ddfa44b4fd0cd6439e22a9f528987bf78fe8f8d",
-      "identityHash": "1186aac493578cf38845508bea2640f24d1b7b57c3fdca8432bd4e85aadf9b48",
-      "status": "started",
-      "verifiedAt": 0,
-      "claimedAt": 0,
-      "key": "",
-      "keyExpireAt": 0
-    },
     "5a12a37a7905933e4871facdb68b112d": {
       "id": "5a12a37a7905933e4871facdb68b112d",
       "createdAt": 1777538202245,
@@ -377,10 +363,23 @@
       "claimedAt": 0,
       "key": "",
       "keyExpireAt": 0
+    },
+    "a71a87bf600ef598e10e4c49ad87b3a1": {
+      "id": "a71a87bf600ef598e10e4c49ad87b3a1",
+      "createdAt": 1777539297129,
+      "expiresAt": 1777539897129,
+      "browserHash": "53ba1b0640d29f498290c7dc9cb36f59e4f429b855e24dc0dc507e813f707b34",
+      "uaHash": "eaea5b8652312a2fd6c6cac3c33c7fe40d47863f10bea645aff7526ab19e0cff",
+      "ipHash": "001a91b48769d831cc8044c85f2543b9f0c5a58174db6ec57807abd7b3cc8b85",
+      "identityHash": "cca824759696806ad6a6120db757dccca8b9d7df09136f4bc87684777fd7d684",
+      "status": "started",
+      "verifiedAt": 0,
+      "claimedAt": 0,
+      "key": "",
+      "keyExpireAt": 0
     }
   },
   "cooldowns": {
-    "f6e9c516b250bf07739dbd4cde2a6a2fdd4e7a62d9c66508f37abaddd12a5d5f": 1777539287323,
     "8653cd564761e064e3c3c3ecb5b091a753acbf7a764058790cd69275ffe657bc": 1777539322130,
     "d40ab126751995d3ef2560fc012eaaf7619613b8af07e50fe2999bdcebffc697": 1777539398903,
     "4e65e843c2f356518fcfa795a5f204a3c615ba018bfaaa3747c4ed68feab3abd": 1777539900612,

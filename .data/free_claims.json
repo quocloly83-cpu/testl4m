@@ -1,19 +1,5 @@
 {
   "claims": {
-    "b7c97321e0c3ccca789d3ebcd8addfc8": {
-      "id": "b7c97321e0c3ccca789d3ebcd8addfc8",
-      "createdAt": 1777799735298,
-      "expiresAt": 1777800335298,
-      "browserHash": "",
-      "uaHash": "",
-      "ipHash": "",
-      "identityHash": "92315195c4836517f1b31ee91ecb376f0823e6cf50603e33f4ec2a36b383f83d",
-      "status": "claimed",
-      "verifiedAt": 1777800035270,
-      "claimedAt": 1777800035272,
-      "key": "ATH-XVCS-1FHF",
-      "keyExpireAt": 1777886435272
-    },
     "1a420d3854ee9dbaba56b7adaee21c5f": {
       "id": "1a420d3854ee9dbaba56b7adaee21c5f",
       "createdAt": 1777799869049,
@@ -83,20 +69,6 @@
       "claimedAt": 1777800295764,
       "key": "ATH-O41A-X18Y",
       "keyExpireAt": 1777886695764
-    },
-    "6302c7f3a93d2a3bccb8f69a95470d48": {
-      "id": "6302c7f3a93d2a3bccb8f69a95470d48",
-      "createdAt": 1777800047660,
-      "expiresAt": 1777800647660,
-      "browserHash": "3b98f004e58f699594e6b4d31852898130dbff44631f53d7512e7f76b0a6ac8a",
-      "uaHash": "0a5c3842a79b116bf14ba059f60f65a466092f66e2cbc90e131efe9191cd64ae",
-      "ipHash": "da3b64ef61e058a96353d2da5ef6cc0b63f3dc0b30ac6c5dc7e6b8e6c0b40330",
-      "identityHash": "15db02e268c10a509e5795221d3cd2848fed356b7b080f4c2f09986ebee18970",
-      "status": "started",
-      "verifiedAt": 0,
-      "claimedAt": 0,
-      "key": "",
-      "keyExpireAt": 0
     },
     "728e02142c03d6bc561064df9371a46c": {
       "id": "728e02142c03d6bc561064df9371a46c",
@@ -508,15 +480,15 @@
       "id": "7975ec889f482d9e217b0059db055e15",
       "createdAt": 1777801021854,
       "expiresAt": 1777801621854,
-      "browserHash": "9506a64a11e964bf8012e13899f16ffcccbc3561d0655cd89657819d6aea3053",
-      "uaHash": "aa9807785fa8e9e9dcbd0c55192ed182369aa85e40aef3cfc81d2ab65efb59a6",
-      "ipHash": "f7df31839d4881d35012e5828c66d586ebdb0ebe2d429b80cb3eb37eaac73a5d",
+      "browserHash": "",
+      "uaHash": "",
+      "ipHash": "",
       "identityHash": "095d11b8517cf195706e52e6673965dc9ee1a2b7ac6a7f38c9163e167893f5f8",
-      "status": "started",
-      "verifiedAt": 0,
-      "claimedAt": 0,
-      "key": "",
-      "keyExpireAt": 0
+      "status": "claimed",
+      "verifiedAt": 1777801266791,
+      "claimedAt": 1777801266795,
+      "key": "ATH-R0NW-KNOC",
+      "keyExpireAt": 1777887666795
     },
     "2a3a1125b30cb57609b444de7bac0fd1": {
       "id": "2a3a1125b30cb57609b444de7bac0fd1",
@@ -643,10 +615,23 @@
       "claimedAt": 0,
       "key": "",
       "keyExpireAt": 0
+    },
+    "31edac7ee69be4c89ee25bb521cd7541": {
+      "id": "31edac7ee69be4c89ee25bb521cd7541",
+      "createdAt": 1777801269373,
+      "expiresAt": 1777801869373,
+      "browserHash": "fd25fcae842896497e66ed8235ae9b4728a107348ebff29d9f297923a753389c",
+      "uaHash": "40eaeed115c336cf037ef7761cd0c6b38dfc7e85c4ba6cfe529572bc31037d63",
+      "ipHash": "a865e4e8d747002aed8523d965177b03357a40151d2a2a896fda5440ce644db0",
+      "identityHash": "c0ef784c3f971b0df0db13190741568e4d21bdae5d1d0f177447fee4139426a0",
+      "status": "started",
+      "verifiedAt": 0,
+      "claimedAt": 0,
+      "key": "",
+      "keyExpireAt": 0
     }
   },
   "cooldowns": {
-    "37c746d00fa440687e7b59e8fda99980b25409bd92be160bd9141807f50e31e8": 1777801265422,
     "cc337c41773b8159956876196553d27c732ad6a8b1673e66562cd508df88a5b1": 1777801344464,
     "b8c964aaafe3ff80a54a3cf9c1be30e4e70b226434ccad6ab7c617b1778924ee": 1777801423514,
     "ded30818509ad88d84cb4dbc09739a03f3ffcebce62883698765e1c3ed1e737e": 1777801537564,
@@ -1302,6 +1287,7 @@
     "af94f50075468ac4f5ac8a1c1618d12d6d4c765401e777366e6138cffd57da6e": 1777887531425,
     "3028100d2de162f0e831ce47b5b2695c5247a30f28f1c53761d5e1429f17fc81": 1777887554834,
     "98103f145f9d795c839a795f11a33f174d11a029d25bce150485ac0ef476aab6": 1777887566569,
-    "4441b8afb679df7ca121e43b7f269b48cc2e5b0d8909b03612847ef11afe2034": 1777887615963
+    "4441b8afb679df7ca121e43b7f269b48cc2e5b0d8909b03612847ef11afe2034": 1777887615963,
+    "095d11b8517cf195706e52e6673965dc9ee1a2b7ac6a7f38c9163e167893f5f8": 1777887666795
   }
 }

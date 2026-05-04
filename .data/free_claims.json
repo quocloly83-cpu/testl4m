@@ -1,19 +1,5 @@
 {
   "claims": {
-    "576359abccd5417de3790dd06d91b94c": {
-      "id": "576359abccd5417de3790dd06d91b94c",
-      "createdAt": 1777874465481,
-      "expiresAt": 1777875065481,
-      "browserHash": "",
-      "uaHash": "",
-      "ipHash": "",
-      "identityHash": "b59cc669282b326839642945b26c22ccf650af00ff57097edab56bb1d87886b5",
-      "status": "claimed",
-      "verifiedAt": 1777874708786,
-      "claimedAt": 1777874708789,
-      "key": "ATH-J20B-VAXO",
-      "keyExpireAt": 1777961108789
-    },
     "be33cccba4c123a76b734716d35d7880": {
       "id": "be33cccba4c123a76b734716d35d7880",
       "createdAt": 1777874546775,
@@ -489,10 +475,23 @@
       "claimedAt": 0,
       "key": "",
       "keyExpireAt": 0
+    },
+    "15e3e0d2b8bf60889ef4fd6d22e593fb": {
+      "id": "15e3e0d2b8bf60889ef4fd6d22e593fb",
+      "createdAt": 1777875925287,
+      "expiresAt": 1777876525287,
+      "browserHash": "032a0b5fa5a0b12307fc284601cc9ec5252c91914e0f70107628533b297e48e0",
+      "uaHash": "eaea5b8652312a2fd6c6cac3c33c7fe40d47863f10bea645aff7526ab19e0cff",
+      "ipHash": "1cff03e25fb6448b117273f27085ee4ddcaf7f9036811de10b947d4e7a776fce",
+      "identityHash": "6d53ce99946f0c3c9fcce6ef5b68d43168e4b77357bd1b4a6cfdae86b968b0e5",
+      "status": "started",
+      "verifiedAt": 0,
+      "claimedAt": 0,
+      "key": "",
+      "keyExpireAt": 0
     }
   },
   "cooldowns": {
-    "cec4f3b9d43b1f95bc0206d0a9eb51331a1d517864c294fb2e6fd4b368104529": 1777875905197,
     "6b3cd1a03ca23e7ff5168157aa87d6c30df7b75db26cd0c91bc4e0c1d358bfc1": 1777876123564,
     "2bcd78a2a2c506e9f8b310876ceb1bb1cf1b95f08332d406c05d8ffd2d8c4c8f": 1777876183979,
     "9e00fce5229fa1587a30b0bf5ef0790a0d44242ae7c7ce77172c466f3b060b67": 1777876477354,

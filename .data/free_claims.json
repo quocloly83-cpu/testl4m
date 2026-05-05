@@ -1,75 +1,5 @@
 {
   "claims": {
-    "7f93ba55b3d89b5c9bde20f843705733": {
-      "id": "7f93ba55b3d89b5c9bde20f843705733",
-      "createdAt": 1777939799373,
-      "expiresAt": 1777940399373,
-      "browserHash": "",
-      "uaHash": "",
-      "ipHash": "",
-      "identityHash": "3a144e7266d730eb7268eacae6d4d15df9745a260490eaf5fc9a3e1075acd856",
-      "status": "claimed",
-      "verifiedAt": 1777940188532,
-      "claimedAt": 1777940188534,
-      "key": "ATH-G8H2-B6WF",
-      "keyExpireAt": 1778026588534
-    },
-    "30e2f4cb0617344aa0a6fc39bab300c4": {
-      "id": "30e2f4cb0617344aa0a6fc39bab300c4",
-      "createdAt": 1777939800697,
-      "expiresAt": 1777940400697,
-      "browserHash": "",
-      "uaHash": "",
-      "ipHash": "",
-      "identityHash": "faf78b9b1e9ff6a3b7c5310e2a1858cbee089086f1693ce6da92bf9f118da4bb",
-      "status": "claimed",
-      "verifiedAt": 1777940043199,
-      "claimedAt": 1777940043205,
-      "key": "ATH-B7AL-F55Y",
-      "keyExpireAt": 1778026443205
-    },
-    "60ffc930473f66a92d7a65814f67c4ca": {
-      "id": "60ffc930473f66a92d7a65814f67c4ca",
-      "createdAt": 1777940011662,
-      "expiresAt": 1777940611662,
-      "browserHash": "",
-      "uaHash": "",
-      "ipHash": "",
-      "identityHash": "8ad81dcd461d839bc35864c7f34d0a297fcd587b861ce2e3a0d42df93d2eea69",
-      "status": "claimed",
-      "verifiedAt": 1777940219273,
-      "claimedAt": 1777940219275,
-      "key": "ATH-HXE8-78GW",
-      "keyExpireAt": 1778026619275
-    },
-    "c9189cb30efbcae28e12e5348f0cc308": {
-      "id": "c9189cb30efbcae28e12e5348f0cc308",
-      "createdAt": 1777940120433,
-      "expiresAt": 1777940720433,
-      "browserHash": "3f98bb0728f1f9d5ed9ae8edea844b09f2e0c529856f210982dfb5de97ae6fdd",
-      "uaHash": "2cd83c5f9097ca44df00992e5ef42ebf9e03bf99c3bec6752a86fe01f7ad117b",
-      "ipHash": "d11569109fa138b22ce019d04818844f19d57b031667e5f1d7bda6e022accced",
-      "identityHash": "050065db91972daadd34318fb487a7ae760c88e6d7ab1666ad210c68adcb2e43",
-      "status": "started",
-      "verifiedAt": 0,
-      "claimedAt": 0,
-      "key": "",
-      "keyExpireAt": 0
-    },
-    "958c257f3ccb3930881d578c914cc678": {
-      "id": "958c257f3ccb3930881d578c914cc678",
-      "createdAt": 1777940235258,
-      "expiresAt": 1777940835258,
-      "browserHash": "80fedc1a17c05ad3a8b9700b8af30a905dfacea5f1f2f18fed0aaebd5619ffb3",
-      "uaHash": "aa9807785fa8e9e9dcbd0c55192ed182369aa85e40aef3cfc81d2ab65efb59a6",
-      "ipHash": "d11569109fa138b22ce019d04818844f19d57b031667e5f1d7bda6e022accced",
-      "identityHash": "f35172cff672619f133d5db9ed8e6575e49ef4a66af7ee94580900d0b27a4769",
-      "status": "started",
-      "verifiedAt": 0,
-      "claimedAt": 0,
-      "key": "",
-      "keyExpireAt": 0
-    },
     "880074f2b8ab3acbac7f2412055b7785": {
       "id": "880074f2b8ab3acbac7f2412055b7785",
       "createdAt": 1777940715586,
@@ -97,11 +27,23 @@
       "claimedAt": 0,
       "key": "",
       "keyExpireAt": 0
+    },
+    "47a853f6af71f6a3b984525e63631b0d": {
+      "id": "47a853f6af71f6a3b984525e63631b0d",
+      "createdAt": 1777941603472,
+      "expiresAt": 1777942203472,
+      "browserHash": "98a566cd317858f65dfb3c1713ba85ec7f3bf3f0a4f156d6517b0ef19352ca6b",
+      "uaHash": "f29f9e571c3dac0b132022298bcb90073b5c709095b17b643efda117bec6bbe3",
+      "ipHash": "50943b16eb74fb1131e114785f83bccc7b4e2a48476fac953f5d89c260d7b4e1",
+      "identityHash": "cc3ff8581a6e6bf3ade88a87dffdedfc5c6617f984eb302bd19a7cdf81635798",
+      "status": "started",
+      "verifiedAt": 0,
+      "claimedAt": 0,
+      "key": "",
+      "keyExpireAt": 0
     }
   },
   "cooldowns": {
-    "a7aa808adc92c874a302d4afb5789851808443f27a7edf69c8dbce6e1824fc4a": 1777941288252,
-    "159aa53149608adfee80ad475464bdec644cbc0daeaea32f9c647d3bad996957": 1777941483720,
     "7387a17fe437df20d8880c5a423f279b5a74a0a8801a9c799f1acb08c98a84e9": 1777941790940,
     "644f7bfa0fa57caab1f455eb6d96b7d51924f5bbe41545af00c1255fce41e62a": 1777941971141,
     "5d1116b9234b4ec441646eb726b5fbd6cd3cc57533121c46455e9bac44ccdf25": 1777942166185,

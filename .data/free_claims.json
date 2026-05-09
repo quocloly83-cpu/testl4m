@@ -1,19 +1,5 @@
 {
   "claims": {
-    "d9f9b29ad0aedcd2782eee925da11a97": {
-      "id": "d9f9b29ad0aedcd2782eee925da11a97",
-      "createdAt": 1778300045667,
-      "expiresAt": 1778300645667,
-      "browserHash": "",
-      "uaHash": "",
-      "ipHash": "",
-      "identityHash": "948d0deb6421816b117d50e9fb1c5b7e640ca52cd95a29c33cac7d3d9c6c0447",
-      "status": "claimed",
-      "verifiedAt": 1778300280766,
-      "claimedAt": 1778300280769,
-      "key": "ATH-O7RG-58TV",
-      "keyExpireAt": 1778386680769
-    },
     "2e442467f480f0827e06cc4c76d28f26": {
       "id": "2e442467f480f0827e06cc4c76d28f26",
       "createdAt": 1778300212896,
@@ -27,20 +13,6 @@
       "claimedAt": 1778300429513,
       "key": "ATH-UA8H-906D",
       "keyExpireAt": 1778386829513
-    },
-    "a99b46a2525b961309c503e9e782d27c": {
-      "id": "a99b46a2525b961309c503e9e782d27c",
-      "createdAt": 1778300224493,
-      "expiresAt": 1778300824493,
-      "browserHash": "",
-      "uaHash": "",
-      "ipHash": "",
-      "identityHash": "2b5045229619883f11acf82cc870f3fd4b40971605f6dcba47d03c4551e8ae2a",
-      "status": "claimed",
-      "verifiedAt": 1778300360805,
-      "claimedAt": 1778300360809,
-      "key": "ATH-TP6C-O2DK",
-      "keyExpireAt": 1778386760809
     },
     "605c697e437d5ec02e906105a672826d": {
       "id": "605c697e437d5ec02e906105a672826d",
@@ -405,10 +377,23 @@
       "claimedAt": 0,
       "key": "",
       "keyExpireAt": 0
+    },
+    "ffe0139bb86fc192a3ec439548ba64f2": {
+      "id": "ffe0139bb86fc192a3ec439548ba64f2",
+      "createdAt": 1778301564643,
+      "expiresAt": 1778302164643,
+      "browserHash": "3dcc3bad2fe84071aae1ab3fcc4eed4ced4d645c42f10aea9776df295311f836",
+      "uaHash": "2670f1b56f7e52b98c6d065f3291537ffe55adb4f8d72bc36090c5ad573dfb28",
+      "ipHash": "86f678b797987800086452c9fb11d609cc71f0510d9576076dd5828ac2a55f62",
+      "identityHash": "02c29fbdfd0afab87567a14c98aaf919c4e925db3722718e021726fd49a1805a",
+      "status": "started",
+      "verifiedAt": 0,
+      "claimedAt": 0,
+      "key": "",
+      "keyExpireAt": 0
     }
   },
   "cooldowns": {
-    "15781fa89c80d3c89bd55de496182ef09e4ce02335e96cf8cd56775ae069219b": 1778301537362,
     "6326289cac37cabab9b67ae3d0aac5652be0026ad3d720cbbeb54cf67ae85e51": 1778301692326,
     "d638b5bc41c270f39a70b679b1f43b92bce902aad69e186d7343ec663021e881": 1778301908565,
     "91f6c75aea528114966a076b3e5ad4c3b539b884b8d56d33e3819371f0dd303b": 1778301913370,

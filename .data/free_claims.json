@@ -1,33 +1,5 @@
 {
   "claims": {
-    "fd551b8b8d6bce70bc3fcbb2a151e4f9": {
-      "id": "fd551b8b8d6bce70bc3fcbb2a151e4f9",
-      "createdAt": 1778434190038,
-      "expiresAt": 1778434790038,
-      "browserHash": "",
-      "uaHash": "",
-      "ipHash": "",
-      "identityHash": "70e96949c267b4f51a82c6f479c56127f3d0f6fa7e98eb21a01def679a5c1e78",
-      "status": "claimed",
-      "verifiedAt": 1778434465709,
-      "claimedAt": 1778434465715,
-      "key": "ATH-34IW-YYEH",
-      "keyExpireAt": 1778520865715
-    },
-    "1fadd0bb36ed352882bff2db1c15d7bb": {
-      "id": "1fadd0bb36ed352882bff2db1c15d7bb",
-      "createdAt": 1778434294404,
-      "expiresAt": 1778434894404,
-      "browserHash": "",
-      "uaHash": "",
-      "ipHash": "",
-      "identityHash": "33778144690387a25684ca9e90ef9181237564174285dc8f34ef6f1d2df549ed",
-      "status": "claimed",
-      "verifiedAt": 1778434478675,
-      "claimedAt": 1778434478683,
-      "key": "ATH-CP7V-SL67",
-      "keyExpireAt": 1778520878683
-    },
     "8d85478c849fabfa5591e7876b25e85c": {
       "id": "8d85478c849fabfa5591e7876b25e85c",
       "createdAt": 1778434842621,
@@ -125,10 +97,23 @@
       "claimedAt": 1778435534753,
       "key": "ATH-BRKQ-91QW",
       "keyExpireAt": 1778521934753
+    },
+    "ce46353403e40892c9af756e9a34f927": {
+      "id": "ce46353403e40892c9af756e9a34f927",
+      "createdAt": 1778435832607,
+      "expiresAt": 1778436432607,
+      "browserHash": "f29ef01909bde4338ef1734ac3177603be9530bed41340e61e22ba24b80edacd",
+      "uaHash": "e9a379f7b35f153b6d9469bacc29816fdd112d03838e242a7d3999641d3e2dfd",
+      "ipHash": "0f9c50ef29b4e4b7634b4cb80ddc17954aa249d7ef0639d6084cde70f8be4594",
+      "identityHash": "d6e8e81c2076229c2de21b674591bc9fdba7f59af818be51787b66d797800e93",
+      "status": "started",
+      "verifiedAt": 0,
+      "claimedAt": 0,
+      "key": "",
+      "keyExpireAt": 0
     }
   },
   "cooldowns": {
-    "4bfc33f3980bc50ed4744daaa61709edfd9a26efe9506f42480a808b50aab40d": 1778435692895,
     "6995356b2320ffed51e6e7a3297efe72230336bc6ecc91ad259c93e5708d06a7": 1778436887818,
     "b71fbb570bc0a4f1da0f2248e200113b4021eb105adb5d2c20fde8ae70672adf": 1778436896967,
     "7d404b6dda65bb9c39e85686a1071bea3fa4b8eec70cf106a4f025e94d37fafd": 1778437090558,

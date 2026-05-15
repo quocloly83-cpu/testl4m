@@ -1,19 +1,5 @@
 {
   "claims": {
-    "0152ee4ac9ce72060ced8fc8c2190d51": {
-      "id": "0152ee4ac9ce72060ced8fc8c2190d51",
-      "createdAt": 1778822331681,
-      "expiresAt": 1778822931681,
-      "browserHash": "",
-      "uaHash": "",
-      "ipHash": "",
-      "identityHash": "fed2adff5d73e6a3b48dafb7aa9880dd00c1b199e96596c7c341bd218f07b744",
-      "status": "claimed",
-      "verifiedAt": 1778822839591,
-      "claimedAt": 1778822839598,
-      "key": "ATH-PSK7-OTLI",
-      "keyExpireAt": 1778909239598
-    },
     "a0510e3cd3252e48bb74fe1a6614d16d": {
       "id": "a0510e3cd3252e48bb74fe1a6614d16d",
       "createdAt": 1778822700432,
@@ -83,20 +69,6 @@
       "claimedAt": 1778822986671,
       "key": "ATH-DDC4-SO1G",
       "keyExpireAt": 1778909386671
-    },
-    "32b425a8cc52ecf08486f4faba1abc48": {
-      "id": "32b425a8cc52ecf08486f4faba1abc48",
-      "createdAt": 1778822848893,
-      "expiresAt": 1778823448893,
-      "browserHash": "5576fa33ebc2b8a085095a163c860b75b7a8163b5b677e58c752fb2a2b6ead87",
-      "uaHash": "96dd7121664e1aec54698b3515365c3eefe580325af4128d2ffb5661dff0714c",
-      "ipHash": "cf253345eecd512fed15f45643189708ced2b00afaf917ea50ce3620a1c76ed4",
-      "identityHash": "b8c4e3ed190485a5bce650edc9a8250cfd0cd9adfae26038472b96f63ec73478",
-      "status": "started",
-      "verifiedAt": 0,
-      "claimedAt": 0,
-      "key": "",
-      "keyExpireAt": 0
     },
     "6de35c532317b6bf0331ec7835e7cfc8": {
       "id": "6de35c532317b6bf0331ec7835e7cfc8",
@@ -573,10 +545,23 @@
       "claimedAt": 0,
       "key": "",
       "keyExpireAt": 0
+    },
+    "ae2f888b47f7aabb59f9f27b0273e305": {
+      "id": "ae2f888b47f7aabb59f9f27b0273e305",
+      "createdAt": 1778824067565,
+      "expiresAt": 1778824667565,
+      "browserHash": "0d4fafe54edbf3b334f36a73bc384fd19604a51341beaf6fab2a9fa84f3ab248",
+      "uaHash": "ef78bc17265d32e6c02d6cc23189e096909db7f5084bb8d0fe20ac7585d8c803",
+      "ipHash": "e3cce77a99375f45ff5607266576f5375b93128840ef8324706c4a1079064796",
+      "identityHash": "fcf88387a2dd27930bd137d2a2d13e0e71e8caa52ff97e72c58487bc1f39c1bb",
+      "status": "started",
+      "verifiedAt": 0,
+      "claimedAt": 0,
+      "key": "",
+      "keyExpireAt": 0
     }
   },
   "cooldowns": {
-    "5da8dd58dc9092ffd10e29221e6d3d340c47e30e14e4ad02c3e31f1dd0f371bd": 1778824046439,
     "c04aabc277794f46ec4dcc870213bfe90e917affd5f44b17265cbb58d0849ba8": 1778824074971,
     "852c59bf1b441fb7aea5b8d7ad29d6af3bd119ae0db78f1ff491cb10a454903f": 1778824094274,
     "58f1c4a62cd78c9e6a2141f345f15eef56bf7a86efbe8aa0a7b627598f6130f9": 1778824199456,

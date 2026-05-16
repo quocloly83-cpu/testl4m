@@ -70,34 +70,6 @@
       "key": "ATH-Z3U4-AU90",
       "keyExpireAt": 1779019143010
     },
-    "3fff609bc8129a6e51ce368451ca7741": {
-      "id": "3fff609bc8129a6e51ce368451ca7741",
-      "createdAt": 1778932545450,
-      "expiresAt": 1778933145450,
-      "browserHash": "ee331e8d7dd764b257713332932d2ce649c53ae350a0c0b9423c8253f1618fa3",
-      "uaHash": "ef78bc17265d32e6c02d6cc23189e096909db7f5084bb8d0fe20ac7585d8c803",
-      "ipHash": "12c7862e0c4af5970244cdded233d4a31df7622a0dee554d5b83b717948a9341",
-      "identityHash": "db6d20f4a191745a94e9da1adbb493cd878a140408439c104de5ad5f4f9a28d1",
-      "status": "started",
-      "verifiedAt": 0,
-      "claimedAt": 0,
-      "key": "",
-      "keyExpireAt": 0
-    },
-    "3762715596002521c6fc2167d980ddb5": {
-      "id": "3762715596002521c6fc2167d980ddb5",
-      "createdAt": 1778932551001,
-      "expiresAt": 1778933151001,
-      "browserHash": "ce188b3509a395fc1a3aded6e2b6b37995fe4c99d60d652a1c8c0564af5d3499",
-      "uaHash": "3af5c4c5ffe6dd5ed1bea23c9a3177ec3329fd0a68015019960ccb616be70394",
-      "ipHash": "0ec328ea858a2d4000973c009e5d8b51052d53a451f01a9356ad2802486be237",
-      "identityHash": "7b64e21540b6f2c17ea743cd6ac65bfa9c6ef015e258b96686814b94cd8d8c75",
-      "status": "started",
-      "verifiedAt": 0,
-      "claimedAt": 0,
-      "key": "",
-      "keyExpireAt": 0
-    },
     "e64da047185be4bfe43f62bd7912edac": {
       "id": "e64da047185be4bfe43f62bd7912edac",
       "createdAt": 1778932559444,
@@ -1054,15 +1026,15 @@
       "id": "3672fec2fa30b836057016eea6f2c61e",
       "createdAt": 1778933618684,
       "expiresAt": 1778934218684,
-      "browserHash": "f811d92f859cde26c1c66f75967f4509a5a079cc300f0b09c50f24f522df3e92",
-      "uaHash": "e71139a63875ba62d325252f470d2ffc799eff1eb492f0c325b55261481e6692",
-      "ipHash": "005c1808d1a61a86308d366f31a00a0f7e2feeb433d9739122348fde19e37cc7",
+      "browserHash": "",
+      "uaHash": "",
+      "ipHash": "",
       "identityHash": "05bec0de2ce90f04de1f9eda07eb167de54e06e3975b78e7ad9fe76d3706e201",
-      "status": "started",
-      "verifiedAt": 0,
-      "claimedAt": 0,
-      "key": "",
-      "keyExpireAt": 0
+      "status": "claimed",
+      "verifiedAt": 1778933758574,
+      "claimedAt": 1778933758582,
+      "key": "ATH-P8IQ-J8MN",
+      "keyExpireAt": 1779020158582
     },
     "6b1f02f7c4cdde7698a4202c99782bcb": {
       "id": "6b1f02f7c4cdde7698a4202c99782bcb",
@@ -1105,10 +1077,23 @@
       "claimedAt": 0,
       "key": "",
       "keyExpireAt": 0
+    },
+    "ccba306089f07ce70934f8b7fddba56c": {
+      "id": "ccba306089f07ce70934f8b7fddba56c",
+      "createdAt": 1778933761819,
+      "expiresAt": 1778934361819,
+      "browserHash": "d5902c90c93b640539f4ba3dbab67250cfd85d84376c81542425100798fada92",
+      "uaHash": "f0b90787e630fd9802330edce4b7e23842f57f0f922216c5cf3199ca064e00a0",
+      "ipHash": "2ab3b1413dca1dd835778eb29bdd62b4648dd778ae9fd35a8dfb01751bb403e3",
+      "identityHash": "a5d8f2f9619467be02b6f6f6599e161aa30ec43f70f983b70e9c6ebed414357b",
+      "status": "started",
+      "verifiedAt": 0,
+      "claimedAt": 0,
+      "key": "",
+      "keyExpireAt": 0
     }
   },
   "cooldowns": {
-    "165a4d744dd5090cce83fbe29d7a7ca93bcc7c4b0a9ec16f00d7fae35436e4c7": 1778933755708,
     "b09c33819ca9b8772555763f41d3192e9e32fb881eeb4914665198cfc99c3200": 1778933775878,
     "54c3a687901fb8c5142b98c975b5f5ab73f425f43a4f571544cee50db6d1b01b": 1778933786193,
     "69441db5445f157aff7a72347dd03f46107632a6020192147016fb925f545eaa": 1778933813785,
@@ -1961,6 +1946,7 @@
     "ea96c0d45ed9c7b78827ff38ca38323f77ba83760688b2efd7fc0f42e5e51e7e": 1779020051046,
     "16f7ab07a5ec97188acfc2a288ea3f9b0677cc9295f11f7495a87b6b13f2ccc4": 1779020061510,
     "602e91d8efdfca161e7da57bb96f55e5bb611c5f972ab675216ddeb1c05c18db": 1779020075747,
-    "63ec53cf1f40737d25b482b2321ae973361c33e56c542f216fafcf288586f1af": 1779020099323
+    "63ec53cf1f40737d25b482b2321ae973361c33e56c542f216fafcf288586f1af": 1779020099323,
+    "05bec0de2ce90f04de1f9eda07eb167de54e06e3975b78e7ad9fe76d3706e201": 1779020158582
   }
 }

@@ -1,19 +1,5 @@
 {
   "claims": {
-    "cb7d10c9188121504ffcc341b66c0bf0": {
-      "id": "cb7d10c9188121504ffcc341b66c0bf0",
-      "createdAt": 1778934668979,
-      "expiresAt": 1778935268979,
-      "browserHash": "",
-      "uaHash": "",
-      "ipHash": "",
-      "identityHash": "32222604223e838099e85b2ea76ea7a5c68cb17e3edf16b38db2f69a4c541292",
-      "status": "claimed",
-      "verifiedAt": 1778934944981,
-      "claimedAt": 1778934944990,
-      "key": "ATH-7AEX-6J90",
-      "keyExpireAt": 1779021344990
-    },
     "37032b6c11de7d28275128c31a54a7e8": {
       "id": "37032b6c11de7d28275128c31a54a7e8",
       "createdAt": 1778934747299,
@@ -111,20 +97,6 @@
       "claimedAt": 1778935116879,
       "key": "ATH-MGL0-8231",
       "keyExpireAt": 1779021516879
-    },
-    "bcf31ced9cc868d33719b00b2c50ccc9": {
-      "id": "bcf31ced9cc868d33719b00b2c50ccc9",
-      "createdAt": 1778934955447,
-      "expiresAt": 1778935555447,
-      "browserHash": "2fafcc64faa0c269346842028d68ad6d3287fbf93ea43d784adb7390a273599c",
-      "uaHash": "ef78bc17265d32e6c02d6cc23189e096909db7f5084bb8d0fe20ac7585d8c803",
-      "ipHash": "fc4d9ea1553defafc004d8b172b47166b376127f506511224476489a02b3cdcf",
-      "identityHash": "215a2d9b12c6a26b507dc0097248a78f9879ab38d6baaf276053722c6c341ac8",
-      "status": "started",
-      "verifiedAt": 0,
-      "claimedAt": 0,
-      "key": "",
-      "keyExpireAt": 0
     },
     "e4c446ad160d802169f6331f3a480e41": {
       "id": "e4c446ad160d802169f6331f3a480e41",
@@ -984,15 +956,15 @@
       "id": "d97901afc87d2df551bee7adce799d27",
       "createdAt": 1778936005582,
       "expiresAt": 1778936605582,
-      "browserHash": "6eaa317717df65ce8471ea1fca94e3d928458f6a7502d1fca2561f0a3179db14",
-      "uaHash": "5e6ad430987b551861191416f9eaab81e4393f6ecac26d35fd09c5cffbace7a0",
-      "ipHash": "1144e781b2bbfd8c74dbd8e5d449da13dd71446064918df0cfee61b3e5ffa213",
+      "browserHash": "",
+      "uaHash": "",
+      "ipHash": "",
       "identityHash": "4d132183308b53f4618ae6c340ac2c1fcf9bec76e4f41e2f2b5376f3f64af22d",
-      "status": "started",
-      "verifiedAt": 0,
-      "claimedAt": 0,
-      "key": "",
-      "keyExpireAt": 0
+      "status": "claimed",
+      "verifiedAt": 1778936153404,
+      "claimedAt": 1778936153408,
+      "key": "ATH-5ZS5-S5OV",
+      "keyExpireAt": 1779022553408
     },
     "c368dedefe9ffa7ac565ea4e63f20082": {
       "id": "c368dedefe9ffa7ac565ea4e63f20082",
@@ -1133,10 +1105,23 @@
       "claimedAt": 0,
       "key": "",
       "keyExpireAt": 0
+    },
+    "ac6e93548f388e95243182fe1ecba959": {
+      "id": "ac6e93548f388e95243182fe1ecba959",
+      "createdAt": 1778936155679,
+      "expiresAt": 1778936755679,
+      "browserHash": "ea5aec6065df8cd8edae28de9359778584e6f8d0093a4ddccce342d832b5b186",
+      "uaHash": "0bfb9d4667ff5a63135adc76720569f402b0f6e8c20cb8e64cc107aaba953f3f",
+      "ipHash": "aff8d5080dd6a143cf23533ddd0f83168621191ecf15ac13f9fdd38a8ab1752d",
+      "identityHash": "40fe7149d77d8e1d2fe5ed2bc0f3cec533be1219a27fe22919abca38ab912143",
+      "status": "started",
+      "verifiedAt": 0,
+      "claimedAt": 0,
+      "key": "",
+      "keyExpireAt": 0
     }
   },
   "cooldowns": {
-    "56131560130719670cf03994cc0e55cae55a493f63e1d3148cc92b6dedf1ba39": 1778936156950,
     "23a881d0594da6083c13ca3b817a4b98025fd04971934fb79f5e48c14e352b50": 1778936173991,
     "3b1656e61b053282b85763d9b3d07e6e4f3b4c8b3795fb0dc4d18055b3de7b51": 1778936229011,
     "35f80cff9b5815b3ab48cb28c37285b250d904d1227ec7b96df04bf8d68d1e5f": 1778936261889,
@@ -1999,6 +1984,7 @@
     "5a9b87adfa5beca620977e27f29d23afafa0de4285c470cf133c471f5d43c3ac": 1779022397165,
     "780bbfb9aac8e946a276b742ad11cd2a544cdc70c8f2bd4f7ba9abf081fa7b66": 1779022411063,
     "05f502f0c89a13ce257da290a5533b4c622a850886dee41df0eb31ffccb5b4dd": 1779022438436,
-    "d34d7510e6ad0470a1e70ec68ad8937074dba37de0a167409d1eafa571f8752c": 1779022532550
+    "d34d7510e6ad0470a1e70ec68ad8937074dba37de0a167409d1eafa571f8752c": 1779022532550,
+    "4d132183308b53f4618ae6c340ac2c1fcf9bec76e4f41e2f2b5376f3f64af22d": 1779022553408
   }
 }

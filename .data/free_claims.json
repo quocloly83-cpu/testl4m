@@ -1,19 +1,5 @@
 {
   "claims": {
-    "d6ca05e357d9ddb6e929aa66b0e288c7": {
-      "id": "d6ca05e357d9ddb6e929aa66b0e288c7",
-      "createdAt": 1779098037087,
-      "expiresAt": 1779098637087,
-      "browserHash": "",
-      "uaHash": "",
-      "ipHash": "",
-      "identityHash": "0854578fe2276b56ef69e980350d9b0161af7ab09c61ea850f5f4d0000d86c19",
-      "status": "claimed",
-      "verifiedAt": 1779098235103,
-      "claimedAt": 1779098235106,
-      "key": "ATH-UJU0-WAMS",
-      "keyExpireAt": 1779184635106
-    },
     "8e3d22c09d69b33df3692272c4e62698": {
       "id": "8e3d22c09d69b33df3692272c4e62698",
       "createdAt": 1779098118466,
@@ -55,20 +41,6 @@
       "claimedAt": 1779098427303,
       "key": "ATH-E9W6-T51V",
       "keyExpireAt": 1779184827303
-    },
-    "8fa86929e23c17d2030906dcb8bb890e": {
-      "id": "8fa86929e23c17d2030906dcb8bb890e",
-      "createdAt": 1779098244597,
-      "expiresAt": 1779098844597,
-      "browserHash": "52b962aaf5e2646f807e600d3d4ad30b90289a660a20543fdc0b0e9675ecf620",
-      "uaHash": "1ff8e46019241686c2e467b5505ada6f8b31aaa68c27f87dc1c83cc8d0811172",
-      "ipHash": "56a6a279f5ff02985d19a3dbfa3af8699d9d3c90c158abc25627c27df1600306",
-      "identityHash": "6f1b81c014737ecf01aaa39590f9516ccb54ef1a3b178ff3c174cd3cb9072cb0",
-      "status": "started",
-      "verifiedAt": 0,
-      "claimedAt": 0,
-      "key": "",
-      "keyExpireAt": 0
     },
     "a659d475d463b2dd30c88b6e7840c482": {
       "id": "a659d475d463b2dd30c88b6e7840c482",
@@ -606,15 +578,15 @@
       "id": "049d734a2e848b5dafb54dd005330726",
       "createdAt": 1779099292550,
       "expiresAt": 1779099892550,
-      "browserHash": "fc6ae94e9905beacaedc0ff3e642e0a166738f1ecc7baa2c7600bf9c253bdc98",
-      "uaHash": "e97887180ce58770004b06c8a8b7fbdf647d5aadee30f7814e858e5ed4ff0e1a",
-      "ipHash": "d7a13a077c3a4a7aa8976a7bd0852d6c0a3a5e5a0eb18fe81cbe0460ce8fe3fd",
+      "browserHash": "",
+      "uaHash": "",
+      "ipHash": "",
       "identityHash": "e50d14b80c2a5d35e174577b7bcb33d879828dd6a23b4fdc9cfb950f3ac81c7e",
-      "status": "started",
-      "verifiedAt": 0,
-      "claimedAt": 0,
-      "key": "",
-      "keyExpireAt": 0
+      "status": "claimed",
+      "verifiedAt": 1779099451918,
+      "claimedAt": 1779099451931,
+      "key": "ATH-S3XF-XRH8",
+      "keyExpireAt": 1779185851931
     },
     "0337e775deb98221f7d96f35d58cac1c": {
       "id": "0337e775deb98221f7d96f35d58cac1c",
@@ -713,10 +685,23 @@
       "claimedAt": 0,
       "key": "",
       "keyExpireAt": 0
+    },
+    "38d08ca714fc36361f703724ea32147f": {
+      "id": "38d08ca714fc36361f703724ea32147f",
+      "createdAt": 1779099454132,
+      "expiresAt": 1779100054132,
+      "browserHash": "391457d630a24800c38a27a54ff7f8352b0841e6fb79583258289281536a9798",
+      "uaHash": "c39367934bc7a333d0d2c4d10605aa27d4b7d224ff76d925ee060eea35816a97",
+      "ipHash": "33b1de1946d52c11412cdde99bacd4c6c460586d05065df39eb08a2bf56e298b",
+      "identityHash": "06ae04c649ba6bfc410c4a257c00393436187de0cfad034137c96a9fdd79edd4",
+      "status": "started",
+      "verifiedAt": 0,
+      "claimedAt": 0,
+      "key": "",
+      "keyExpireAt": 0
     }
   },
   "cooldowns": {
-    "32bc8adda93997a49f27faba44197c6e00b8c28adb2d52fcbfacb079437af10d": 1779099444677,
     "feec0ed578eafa7e923b757c7d47492404f82791b650c17c949dad58e9ef6d58": 1779099535803,
     "fc49a222cdcedcba1912fd74be23c87839ed3f76ce858dce0fd15f245d507ae9": 1779099608322,
     "5ff5a3df51151bcb19a50355394f196b6fc58c95ad2cf369c3e27cecb35d0003": 1779099882535,
@@ -1616,6 +1601,7 @@
     "12dec59fc7358a12f7f9de52661c39451f486922e518f7076bc08b560ff9192d": 1779185459578,
     "6390f7f09567846053bdc9bf479a425e5f263cebcac74fd56b6e8bac310642a3": 1779185535877,
     "432b04cfbdf2b7bd35ffc002700f6d89197337814fa64276685f31d251cb2dc9": 1779185550936,
-    "b134a787430cfb8b76debd39302ee69e06262f75cfe8a026f473b5d2588436ac": 1779185633076
+    "b134a787430cfb8b76debd39302ee69e06262f75cfe8a026f473b5d2588436ac": 1779185633076,
+    "e50d14b80c2a5d35e174577b7bcb33d879828dd6a23b4fdc9cfb950f3ac81c7e": 1779185851931
   }
 }

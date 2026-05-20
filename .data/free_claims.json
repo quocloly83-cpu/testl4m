@@ -56,20 +56,6 @@
       "key": "ATH-JESC-WAW5",
       "keyExpireAt": 1779332189627
     },
-    "8d8f7d435a92c50701a5b6cf65fd7d55": {
-      "id": "8d8f7d435a92c50701a5b6cf65fd7d55",
-      "createdAt": 1779245643607,
-      "expiresAt": 1779246243607,
-      "browserHash": "2c5b9350126ce2eead12028940ab19f0b43ee4715855b7de5b4ac8c7b714959a",
-      "uaHash": "9f0fab6e7e8ad225069f2d4c9d1cb6bab0147a8688c9a9bd3be508ef6e0b3249",
-      "ipHash": "3dec39e4681dfe8af4d2a5673393659c174799ff81c0d5ba05382dc6996b641c",
-      "identityHash": "e3da4e723ec5eb17052621e05dc4eaff0deb1f376425b768ea52df5debf3db94",
-      "status": "started",
-      "verifiedAt": 0,
-      "claimedAt": 0,
-      "key": "",
-      "keyExpireAt": 0
-    },
     "98dcd4e2244ada1a7eaa74319c897a56": {
       "id": "98dcd4e2244ada1a7eaa74319c897a56",
       "createdAt": 1779245681243,
@@ -545,10 +531,23 @@
       "claimedAt": 0,
       "key": "",
       "keyExpireAt": 0
+    },
+    "d7bea02912d8327e596ded6ab2a61de5": {
+      "id": "d7bea02912d8327e596ded6ab2a61de5",
+      "createdAt": 1779246863403,
+      "expiresAt": 1779247463403,
+      "browserHash": "bdf0a238e4413cd14a7d6fde68b3fdb9ee78b2100c29b662eed25307344ec771",
+      "uaHash": "43699089c4cbfbe3feab235c6fb62abf2322e6a3ab132431bb39fe2f309ee98c",
+      "ipHash": "98e9a3e535ff26027b989cfd55eced878593d6c746e63646aea1b2bc96df3a69",
+      "identityHash": "71e01e406261d8f3f0a05cecf2c50fd194c2821417cf7f67c3a94f63daa69c61",
+      "status": "started",
+      "verifiedAt": 0,
+      "claimedAt": 0,
+      "key": "",
+      "keyExpireAt": 0
     }
   },
   "cooldowns": {
-    "26c35f929bd74f368c4773a2c5184d71a95c55f5de2db947baef9d61b53188b9": 1779246844410,
     "8a190c8f9132aa94fac477a430b973cab7ef77cbab044ad3b878973125eee8bc": 1779246923430,
     "2f72ab08c517afc9e6b307cbd8969a666476215c7c6175749383534161727ca6": 1779246940831,
     "7f895f463aeeb8e81d839a686dfd884a11cfc48016689e644a2eea1be3a79b71": 1779247004706,

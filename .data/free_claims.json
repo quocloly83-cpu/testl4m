@@ -42,20 +42,6 @@
       "key": "ATH-HRC8-9XIV",
       "keyExpireAt": 1779541617083
     },
-    "06ea25d449e5a63464730ede85776a0d": {
-      "id": "06ea25d449e5a63464730ede85776a0d",
-      "createdAt": 1779455145600,
-      "expiresAt": 1779455745600,
-      "browserHash": "3367b3d92ecde6f8508bc5674e0e0ea277b58f77d86225dac92c7dd17f96c6a4",
-      "uaHash": "41f3e9e8b0f0a47af2d611ab3f0006b7e61b41bcfb9e4f0ef292fbab71bc1d8e",
-      "ipHash": "271f12a64ffae680885d986a1b8734da0c27f4c33aa1841a71c74301b3c744f4",
-      "identityHash": "a8769673570f583e1df7b35a4906a8a81344e49c18a758194d9054daec10d5d5",
-      "status": "started",
-      "verifiedAt": 0,
-      "claimedAt": 0,
-      "key": "",
-      "keyExpireAt": 0
-    },
     "80d89478f5020317f2214915aec2ad54": {
       "id": "80d89478f5020317f2214915aec2ad54",
       "createdAt": 1779455146570,
@@ -881,10 +867,23 @@
       "claimedAt": 0,
       "key": "",
       "keyExpireAt": 0
+    },
+    "521c7de3109edf162e89eaa13d8456d8": {
+      "id": "521c7de3109edf162e89eaa13d8456d8",
+      "createdAt": 1779456357752,
+      "expiresAt": 1779456957752,
+      "browserHash": "63fd62680a7ba215604c863a61640cd2f49e9c799f50eed8afdb1e81beaf9b56",
+      "uaHash": "d84e942950de2b93644836b7c61977321e139bd06e9d482ef8e048a4d03f6f3f",
+      "ipHash": "9a3d8506a6871907b48fac65314fdeec8dfc2b630fc2c418a31624d64e03d785",
+      "identityHash": "2483dc4a66a1006e1754e60dc00f29ff7bdf26f7d3a522dcee77b719acb3d5fc",
+      "status": "started",
+      "verifiedAt": 0,
+      "claimedAt": 0,
+      "key": "",
+      "keyExpireAt": 0
     }
   },
   "cooldowns": {
-    "1ad662f815a58adab496f8d6aa2dac1fcf247ae7cadfcff2c905407e72929698": 1779456350778,
     "7d5f1af4488445abcc819fbb7cce1d4b955b82ed8d408f1f46d4be1b6d20f098": 1779456361870,
     "22a51148908a72bf8102ea4d925b8f392615a1abbdda1d68a8542238b7ee23be": 1779456365858,
     "973844f1c46273eccf0a2935dd2d1a0087bf465669e20eb1cf840d5f3b662750": 1779456396967,

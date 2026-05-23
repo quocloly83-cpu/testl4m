@@ -28,20 +28,6 @@
       "key": "ATH-55NP-98VH",
       "keyExpireAt": 1779582018607
     },
-    "0b8b07fe86efe66fe06e495421f1be6a": {
-      "id": "0b8b07fe86efe66fe06e495421f1be6a",
-      "createdAt": 1779495556753,
-      "expiresAt": 1779496156753,
-      "browserHash": "4c5591696095a2a735965cf61dcdef2a8b77a86d8f9accad0a5fdadd67923bfa",
-      "uaHash": "b1306c3fdd08186c4e2539538bf022683f9c7675ac43d64d5245686393b88880",
-      "ipHash": "f3bfe236981477e0386a61eba487a9f4ce6e69887bbe96e2092653b3d3eee5a6",
-      "identityHash": "71b6af2000439568b3c0dc68fa0a1fdfd0fbd3a04f5e4a390ad42549550ed09a",
-      "status": "started",
-      "verifiedAt": 0,
-      "claimedAt": 0,
-      "key": "",
-      "keyExpireAt": 0
-    },
     "42b9f0e78c394d8205a82777f2ef1d3b": {
       "id": "42b9f0e78c394d8205a82777f2ef1d3b",
       "createdAt": 1779495592344,
@@ -419,10 +405,23 @@
       "claimedAt": 0,
       "key": "",
       "keyExpireAt": 0
+    },
+    "844b6cbd8a09a0459d6bddb9e594fd87": {
+      "id": "844b6cbd8a09a0459d6bddb9e594fd87",
+      "createdAt": 1779496762826,
+      "expiresAt": 1779497362826,
+      "browserHash": "ca64fefa6f67dd08711197e63ddab511f1255341d0330d9caf439bbf1702613e",
+      "uaHash": "4149e3bcb0ed2efa630ceb33780fc6151e71628eb07d0d29f7650dcca62c38aa",
+      "ipHash": "bda4f63cfba57c6a2c96d7194c3c5e8329ada2dbcc05b35499aff05e067fdb7c",
+      "identityHash": "4ffe21c7f9b5f243bf6dbc4d74078bc4a73c59fb240a1488cb7297ee58e63e08",
+      "status": "started",
+      "verifiedAt": 0,
+      "claimedAt": 0,
+      "key": "",
+      "keyExpireAt": 0
     }
   },
   "cooldowns": {
-    "f90a89a91b058eebed9b321973e7e84f38f54e667c24fa55f4776254094d627f": 1779496751059,
     "892bed9ad7f243ff3eb954e9f7591c84fe5f060664dc387f58f08fa7db3d0eac": 1779496941282,
     "a5efc300179aa681fb1f479d4fc1f3004d5fc04f6d34508fabb956401b200a0d": 1779497028806,
     "6ef91e4ca7c0109f416959883516e103c5a1940493acc4a69da4b91c4cb49850": 1779497078316,

@@ -1,19 +1,5 @@
 {
   "claims": {
-    "bf16609b5b76637b2ca7ff2048879d7d": {
-      "id": "bf16609b5b76637b2ca7ff2048879d7d",
-      "createdAt": 1779597373973,
-      "expiresAt": 1779597973973,
-      "browserHash": "",
-      "uaHash": "",
-      "ipHash": "",
-      "identityHash": "32f038c766bf60b937a3711825afae650cb5bb4a2a40774f0d2fbe96837d6a3c",
-      "status": "claimed",
-      "verifiedAt": 1779597614117,
-      "claimedAt": 1779597614123,
-      "key": "ATH-5W8Q-VS0U",
-      "keyExpireAt": 1779684014123
-    },
     "2e333968917e54f7fd91b4358550f3c6": {
       "id": "2e333968917e54f7fd91b4358550f3c6",
       "createdAt": 1779597404902,
@@ -69,20 +55,6 @@
       "claimedAt": 1779597785324,
       "key": "ATH-96MY-37ES",
       "keyExpireAt": 1779684185324
-    },
-    "752fbff316c923ac03d6b7c1d0791711": {
-      "id": "752fbff316c923ac03d6b7c1d0791711",
-      "createdAt": 1779597609827,
-      "expiresAt": 1779598209827,
-      "browserHash": "1c734af50a6385dde658943e713a1d3c35ce4af87664ccf03ad5f85d4d151420",
-      "uaHash": "568f82d492acfcb3d2f61ebce10b9b64e4d67fcad4bccb05f032e3d0c613ab90",
-      "ipHash": "237dff1032c8ac5ff837bbdca598aa170947f39b3364182a4b6d85d7e3af9ba8",
-      "identityHash": "3ba4645dde4724da52589f3fa7eedbf7c36a818c18f072bb0215613323e59acb",
-      "status": "started",
-      "verifiedAt": 0,
-      "claimedAt": 0,
-      "key": "",
-      "keyExpireAt": 0
     },
     "ec1fb24f3afb5c42732b7e7a917a667f": {
       "id": "ec1fb24f3afb5c42732b7e7a917a667f",
@@ -452,15 +424,15 @@
       "id": "26893bc86ef008912cd43e64de38c135",
       "createdAt": 1779598663218,
       "expiresAt": 1779599263218,
-      "browserHash": "7604199070e0480b68f2a98466cffa9acd1358ed375834d007265a61a36464ec",
-      "uaHash": "ea6ebadc51c6a53336e7c30ec0faa3f1858b9bb21220d9dc8e7a12a631228440",
-      "ipHash": "0034aad82bfceb547960530d878f5cbcd26b72a40dd2643e42783d50a8e36e07",
+      "browserHash": "",
+      "uaHash": "",
+      "ipHash": "",
       "identityHash": "cac83617222de570e055ed2c482dee756805d62334f94c4e8e61c67fc1f055c2",
-      "status": "started",
-      "verifiedAt": 0,
-      "claimedAt": 0,
-      "key": "",
-      "keyExpireAt": 0
+      "status": "claimed",
+      "verifiedAt": 1779598811029,
+      "claimedAt": 1779598811037,
+      "key": "ATH-2FSM-XHV4",
+      "keyExpireAt": 1779685211037
     },
     "4e79bbfdd5853e7db0296794e52e0cd1": {
       "id": "4e79bbfdd5853e7db0296794e52e0cd1",
@@ -545,10 +517,23 @@
       "claimedAt": 0,
       "key": "",
       "keyExpireAt": 0
+    },
+    "150de972c6689f6d860eef238d6e5b9c": {
+      "id": "150de972c6689f6d860eef238d6e5b9c",
+      "createdAt": 1779598784815,
+      "expiresAt": 1779599384815,
+      "browserHash": "04e20bd5568e6c2f02355e39dcaea47361defeef5c9dddc3f5f2f1b26a1d8fab",
+      "uaHash": "241bc9185226fa674c958983976fb51a72cec8a48970f8aacc6f1d93d6c4144d",
+      "ipHash": "ab56c95883395f4eb1e376f5e7926a48ff18af7752b93387e50ec30a51e1a88d",
+      "identityHash": "c81dedef0f44cc96259b84f7b4b31f1f053741714335a39c246d802bd1a25db1",
+      "status": "started",
+      "verifiedAt": 0,
+      "claimedAt": 0,
+      "key": "",
+      "keyExpireAt": 0
     }
   },
   "cooldowns": {
-    "40532e029bb5adbafd091fa32c7d4d0c4f6fab5c540d43802e39528b99ed5051": 1779598789162,
     "a3f05fee1fa9cb01d18a5d2149bbe9a2245c6fcb0bf4a0f965705b9d7d18ca88": 1779598847929,
     "4c4eae1d201cf57e9db37b16993e654245921208fdd471de24562bd7faf747db": 1779598872070,
     "5ea4b9ce1bf1f23550082d38832d6024ebcc10d3c9a5af8eb0da72c3d3d8d37f": 1779599058319,
@@ -1387,6 +1372,7 @@
     "de3098074cae8ff3b22663f21514222a2297f8b463e4aa6efc91eaff0712e9be": 1779684836073,
     "023de2b29e9a66e1eac51ca5fe7d23b8c9aa266d2ce4fefa467715b9dfdae83b": 1779685113212,
     "010d8558e847ddaa518effd58bff5f91d57b4066baa76b3aadd377872af7982b": 1779685117277,
-    "5b27d68c5a9f58de2f02c5f41e2e660610319294f2cf04a3c684d0406a668674": 1779685176257
+    "5b27d68c5a9f58de2f02c5f41e2e660610319294f2cf04a3c684d0406a668674": 1779685176257,
+    "cac83617222de570e055ed2c482dee756805d62334f94c4e8e61c67fc1f055c2": 1779685211037
   }
 }

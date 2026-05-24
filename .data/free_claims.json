@@ -1,19 +1,5 @@
 {
   "claims": {
-    "74817be68c7bff56bf5a8d778c893485": {
-      "id": "74817be68c7bff56bf5a8d778c893485",
-      "createdAt": 1779616914937,
-      "expiresAt": 1779617514937,
-      "browserHash": "6c08813c5917b5697a7a8dde124a4c5f1600983f244a2e466358f0fdbe2808bc",
-      "uaHash": "ef78bc17265d32e6c02d6cc23189e096909db7f5084bb8d0fe20ac7585d8c803",
-      "ipHash": "871e58a365e6c5fbe93c9488fb93f7901fdd329928e78b6c097907e6ef74624e",
-      "identityHash": "224bac5700d64141a9661cc293b0d914f925873aa5c80f7129923172b945086d",
-      "status": "started",
-      "verifiedAt": 0,
-      "claimedAt": 0,
-      "key": "",
-      "keyExpireAt": 0
-    },
     "19cdea186793af7738b7ad42bb81cea1": {
       "id": "19cdea186793af7738b7ad42bb81cea1",
       "createdAt": 1779616962660,
@@ -312,15 +298,15 @@
       "id": "9972a5958e09a0dcb59612c65428e794",
       "createdAt": 1779617920833,
       "expiresAt": 1779618520833,
-      "browserHash": "ff67ba3ed3cd0ce43405d1ee370c180d8c776f372b9711f7c17dcc5fd1ab41ef",
-      "uaHash": "d84e942950de2b93644836b7c61977321e139bd06e9d482ef8e048a4d03f6f3f",
-      "ipHash": "57078fbd2acbacd8bd3607473c19d6c708778abf65edbb5ddce61ba4a8c48b9a",
+      "browserHash": "",
+      "uaHash": "",
+      "ipHash": "",
       "identityHash": "50f2845deb4a0b24abe4469d151bce249edb6e39229ee66084c59db49b5159a3",
-      "status": "started",
-      "verifiedAt": 0,
-      "claimedAt": 0,
-      "key": "",
-      "keyExpireAt": 0
+      "status": "claimed",
+      "verifiedAt": 1779618131997,
+      "claimedAt": 1779618132003,
+      "key": "ATH-P3AL-0ECY",
+      "keyExpireAt": 1779704532003
     },
     "b8fe9b3095b86b19608cf58a1993603d": {
       "id": "b8fe9b3095b86b19608cf58a1993603d",
@@ -366,7 +352,6 @@
     }
   },
   "cooldowns": {
-    "435780547c04660feddf74b84c8f3793af4ab847f2e3142b85c884ede751f558": 1779618133054,
     "23be6b46c97cbdb2e08aeab9a32533512e447ec8c2793e445f3a3b28ef11e8ee": 1779618158218,
     "6882668f75fee6de9e362fc2aa7ee4e3057adff1726e87e78298679128964da2": 1779618174153,
     "96d3325d5dcaaff8cb2ebaa3be1c99d3be9e879fe5edb2acd5a0bdce6e5367eb": 1779618289908,
@@ -1211,6 +1196,7 @@
     "fb53a4b7200fe8fb3e93b1b3abb5e1b2121b4519b0f2ff7e72e0dd086a6c11e1": 1779703996312,
     "71f3080254c181f7fc170ccb77c7c7617e341db6499315f1e7eb5980baf44942": 1779704293451,
     "9ecd3e5324898d0129e33b0e3615da9738550923c7c13e571c8b7aed80c2fe10": 1779704368656,
-    "9630692b07f9f88f22d1b4822173eb966df0aeb58896f4d40f4418322e09c27c": 1779704419338
+    "9630692b07f9f88f22d1b4822173eb966df0aeb58896f4d40f4418322e09c27c": 1779704419338,
+    "50f2845deb4a0b24abe4469d151bce249edb6e39229ee66084c59db49b5159a3": 1779704532003
   }
 }

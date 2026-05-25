@@ -42,20 +42,6 @@
       "key": "ATH-CGAZ-YMFQ",
       "keyExpireAt": 1779798943903
     },
-    "edaee0cc3ed880b1fc416d6a077ac2ca": {
-      "id": "edaee0cc3ed880b1fc416d6a077ac2ca",
-      "createdAt": 1779712354624,
-      "expiresAt": 1779712954624,
-      "browserHash": "96d28bdf17f033a21e428a2f402ba34627862646f1b7eab98108d3f24ad6bd56",
-      "uaHash": "b1306c3fdd08186c4e2539538bf022683f9c7675ac43d64d5245686393b88880",
-      "ipHash": "47504c78effe43913d974f805aca4494dbc9a0bd807f29bce2638f4eaa3e2b40",
-      "identityHash": "b402cc92653dc5c47b21b5e79cc75f282b43ef03065c160f8a21a6eda06ddf1a",
-      "status": "started",
-      "verifiedAt": 0,
-      "claimedAt": 0,
-      "key": "",
-      "keyExpireAt": 0
-    },
     "b18cf6725c682c2a375a51d66e1796f9": {
       "id": "b18cf6725c682c2a375a51d66e1796f9",
       "createdAt": 1779712402715,
@@ -573,10 +559,23 @@
       "claimedAt": 0,
       "key": "",
       "keyExpireAt": 0
+    },
+    "21f64eca79490d8f8f9c379cc82c857b": {
+      "id": "21f64eca79490d8f8f9c379cc82c857b",
+      "createdAt": 1779713555868,
+      "expiresAt": 1779714155868,
+      "browserHash": "004efc8ad780c7b4016eee99aff87e876bd878a6d9c654270466ff18f622af1e",
+      "uaHash": "121b048256ef729a16a933b8aafaa11842d4b58b54d5eb0b4627211fbecb42ad",
+      "ipHash": "92b4ec9cf25788f2b16bcbd5df452803c90a4278c5e64c27b6cd7ab70531c640",
+      "identityHash": "e6c68bcaaf1dd4ef343b598fb5e80caec71edc4dd1cead993a8eef2c6a90dd66",
+      "status": "started",
+      "verifiedAt": 0,
+      "claimedAt": 0,
+      "key": "",
+      "keyExpireAt": 0
     }
   },
   "cooldowns": {
-    "c8d66447b2c9f449feea15815fd702efbdaaf49ad6c327226fd7d7a54d60b658": 1779713549731,
     "639838d585604ceab86d2f5c5dd305f2c20fe61404223673c25a54115f2c9f1e": 1779713676649,
     "afa7002a44c6e017e5db74ea4715f0a11a91bd1b2c128624fd8cf62a9b8d51a9": 1779713714661,
     "bf92810ee20aa4396a9cd7abaaad8d3ca85f91a69847795ca928f26b432c4796": 1779713732864,

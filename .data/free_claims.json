@@ -1,19 +1,5 @@
 {
   "claims": {
-    "facb0de0dbddd65ea2ecdb0dfa90c35a": {
-      "id": "facb0de0dbddd65ea2ecdb0dfa90c35a",
-      "createdAt": 1779679570804,
-      "expiresAt": 1779680170804,
-      "browserHash": "",
-      "uaHash": "",
-      "ipHash": "",
-      "identityHash": "3232f12796e3a76e75cc3cdd7bd42c2529cb70d82ecde7e992e179f4626a1124",
-      "status": "claimed",
-      "verifiedAt": 1779679721020,
-      "claimedAt": 1779679721027,
-      "key": "ATH-CDNV-YQTO",
-      "keyExpireAt": 1779766121027
-    },
     "cea8ec79707e0d5075a5146321bb894d": {
       "id": "cea8ec79707e0d5075a5146321bb894d",
       "createdAt": 1779679746570,
@@ -27,20 +13,6 @@
       "claimedAt": 1779679905832,
       "key": "ATH-TONJ-DDMK",
       "keyExpireAt": 1779766305832
-    },
-    "c5e951b957a8017c187a35cf23604b85": {
-      "id": "c5e951b957a8017c187a35cf23604b85",
-      "createdAt": 1779679764411,
-      "expiresAt": 1779680364411,
-      "browserHash": "886e892db49d2396f92bbda219e7c0dbee8cb30e805fe00d82b4e15aad57bc48",
-      "uaHash": "06587ef85c85359709eed66b10c8cf7f8ee36f21dcdff0c434ea26740abffdb6",
-      "ipHash": "206a4314760cbfea850c72943c22ecfc05f1763026a615a65a7b0a0256969d7c",
-      "identityHash": "a772547fa6fb6d14e9a8e758057eaabeedad385a08139260734eabaae405617f",
-      "status": "started",
-      "verifiedAt": 0,
-      "claimedAt": 0,
-      "key": "",
-      "keyExpireAt": 0
     },
     "8fa22fbf291da350b5722da8e48025ae": {
       "id": "8fa22fbf291da350b5722da8e48025ae",
@@ -564,15 +536,15 @@
       "id": "090bac396d7f59f90f2326efd1966224",
       "createdAt": 1779680810411,
       "expiresAt": 1779681410411,
-      "browserHash": "55610122d1859ebd41453109e268aea9127ca6e827a8bd8c68a9af4a9c32fac4",
-      "uaHash": "d18c8618de98358223cd5bee3ecac9e09f24f6cabfeb17af459e93996cbe01d3",
-      "ipHash": "140620957569e7101a7727eab3bf0ac2c98067b9a07c7f786975a132753f6989",
+      "browserHash": "",
+      "uaHash": "",
+      "ipHash": "",
       "identityHash": "57ad3d63c1a3e64c31ae94aabfe1b14bc3761fa68ae304b42034e6f0e0f11d0e",
-      "status": "started",
-      "verifiedAt": 0,
-      "claimedAt": 0,
-      "key": "",
-      "keyExpireAt": 0
+      "status": "claimed",
+      "verifiedAt": 1779680997659,
+      "claimedAt": 1779680997668,
+      "key": "ATH-71DT-2LBN",
+      "keyExpireAt": 1779767397668
     },
     "5e8825532650e4fea6187202b37bd1a5": {
       "id": "5e8825532650e4fea6187202b37bd1a5",
@@ -615,11 +587,23 @@
       "claimedAt": 0,
       "key": "",
       "keyExpireAt": 0
+    },
+    "193bedbafd8975173d5187a685f9a4a1": {
+      "id": "193bedbafd8975173d5187a685f9a4a1",
+      "createdAt": 1779680998666,
+      "expiresAt": 1779681598666,
+      "browserHash": "9262bda94d54c9fed6571a8b2ecd68a6c0e55032e701fd0a150a58aaf5012bb8",
+      "uaHash": "28621d28c27f7070891d614c36caeb562d02e222e529e0306b457bd4064e9396",
+      "ipHash": "e759bb02d2fc4b2b830e01e929ff15c38b49fe18f45190ba55b1726f667de779",
+      "identityHash": "593bf11c3c78cee28de85048a2e93de18719954743dda51ef79bdd26dd55608a",
+      "status": "started",
+      "verifiedAt": 0,
+      "claimedAt": 0,
+      "key": "",
+      "keyExpireAt": 0
     }
   },
   "cooldowns": {
-    "4321f812ce66833b5e26c4c88333406c9bb51f971ccefff79f7b2e139cab1c35": 1779680931066,
-    "28b1006c9895ca667efbe7d26fd3ee846ed280a8d18bfc2d36163ef8e83429de": 1779680994229,
     "97c150a16bf4c02bf24b1a1bd46ec56d2963967168973af3d4c2368d244a13d8": 1779681018104,
     "05bb8d3fdcb4d1ce0def1d5491c8dacaa3b90a4c5f81221ed14e00db734f8248": 1779681135590,
     "27e9192046c91bbf3ead1121e93e8b23f4b8ec23fa7b3837e8b6f4299d471057": 1779681227360,
@@ -1396,6 +1380,7 @@
     "a90285b653c539dd65b35f4a34f955e79433047faaca5e783390699bf10bee47": 1779767087330,
     "bc5c0a776817788a03da36b393fbd9e3e15dd419b6db21abe481142a6bebe364": 1779767174697,
     "d598fe3480362c826d476281028bfe42754bdded27436aab8713bf30c5c1c768": 1779767197628,
-    "69f6913d546d0bb87535993ddb6426a8a43f9dcefdca564dad18c0925219f233": 1779767264786
+    "69f6913d546d0bb87535993ddb6426a8a43f9dcefdca564dad18c0925219f233": 1779767264786,
+    "57ad3d63c1a3e64c31ae94aabfe1b14bc3761fa68ae304b42034e6f0e0f11d0e": 1779767397668
   }
 }

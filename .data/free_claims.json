@@ -1,33 +1,5 @@
 {
   "claims": {
-    "dc00b12b6668756e088cf43d99def112": {
-      "id": "dc00b12b6668756e088cf43d99def112",
-      "createdAt": 1779813610568,
-      "expiresAt": 1779814210568,
-      "browserHash": "",
-      "uaHash": "",
-      "ipHash": "",
-      "identityHash": "6f51b8c1d64a8d9ea701caaf401bf2769ef095d3689c87ff97eda2969a4d1bbb",
-      "status": "claimed",
-      "verifiedAt": 1779813866324,
-      "claimedAt": 1779813866326,
-      "key": "ATH-3UFQ-2LJ4",
-      "keyExpireAt": 1779900266326
-    },
-    "81e3db6608fbd05b6004aeb421674541": {
-      "id": "81e3db6608fbd05b6004aeb421674541",
-      "createdAt": 1779813769638,
-      "expiresAt": 1779814369638,
-      "browserHash": "",
-      "uaHash": "",
-      "ipHash": "",
-      "identityHash": "05a63950f48a227295c848bcf81b211d9d3a3a56b8dc2e50be46b0ff63c80ef1",
-      "status": "claimed",
-      "verifiedAt": 1779813891551,
-      "claimedAt": 1779813891556,
-      "key": "ATH-U5OM-96DU",
-      "keyExpireAt": 1779900291556
-    },
     "952992bd60eb417876ddbfac60b7e963": {
       "id": "952992bd60eb417876ddbfac60b7e963",
       "createdAt": 1779813957792,
@@ -195,11 +167,23 @@
       "claimedAt": 0,
       "key": "",
       "keyExpireAt": 0
+    },
+    "e064360f130de293807f60591ab0ee1b": {
+      "id": "e064360f130de293807f60591ab0ee1b",
+      "createdAt": 1779815139863,
+      "expiresAt": 1779815739863,
+      "browserHash": "80d6ed468647568f290360e9d0c7b886ad8d38629c2624336dd54f20e69d33b7",
+      "uaHash": "563f941ab525d38049cf88a014d7b0abaa612ce9ba3665a2f8f863efbb559ddd",
+      "ipHash": "9905cb41168e42f8900fd74870beadb200547d92e17d88b20a69cb54767fb852",
+      "identityHash": "493f78d199532d7f240090dfaaa20ac6ffda6599ca87c818c3e716e4e8153514",
+      "status": "started",
+      "verifiedAt": 0,
+      "claimedAt": 0,
+      "key": "",
+      "keyExpireAt": 0
     }
   },
   "cooldowns": {
-    "f87dbe335c37775e4ab6224be857006552bc66cbdf56add0691fe1d6690b8834": 1779815075611,
-    "c9ba6f93033795b76da770e5da3d0613bcdb0c2f0ec661bb859d5de4d9410d25": 1779815097872,
     "a1fe70ab1ef213794c43eed7596a43cc5d3832b7b3564ea34f58711503f9aff7": 1779815303035,
     "ac276386f0a0bff0f9abc9194398ccb0ee52f237f41f63ab2eec533e9ec7810b": 1779815361067,
     "d3d061f17a491f89616a52065073269ab4951caa2fb56185d3503d975997cddd": 1779815387108,

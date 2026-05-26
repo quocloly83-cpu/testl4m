@@ -42,34 +42,6 @@
       "key": "ATH-B5EU-2RMR",
       "keyExpireAt": 1779885507819
     },
-    "f07517cc8e29fe4bc40e6c0d0a99a6dd": {
-      "id": "f07517cc8e29fe4bc40e6c0d0a99a6dd",
-      "createdAt": 1779798926240,
-      "expiresAt": 1779799526240,
-      "browserHash": "72206789e57677df0670e66e9d3c38d06b44461f216fd664d89a7eeec5dd03b9",
-      "uaHash": "526317597f64c3e5adb308b3561e7d421a1d6af6c5fa7dd73cbbd61bc2e1ad0f",
-      "ipHash": "0fd1d35691f7c1b937fa7026c011c4b6974e98f4bc706c88301b75cd6c92dd7d",
-      "identityHash": "52c273dd1aa2668278d3073e501830c32017f84284a2f41c23ded5c24423f184",
-      "status": "started",
-      "verifiedAt": 0,
-      "claimedAt": 0,
-      "key": "",
-      "keyExpireAt": 0
-    },
-    "8b3190210eb21a7c40b1cd972b41f00f": {
-      "id": "8b3190210eb21a7c40b1cd972b41f00f",
-      "createdAt": 1779798951175,
-      "expiresAt": 1779799551175,
-      "browserHash": "13a8742f6cb09727267e0647bb5ab747a1a4f4083f2ac558b4e37a7c4f95a2c9",
-      "uaHash": "59f63589cf731a46c631ae90e75e03d5b5bba5f14d8d33c6fe5d025d31e4b526",
-      "ipHash": "bc45be1918f87871226d600b4e810b19695a32ce39a16ae3e0f1ad54e1b3ddda",
-      "identityHash": "25ab534f0a63b143ca34901b37a17d16cec477586234ddd787c4f187f6e67a44",
-      "status": "started",
-      "verifiedAt": 0,
-      "claimedAt": 0,
-      "key": "",
-      "keyExpireAt": 0
-    },
     "58228a41ebef81d190a205349c615447": {
       "id": "58228a41ebef81d190a205349c615447",
       "createdAt": 1779798974963,
@@ -634,15 +606,15 @@
       "id": "a1670101e7c292ba5e1fe97706dbe3d2",
       "createdAt": 1779799891204,
       "expiresAt": 1779800491204,
-      "browserHash": "7ad0840dd2710c5481624d423a9588e0d2d035fe4ccaa96893e0d09485471c3a",
-      "uaHash": "8299096c26bd47b59a4385361dec980ff8179de870aa1694cbdf4ff1bcf41038",
-      "ipHash": "a1f57d790efdf5b8c8a5579e212912d64f6cbd7913f8d7a58ab48390e0ddb5a3",
+      "browserHash": "",
+      "uaHash": "",
+      "ipHash": "",
       "identityHash": "ff8d8989624e0ff842f2462cfd601f535d9224b57cb70b0f6dbdca16fd5446e4",
-      "status": "started",
-      "verifiedAt": 0,
-      "claimedAt": 0,
-      "key": "",
-      "keyExpireAt": 0
+      "status": "claimed",
+      "verifiedAt": 1779800149577,
+      "claimedAt": 1779800149584,
+      "key": "ATH-UIIR-37OK",
+      "keyExpireAt": 1779886549584
     },
     "6e1d182f07a31e7baae606cb42264f91": {
       "id": "6e1d182f07a31e7baae606cb42264f91",
@@ -713,10 +685,23 @@
       "claimedAt": 0,
       "key": "",
       "keyExpireAt": 0
+    },
+    "d051cfa5cf192b21f3552e0d970c23f5": {
+      "id": "d051cfa5cf192b21f3552e0d970c23f5",
+      "createdAt": 1779800132625,
+      "expiresAt": 1779800732625,
+      "browserHash": "ae61779657872d19e3404e0f03c096d5bab54be6f7961bc9296654752136e242",
+      "uaHash": "241bc9185226fa674c958983976fb51a72cec8a48970f8aacc6f1d93d6c4144d",
+      "ipHash": "30895ba6655fe050d5a4389f410278442ea05361960ef70973b5401852c11772",
+      "identityHash": "48d99c2ad189b056d06fb9db53a03cca3601eed3d6b4a5515db5b049a406f120",
+      "status": "started",
+      "verifiedAt": 0,
+      "claimedAt": 0,
+      "key": "",
+      "keyExpireAt": 0
     }
   },
   "cooldowns": {
-    "aa574cce7dc150a49d247ce4d07ee64b5362e030365d5a5bbdb3e331b3c499e2": 1779800120171,
     "6ff15c8565c0fbbc17636bba4fadc55374c8c0a5d4d0baa622e5e3410cc97e16": 1779800163680,
     "f34a0df217c5f5be17524df8739bf6fe655cde387a435ac2a2562e2bda3532af": 1779800168960,
     "4a01956f2eecf0a5c8bdb6765fb6c6686d7a6c386cceb3e85d3a0adc538b6b40": 1779800273940,
@@ -1492,6 +1477,7 @@
     "8a5fb4f758ca7305236c81fbdcc11e7d12e119b335cda15902d2c121f8602b5b": 1779886438034,
     "de3eac4f20396481b0f777bf00655a320fb7aa2666db4bd25c4d7b443a2cff44": 1779886464214,
     "c24ce202a805a6e9efb1a119a158c18f3a014320c78ef5bc55a93b8a179e1019": 1779886500700,
-    "4fbd985891ca74dacf8196f26d7947abe4c79b8e29c736283d820f8f2c3118c0": 1779886509403
+    "4fbd985891ca74dacf8196f26d7947abe4c79b8e29c736283d820f8f2c3118c0": 1779886509403,
+    "ff8d8989624e0ff842f2462cfd601f535d9224b57cb70b0f6dbdca16fd5446e4": 1779886549584
   }
 }

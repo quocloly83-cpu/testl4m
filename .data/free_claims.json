@@ -70,48 +70,6 @@
       "key": "ATH-8QUQ-QA36",
       "keyExpireAt": 1780061843460
     },
-    "1e5b4cfcf7e1d505910b424824ada878": {
-      "id": "1e5b4cfcf7e1d505910b424824ada878",
-      "createdAt": 1779975186584,
-      "expiresAt": 1779975786584,
-      "browserHash": "1f88df055777fb0d1e93fc9d7618072f15e2d8f8e879949bf4966806252cb29b",
-      "uaHash": "bc03b3746013546517aa4a68514585d86c1cead8876f8eb59a0ba23774194fde",
-      "ipHash": "64a49c93657d3f9acca58e56e036b1602074cafbd080ee04c8f5bcdd4462d4b7",
-      "identityHash": "6010032a2bbfac64edaee38df9f4c1bcc816d0837749fafea341f4524ebfe26d",
-      "status": "started",
-      "verifiedAt": 0,
-      "claimedAt": 0,
-      "key": "",
-      "keyExpireAt": 0
-    },
-    "d5c5ba435940c4b8ef32a5868b261e30": {
-      "id": "d5c5ba435940c4b8ef32a5868b261e30",
-      "createdAt": 1779975210476,
-      "expiresAt": 1779975810476,
-      "browserHash": "edeae8f10d9a7ed2405197ad11ede3badd4363fe8e814880062a6dd1b3ae3d99",
-      "uaHash": "b8f3ee29e31191ed8b72a402ce2218e1f3e1597756df5141a40a862a02618e50",
-      "ipHash": "83396c9d13378f6a455c8ab1331a4868beeae655ed847f16319b49149571fab0",
-      "identityHash": "e4b5469e8aab462af5162ea882c27363641426b2fe290636025d85bc1c2a644c",
-      "status": "started",
-      "verifiedAt": 0,
-      "claimedAt": 0,
-      "key": "",
-      "keyExpireAt": 0
-    },
-    "969f288b95313663f2b31ce40f0e6e86": {
-      "id": "969f288b95313663f2b31ce40f0e6e86",
-      "createdAt": 1779975212768,
-      "expiresAt": 1779975812768,
-      "browserHash": "a0d58bd91d23849c3b2fad43201233071557241d5d697b62acd429dd1033b0ae",
-      "uaHash": "3b8882980e3b04217a2a29ec67d666920460fbd6030e5e50c7b4eefd57c77768",
-      "ipHash": "39a5f666156bc1c0536a8443583384213e1e7779a075d22573834d81ef03e70b",
-      "identityHash": "b6c4266ca7ee444e7e6a2984088bd9763960d33e2a3b248dc52109b08bb1e702",
-      "status": "started",
-      "verifiedAt": 0,
-      "claimedAt": 0,
-      "key": "",
-      "keyExpireAt": 0
-    },
     "2c5dc144b4ea3363243b017d43c40522": {
       "id": "2c5dc144b4ea3363243b017d43c40522",
       "createdAt": 1779975213767,
@@ -676,15 +634,15 @@
       "id": "c336f463c7c3dea91b2bd9d521f00ccc",
       "createdAt": 1779976162688,
       "expiresAt": 1779976762688,
-      "browserHash": "bade04d2afdecdd3a84edff0dfb7333e74dbad5be8eb45ec0b5b90273645f1d5",
-      "uaHash": "76536636e63ed32ed8bd22d1c50f09928526894858183d771e043f69abf7eac2",
-      "ipHash": "39a5f666156bc1c0536a8443583384213e1e7779a075d22573834d81ef03e70b",
+      "browserHash": "",
+      "uaHash": "",
+      "ipHash": "",
       "identityHash": "28f6c0cb24b5ce4b52dcadea31ae2f13a25e09fb1a9f34190e8e53021e6f0b96",
-      "status": "started",
-      "verifiedAt": 0,
-      "claimedAt": 0,
-      "key": "",
-      "keyExpireAt": 0
+      "status": "claimed",
+      "verifiedAt": 1779976410019,
+      "claimedAt": 1779976410024,
+      "key": "ATH-SNZ6-YULB",
+      "keyExpireAt": 1780062810024
     },
     "6e31baa8c63b5ffd15b8bec7da91896e": {
       "id": "6e31baa8c63b5ffd15b8bec7da91896e",
@@ -856,8 +814,6 @@
     }
   },
   "cooldowns": {
-    "e996ecf82c6cdd73eb497362d47279e8aeca560db82752a6baa3c3acd380f5d2": 1779976386401,
-    "83bdf8f3101afa5f27f11149231da3c28180c62cdca37e91a435c09dc3cb5594": 1779976412280,
     "485f49a88f59371fc9e33514ad70d0ddad7e55d03d16aebf399fd75ec9e5426c": 1779976709278,
     "e0348136108d80a42b8854f8835f562a253ed6fcb940f6dfeff920a34a8e704c": 1779976741545,
     "e7987b29b512cb96c134a0c8922417be87e4dbcb23b18746223d9b9781833252": 1779976874345,
@@ -1655,6 +1611,7 @@
     "ad8551470c4abdfb2c8db5fe40b2332af713735b67aa57e0916296c1a19e6889": 1780062579868,
     "51c95c65abe8ffccf1f40d8992591c315efc7f50098c4796b5dcbc6b9cca935e": 1780062620940,
     "d9abcf9aeaca4ef3fca322f98be295efc63c519994e2c091aa67529413fc007e": 1780062673976,
-    "7dedbcac03308289fb11c62eec5bf742356fa868f82a5ee773fc5ad6481982ee": 1780062759192
+    "7dedbcac03308289fb11c62eec5bf742356fa868f82a5ee773fc5ad6481982ee": 1780062759192,
+    "28f6c0cb24b5ce4b52dcadea31ae2f13a25e09fb1a9f34190e8e53021e6f0b96": 1780062810024
   }
 }

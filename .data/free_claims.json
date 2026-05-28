@@ -1,19 +1,5 @@
 {
   "claims": {
-    "352ef9d913029c6ec563fa9f12ebb7fc": {
-      "id": "352ef9d913029c6ec563fa9f12ebb7fc",
-      "createdAt": 1779936971051,
-      "expiresAt": 1779937571051,
-      "browserHash": "",
-      "uaHash": "",
-      "ipHash": "",
-      "identityHash": "2bc1a97c8747dc7691a12c60e2b89940165af6b0c4d4f9bb05729bb564979cdb",
-      "status": "claimed",
-      "verifiedAt": 1779937156210,
-      "claimedAt": 1779937156212,
-      "key": "ATH-WCOB-SUS9",
-      "keyExpireAt": 1780023556212
-    },
     "e6c02ad898387a533849af3481dbae03": {
       "id": "e6c02ad898387a533849af3481dbae03",
       "createdAt": 1779936971944,
@@ -27,20 +13,6 @@
       "claimedAt": 1779937254110,
       "key": "ATH-5FL0-OTGK",
       "keyExpireAt": 1780023654110
-    },
-    "e9d42099486765a59c4b1e108691c4bb": {
-      "id": "e9d42099486765a59c4b1e108691c4bb",
-      "createdAt": 1779937175942,
-      "expiresAt": 1779937775942,
-      "browserHash": "5db9e877d22590a54fb48231ae91c15ca1d9696a97ac6b26b54efa6763ef8abc",
-      "uaHash": "48da1af908be076363e16c00999867b2c05b0261ae4e010e737f12eae1e71aff",
-      "ipHash": "97b9f1801131e90d3937ac5c77fb69f877b52eaae11b4ff5febc4ab38d992c26",
-      "identityHash": "baacb82e70f397587dde0b92bd57321e16ad4c7ac838a7e2145ede8b67bed1c1",
-      "status": "started",
-      "verifiedAt": 0,
-      "claimedAt": 0,
-      "key": "",
-      "keyExpireAt": 0
     },
     "2ad93d262e7320ab8a2bf74e0e2df3c9": {
       "id": "2ad93d262e7320ab8a2bf74e0e2df3c9",
@@ -424,15 +396,15 @@
       "id": "7025f2c262539c9dc463252bdf1be8d7",
       "createdAt": 1779938213081,
       "expiresAt": 1779938813081,
-      "browserHash": "a6ca1bb128f0dda2340c87e6996890b7a9147ce2d51cf4cf30678b50837b020f",
-      "uaHash": "241bc9185226fa674c958983976fb51a72cec8a48970f8aacc6f1d93d6c4144d",
-      "ipHash": "d0cc574fb85b32abbec68079bd270fd4c35093becabfed20877193004d3f4766",
+      "browserHash": "",
+      "uaHash": "",
+      "ipHash": "",
       "identityHash": "f60ef9271e4245c1cc82273d11fd5db8ed35ddc89873ad99ccfc5d518eb0a559",
-      "status": "started",
-      "verifiedAt": 0,
-      "claimedAt": 0,
-      "key": "",
-      "keyExpireAt": 0
+      "status": "claimed",
+      "verifiedAt": 1779938399571,
+      "claimedAt": 1779938399576,
+      "key": "ATH-5HNO-RCR6",
+      "keyExpireAt": 1780024799576
     },
     "413c20e18a70d6307166caef8f8d7e94": {
       "id": "413c20e18a70d6307166caef8f8d7e94",
@@ -475,10 +447,23 @@
       "claimedAt": 0,
       "key": "",
       "keyExpireAt": 0
+    },
+    "6ebbe3c5188ddf5b91d7976ad46d2577": {
+      "id": "6ebbe3c5188ddf5b91d7976ad46d2577",
+      "createdAt": 1779938402903,
+      "expiresAt": 1779939002903,
+      "browserHash": "07d5e1d788e8454f20e7c28c73f6626c64d25a422db0b03a2322bdce595bfb1c",
+      "uaHash": "bf8fb1aa9b26259a21e9e96f0291ed8463b861a5be1218ed2ef2716fc27445da",
+      "ipHash": "231e2abb091cdee105dd345223501305d509922bbfe3986a3dea989b7d196345",
+      "identityHash": "33af645c613267e8e31a06b7c81ff0332610bc13a197761085061c82643f7fbe",
+      "status": "started",
+      "verifiedAt": 0,
+      "claimedAt": 0,
+      "key": "",
+      "keyExpireAt": 0
     }
   },
   "cooldowns": {
-    "bfb99eefc5044138eb633e556af7563a7aba8faa3b6552a216339fe8db0908e8": 1779938369880,
     "cdf915f188eaa2a8e3463e05ae26549ee2d3b6cd06d2c840ae4c69f60301aca4": 1779938491074,
     "09a370960abbb654ed79264f5c1d98fb0d54cdd9d31a13a9b6f82ab662df2571": 1779938675537,
     "202422f6b0a89644d791915f05acc0ace8cebd2039f2752a4504a5496cf86db6": 1779938730094,
@@ -1242,6 +1227,7 @@
     "2fb69e3062341c3e2393b06d401ec9541d53546e2435c2a940edf6b04ec19617": 1780024453036,
     "e88aa68fd74741ffeae42ffac4eddda81a71ffd0e7d5d73ada742d90a49dcf21": 1780024661579,
     "6825a2b63837025d471c7a0de5fd787215159e7ff4ced924c20863fd562dfae1": 1780024667694,
-    "137a2873908884383e37d051e29583936885d36b8ab451373b5f8b3842803ebc": 1780024732897
+    "137a2873908884383e37d051e29583936885d36b8ab451373b5f8b3842803ebc": 1780024732897,
+    "f60ef9271e4245c1cc82273d11fd5db8ed35ddc89873ad99ccfc5d518eb0a559": 1780024799576
   }
 }

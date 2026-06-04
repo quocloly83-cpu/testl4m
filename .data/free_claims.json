@@ -1,33 +1,5 @@
 {
   "claims": {
-    "31cb71d4f2a236fd49931cb67a955644": {
-      "id": "31cb71d4f2a236fd49931cb67a955644",
-      "createdAt": 1780572445707,
-      "expiresAt": 1780573045707,
-      "browserHash": "",
-      "uaHash": "",
-      "ipHash": "",
-      "identityHash": "9b7825d3654aadae3298b9449660bbabe857cd6e4425961db169fcacba9dca0c",
-      "status": "claimed",
-      "verifiedAt": 1780572681417,
-      "claimedAt": 1780572681422,
-      "key": "ATH-VL9W-FJK9",
-      "keyExpireAt": 1780659081422
-    },
-    "5d2f9ea018d784b7412ebf3f0abc8e80": {
-      "id": "5d2f9ea018d784b7412ebf3f0abc8e80",
-      "createdAt": 1780572520768,
-      "expiresAt": 1780573120768,
-      "browserHash": "",
-      "uaHash": "",
-      "ipHash": "",
-      "identityHash": "a83206fbc7a9eec5547a6b9598bb325bcbca43997816c67dce612d00b3147fd2",
-      "status": "claimed",
-      "verifiedAt": 1780572687748,
-      "claimedAt": 1780572687752,
-      "key": "ATH-0QFC-MGUX",
-      "keyExpireAt": 1780659087752
-    },
     "0f61fe81efed077df39900f594a184a2": {
       "id": "0f61fe81efed077df39900f594a184a2",
       "createdAt": 1780572575309,
@@ -545,11 +517,23 @@
       "claimedAt": 0,
       "key": "",
       "keyExpireAt": 0
+    },
+    "4b7dd81976474066f52a10bdc7ba0f90": {
+      "id": "4b7dd81976474066f52a10bdc7ba0f90",
+      "createdAt": 1780573893615,
+      "expiresAt": 1780574493615,
+      "browserHash": "d5139741bcab6536725cb2226ef11cb2df565cf5420f8a07ffd0a6390cd545e7",
+      "uaHash": "b6386612e719dae2da3612f6d4063495c930c791b4919ee6ea868dec6772b381",
+      "ipHash": "30c1d9eb9d14c391f3db5647c15e143851f4f980a21f418ac94fed58333a6303",
+      "identityHash": "273353fd51394362a2743a1ed0357269939b521769b48253474ec541f4f64cad",
+      "status": "started",
+      "verifiedAt": 0,
+      "claimedAt": 0,
+      "key": "",
+      "keyExpireAt": 0
     }
   },
   "cooldowns": {
-    "7c2214c1b89d43c53d511dc35b209e0d96872ef32bc4857beae87216a48d753d": 1780573889695,
-    "e5212f02301905050f6f2731df9ee3c05a6e7dbc80dd79eabd27fb8370fdcc95": 1780573893380,
     "302bb2d152801a9009983af4fbc8af598ea0bc636ca95636ae276810956ae84c": 1780573905540,
     "98349566fcc5fe0baeee3139ba78d6641644dec20a233a524155741af90e923f": 1780573993219,
     "53be5bcb227b94bdef47628c001982422ecb785e16ebb032e04d2fd3f5313d03": 1780574028935,

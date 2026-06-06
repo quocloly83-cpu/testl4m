@@ -1,19 +1,5 @@
 {
   "claims": {
-    "cc78bfa9f7c0dbb61c8c488e24a7b6f6": {
-      "id": "cc78bfa9f7c0dbb61c8c488e24a7b6f6",
-      "createdAt": 1780721577276,
-      "expiresAt": 1780722177276,
-      "browserHash": "",
-      "uaHash": "",
-      "ipHash": "",
-      "identityHash": "40e356eb9facfbe213d164ebe398cdc78fead8fc7c4675538a58211e1ca946d4",
-      "status": "claimed",
-      "verifiedAt": 1780721751229,
-      "claimedAt": 1780721751234,
-      "key": "ATH-N1ZC-1XKT",
-      "keyExpireAt": 1780808151234
-    },
     "b31eba3a661b82b9f78034915b26aac5": {
       "id": "b31eba3a661b82b9f78034915b26aac5",
       "createdAt": 1780721626736,
@@ -42,20 +28,6 @@
       "key": "ATH-373D-EQQP",
       "keyExpireAt": 1780808276859
     },
-    "f6ce5226d88bd841823f4764205b31d1": {
-      "id": "f6ce5226d88bd841823f4764205b31d1",
-      "createdAt": 1780721725941,
-      "expiresAt": 1780722325941,
-      "browserHash": "b2150d6e73e5fa74aeed4e1fd8da5114be53b17bf25aa2b0ce0e2055333c4d4f",
-      "uaHash": "af1f7afd2a01ae137f8672084e6acd557f75d29cc784bbbc86cb1cb4a25594a9",
-      "ipHash": "298c95a00280434a79bcc59382e9e3a48e47e219041a7b2451bd746fece6fb9d",
-      "identityHash": "f2704e82bbaab889d3cdc5924777eabcd85f7ce0161668c1de568fa9ce32e1f2",
-      "status": "started",
-      "verifiedAt": 0,
-      "claimedAt": 0,
-      "key": "",
-      "keyExpireAt": 0
-    },
     "4079d85c9a000acb99675d52f25f02c9": {
       "id": "4079d85c9a000acb99675d52f25f02c9",
       "createdAt": 1780721726663,
@@ -69,20 +41,6 @@
       "claimedAt": 1780721888856,
       "key": "ATH-IE1B-RV3O",
       "keyExpireAt": 1780808288856
-    },
-    "4c1004c64e5db0f6159a4f134f34c628": {
-      "id": "4c1004c64e5db0f6159a4f134f34c628",
-      "createdAt": 1780721755334,
-      "expiresAt": 1780722355334,
-      "browserHash": "bdcc9784877cbdd1a4bd78993b8e8b87e609be946f1cf256099bb3fd5e5600ad",
-      "uaHash": "b948dbe58ca66d9cfbe633c04d791b0faa2e3c0a70c1a9f4b40b9c461de1f1aa",
-      "ipHash": "daf25a751b96b2f225bc355ac00875912d1b530400142f3e97296d800cb1876f",
-      "identityHash": "c14eb721e2ea953cfee81b1dc837c6bf2ed32bb6d520c35835bc30760074e332",
-      "status": "started",
-      "verifiedAt": 0,
-      "claimedAt": 0,
-      "key": "",
-      "keyExpireAt": 0
     },
     "4e077a90caf36f6f62c4797ca159f8ac": {
       "id": "4e077a90caf36f6f62c4797ca159f8ac",
@@ -391,10 +349,37 @@
       "claimedAt": 0,
       "key": "",
       "keyExpireAt": 0
+    },
+    "5cc81e57b035d0806ab71dfaa3ed6775": {
+      "id": "5cc81e57b035d0806ab71dfaa3ed6775",
+      "createdAt": 1780722970361,
+      "expiresAt": 1780723570361,
+      "browserHash": "44c55af9a63b7cbcd031da24f7b580f5e9051291a87cce6061feb3856002f5c1",
+      "uaHash": "c3037dc866d092d9683e5338b1cfd9ea5443f89223161f180a39f749e07411b9",
+      "ipHash": "cd4f6eaf0c78df99de7112ac24b25808c66e80bb976024a08ac20a4080a1dcd7",
+      "identityHash": "81ac0da66271ffd7dbfda75a0fb3d92e40fe2ce17885386bed281e1f3b943225",
+      "status": "started",
+      "verifiedAt": 0,
+      "claimedAt": 0,
+      "key": "",
+      "keyExpireAt": 0
+    },
+    "b2f9fe6c8270c3f7387ee3a50bc2e09a": {
+      "id": "b2f9fe6c8270c3f7387ee3a50bc2e09a",
+      "createdAt": 1780723046081,
+      "expiresAt": 1780723646081,
+      "browserHash": "a96bf23fc503ee4d452416f55b55f7d5cfd3e15e033a02116d28b190ac2d1639",
+      "uaHash": "6010368984192d820395349a4cba6fe7c6d9297e0c3ef8e00984a060cc7f7537",
+      "ipHash": "9c41050fcb8a06ebc609ef78dbe9b28859a7a1394fbc0a62c794f0f221f3d4ba",
+      "identityHash": "974bec937e6c2b96faa2b25ce62cbd0dba4e2936ad86dd25cb0fb45b58281157",
+      "status": "started",
+      "verifiedAt": 0,
+      "claimedAt": 0,
+      "key": "",
+      "keyExpireAt": 0
     }
   },
   "cooldowns": {
-    "f997ac781c277ef30b4ee91a536767029cc66fc7162560caba89df6ee9bdd208": 1780722956474,
     "8321446a54f358c799f8f1566de0c26e3284273bba6589b7a1052e693f79b1d7": 1780723069396,
     "b88066e1f99c292a73eac2cbc47b58d6eddd6d0806f1710d7871ac4f91e1b7b2": 1780723085255,
     "485e7ff50804b28920f14a1123cb11d35e32a7e9fc0d4d5234168c6cf14b2c65": 1780723115913,

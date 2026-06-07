@@ -1,19 +1,5 @@
 {
   "claims": {
-    "c652ad506598d5278f93f35a80e7727b": {
-      "id": "c652ad506598d5278f93f35a80e7727b",
-      "createdAt": 1780831637447,
-      "expiresAt": 1780832237447,
-      "browserHash": "",
-      "uaHash": "",
-      "ipHash": "",
-      "identityHash": "f7e3b73b92689a921685ebbf37c82ce6aa5564e1e4a35816d058485b710bac3f",
-      "status": "claimed",
-      "verifiedAt": 1780831931530,
-      "claimedAt": 1780831931532,
-      "key": "ATH-6GTV-HTP5",
-      "keyExpireAt": 1780918331532
-    },
     "b116d8772b3c49d5e8ce2b238ddf1243": {
       "id": "b116d8772b3c49d5e8ce2b238ddf1243",
       "createdAt": 1780831696790,
@@ -28,20 +14,6 @@
       "key": "ATH-3X5N-X24N",
       "keyExpireAt": 1780918409510
     },
-    "bb8c86f94e9542ce1ee2020449c4f565": {
-      "id": "bb8c86f94e9542ce1ee2020449c4f565",
-      "createdAt": 1780831741395,
-      "expiresAt": 1780832341395,
-      "browserHash": "",
-      "uaHash": "",
-      "ipHash": "",
-      "identityHash": "8d137b103ddef06ab9e73ed1bdb8d083bf91e74f75c1bbd8149b5a5e00381e5e",
-      "status": "claimed",
-      "verifiedAt": 1780831900853,
-      "claimedAt": 1780831900855,
-      "key": "ATH-LDQC-YDBW",
-      "keyExpireAt": 1780918300855
-    },
     "dcbd823e9806ade9a7649fe80e3e73a2": {
       "id": "dcbd823e9806ade9a7649fe80e3e73a2",
       "createdAt": 1780831783442,
@@ -55,20 +27,6 @@
       "claimedAt": 1780831994070,
       "key": "ATH-VF5J-WK11",
       "keyExpireAt": 1780918394070
-    },
-    "5e61a4f5f77160d5f110de5e98486225": {
-      "id": "5e61a4f5f77160d5f110de5e98486225",
-      "createdAt": 1780831788466,
-      "expiresAt": 1780832388466,
-      "browserHash": "",
-      "uaHash": "",
-      "ipHash": "",
-      "identityHash": "6ce920d146ade1ebe7ce5462178fdc78678f0ee696f3eeaeedae96dc8d8fbcce",
-      "status": "claimed",
-      "verifiedAt": 1780831942386,
-      "claimedAt": 1780831942390,
-      "key": "ATH-XIO9-C6K6",
-      "keyExpireAt": 1780918342390
     },
     "46d9fde86bc93c3f0c23d0a218a02ac2": {
       "id": "46d9fde86bc93c3f0c23d0a218a02ac2",
@@ -111,20 +69,6 @@
       "claimedAt": 1780832214814,
       "key": "ATH-UYDF-8HTK",
       "keyExpireAt": 1780918614814
-    },
-    "2b8dd9ac3af13865171c79376611eea7": {
-      "id": "2b8dd9ac3af13865171c79376611eea7",
-      "createdAt": 1780831963039,
-      "expiresAt": 1780832563039,
-      "browserHash": "a104156ddacdbfcf51a87b824f077e97e94338a901fa4543b9599d82a9fb86f2",
-      "uaHash": "e21e567fb33dc5b241ec7e4a81d42d30997027295f1674aa4450d4f710f2d328",
-      "ipHash": "892ae8c91dc0ea191eef83b15f53238c6f8dff04340db9a73633e8e01ff68b95",
-      "identityHash": "a2100caa6b837e2a3dd30b874770717c4364a98e2df854bd18b8b69e5a6b9929",
-      "status": "started",
-      "verifiedAt": 0,
-      "claimedAt": 0,
-      "key": "",
-      "keyExpireAt": 0
     },
     "fb1a31bea4b3bbcf01d21d881a15f4c8": {
       "id": "fb1a31bea4b3bbcf01d21d881a15f4c8",
@@ -447,11 +391,23 @@
       "claimedAt": 0,
       "key": "",
       "keyExpireAt": 0
+    },
+    "5b465c22053fe323e3360bb07a26a660": {
+      "id": "5b465c22053fe323e3360bb07a26a660",
+      "createdAt": 1780833128208,
+      "expiresAt": 1780833728208,
+      "browserHash": "1d550eb79ac67e0555ea81e3510ef8b87f9013bfaa5d917241fd4954293e15ea",
+      "uaHash": "98f7efdcd7edcf1679d84074ef02fe8f23a27ac82b58dcf57e82174b4d9009bd",
+      "ipHash": "c28a2c42be8b9e809f9ab7997707e9e3c35bf2187b1e6ede07c9f060c67073d0",
+      "identityHash": "d480ca611d9c0f096c8e469a542e6b6798e31abf018fdbd9b7ba0982ee30b8a6",
+      "status": "started",
+      "verifiedAt": 0,
+      "claimedAt": 0,
+      "key": "",
+      "keyExpireAt": 0
     }
   },
   "cooldowns": {
-    "9b5404177392607aafc5901e8c8f1fcdf787f114aff363adf3b12b88860adefd": 1780833114313,
-    "24f4171160d081b077c6bb8e723d8efcb402a302ecf5e68806b07891ddfabd64": 1780833126200,
     "9d456879a988e7c7df70ede4ddbf9f9b1b77f3a32d3606c12726595a94c1e9df": 1780833322127,
     "dd169493adfc46487ced5cd69f9be676f6d58b1cacadd63f7041fa60d9a7bcbc": 1780833322918,
     "7a1a2cf324ec47b3be8417286fec1a0d5ac568a40e84b7d5a6da8bb9b1cdb8b0": 1780833587357,

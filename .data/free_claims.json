@@ -1,19 +1,5 @@
 {
   "claims": {
-    "b7635fdd7d5bc9de570104177b58b2c3": {
-      "id": "b7635fdd7d5bc9de570104177b58b2c3",
-      "createdAt": 1780846961782,
-      "expiresAt": 1780847561782,
-      "browserHash": "",
-      "uaHash": "",
-      "ipHash": "",
-      "identityHash": "b9214a5bd9ee41993d4d1ee388179df68db8d32118c117d85dd5b408a8d7ec20",
-      "status": "claimed",
-      "verifiedAt": 1780847118327,
-      "claimedAt": 1780847118329,
-      "key": "ATH-AHTV-IN31",
-      "keyExpireAt": 1780933518329
-    },
     "61ec47b0abc57d402287cde1e1148264": {
       "id": "61ec47b0abc57d402287cde1e1148264",
       "createdAt": 1780847074471,
@@ -279,10 +265,23 @@
       "claimedAt": 0,
       "key": "",
       "keyExpireAt": 0
+    },
+    "f05a48848d7429561dc90a4b8d2f2656": {
+      "id": "f05a48848d7429561dc90a4b8d2f2656",
+      "createdAt": 1780848324815,
+      "expiresAt": 1780848924815,
+      "browserHash": "9da7046cf936a1e6d9f2035f92091c17c22484390fd9dc3797625a0c4b174d7d",
+      "uaHash": "7aae179d8c4158fb8af3fcfe5a169def154c3a9e183e001352a07eeca0f39956",
+      "ipHash": "6f69f71d5c68c2b21fd35cc4126fc09abadeff8ddcbdcf6ad79f2ef38f658223",
+      "identityHash": "85af0a367b375953632998e92adddbd61ea32a35d9580fb951a7cddc9cb62a93",
+      "status": "started",
+      "verifiedAt": 0,
+      "claimedAt": 0,
+      "key": "",
+      "keyExpireAt": 0
     }
   },
   "cooldowns": {
-    "89712071b166f9c36491fe62eb09f63d28092839d23f7ef7a0c42d678a73ecee": 1780848316390,
     "f2ab861b87212c761d49d18d2af3ab46ea0d4c3923b291a88158833795cb38f5": 1780849264686,
     "0a49af5e00c3749658d9f32c1d84fe3fd5afe57754df6106bcdfe5d321bcb756": 1780849550755,
     "8f182136fe9857c52c38055321c5cf0643bf36224752fff0d22ad891ea2e63e8": 1780849632005,

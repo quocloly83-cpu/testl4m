@@ -28,20 +28,6 @@
       "key": "ATH-408D-2NTV",
       "keyExpireAt": 1780941003722
     },
-    "fe2084568e830ca8e1f699092b227938": {
-      "id": "fe2084568e830ca8e1f699092b227938",
-      "createdAt": 1780854380806,
-      "expiresAt": 1780854980806,
-      "browserHash": "337c6f268f500e87bfa510fb9309baf5e93e9311d2ab6e944c523fc3ddfcbd05",
-      "uaHash": "11a1ba990928e59fff1a5599bdb9d1d1c76bf655c7e8aae502baa0869741a3f7",
-      "ipHash": "1725c9f8baf2d15840684fdbd3632cbec1505cec2dc37163f25d85ad629a76e0",
-      "identityHash": "ea7717657d6d692d96ad9b60af20eb69dffaba7ca0b22599649bfe4fc2c1cf4e",
-      "status": "started",
-      "verifiedAt": 0,
-      "claimedAt": 0,
-      "key": "",
-      "keyExpireAt": 0
-    },
     "91694ea724455eabc6246c492fc2571a": {
       "id": "91694ea724455eabc6246c492fc2571a",
       "createdAt": 1780854470341,
@@ -195,10 +181,23 @@
       "claimedAt": 1780855439587,
       "key": "ATH-4MND-5GLV",
       "keyExpireAt": 1780941839587
+    },
+    "c4af5d4a19766e9d3d625045a696d162": {
+      "id": "c4af5d4a19766e9d3d625045a696d162",
+      "createdAt": 1780855637482,
+      "expiresAt": 1780856237482,
+      "browserHash": "4e2b5e58185e14f0e7e3b7b2667d63ad9bf808582377ae94241b2184f1ee9e09",
+      "uaHash": "08f143821459ce32a5bf680a6b2b6fcef8d87ac83fa8db7226454727816d5497",
+      "ipHash": "ede4819c9821a60463e7c97526b139a9c4d2c3174d4667e3748e0074b719a3d0",
+      "identityHash": "5d8529bf365c95a2efb34f6fb8b5feadbb476c2af563e0259799e631bd601b53",
+      "status": "started",
+      "verifiedAt": 0,
+      "claimedAt": 0,
+      "key": "",
+      "keyExpireAt": 0
     }
   },
   "cooldowns": {
-    "1eb1a328422f2ff0056c35a70443c432986313b6c96fb67184aa8862bbf7eb11": 1780855553813,
     "29a906a9cc303942aec00c3bb21e02bc03c2dc274664bc33aaa3d6a92e705908": 1780855920577,
     "d893a0dcec19095282dc282cb288d0e089342500490bcb042f1592a83ce24151": 1780856467434,
     "c8ff4e808be390f5166eed18b00cfa40f597441806a8e0a20f9083b57e7867f7": 1780856563883,

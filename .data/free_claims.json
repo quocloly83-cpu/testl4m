@@ -1,19 +1,5 @@
 {
   "claims": {
-    "7a4583d585d6fb41ff484a81935f349c": {
-      "id": "7a4583d585d6fb41ff484a81935f349c",
-      "createdAt": 1781422683667,
-      "expiresAt": 1781423283667,
-      "browserHash": "",
-      "uaHash": "",
-      "ipHash": "",
-      "identityHash": "2b20bb05615349327ada377a1b150a76a8f51fe0bbf109c63c7e5112a81d3f9e",
-      "status": "claimed",
-      "verifiedAt": 1781422851039,
-      "claimedAt": 1781422851043,
-      "key": "ATH-PQEF-W213",
-      "keyExpireAt": 1781509251043
-    },
     "f4944d6bea0fb687bc41ea31693a0909": {
       "id": "f4944d6bea0fb687bc41ea31693a0909",
       "createdAt": 1781422790894,
@@ -28,34 +14,6 @@
       "key": "ATH-86AO-R0DP",
       "keyExpireAt": 1781509327025
     },
-    "f95bccf1b7ede52510f24c4896496b30": {
-      "id": "f95bccf1b7ede52510f24c4896496b30",
-      "createdAt": 1781422820961,
-      "expiresAt": 1781423420961,
-      "browserHash": "8d8fd123be1509655aec05470cb01e298fa21755b6a2e63f0a11bae7ea9d6958",
-      "uaHash": "f7e4573ad5ac3ae60e55d07f669bda96d85669a5c023871f90e4979f18ead3e7",
-      "ipHash": "8cf148abd4931ae4792ab92b669a7fec12bc287e0c891ac7e648b6a081f94c31",
-      "identityHash": "242685149fed71b3bb5d7672636d64d736d33645907b2eed88671e34eb88acb6",
-      "status": "started",
-      "verifiedAt": 0,
-      "claimedAt": 0,
-      "key": "",
-      "keyExpireAt": 0
-    },
-    "6db17620909e0e2b8caa9b2f7042b0bf": {
-      "id": "6db17620909e0e2b8caa9b2f7042b0bf",
-      "createdAt": 1781422841306,
-      "expiresAt": 1781423441306,
-      "browserHash": "86eef2cc68f8bd31837079229ae350a9dd180bab7cda6226dca65cc3a08f6dc6",
-      "uaHash": "3dbd2545ab907ee06c10bcd5b80e28a95fc93bbf550b0c5a5b0f11f147ec0ebf",
-      "ipHash": "558007fed333124206ddc7e47ccedb48f318a8e064574d145768f6a7e85f5510",
-      "identityHash": "19db9a0d119a31cba2d5c0c175c3c468ebc09025993eafa9e70bad68c8252d69",
-      "status": "started",
-      "verifiedAt": 0,
-      "claimedAt": 0,
-      "key": "",
-      "keyExpireAt": 0
-    },
     "8e1dfe56700ef74044cab2ccc039b425": {
       "id": "8e1dfe56700ef74044cab2ccc039b425",
       "createdAt": 1781422850542,
@@ -69,20 +27,6 @@
       "claimedAt": 1781423058853,
       "key": "ATH-TFN4-6YEW",
       "keyExpireAt": 1781509458853
-    },
-    "3b1c1299d95ad69aa7e5a6d42ee11fa9": {
-      "id": "3b1c1299d95ad69aa7e5a6d42ee11fa9",
-      "createdAt": 1781422851448,
-      "expiresAt": 1781423451448,
-      "browserHash": "79edcb4d81f88fd16b56d2ef9bf8485a5f07179698d6543bb8afcd6bca18a42b",
-      "uaHash": "e9679e6983d8ae76333219577239fe6fdc1d4d203e022dd671cbfd432660c344",
-      "ipHash": "0cff82a9c3dc1cbd81220d118ff3f4c6cf9fc8c9e24637647e5e82b80af38d81",
-      "identityHash": "e7dc300418bb8f47a7eb5437d9782ae1a863b56f0c305b0ab7a0c791b189fda1",
-      "status": "started",
-      "verifiedAt": 0,
-      "claimedAt": 0,
-      "key": "",
-      "keyExpireAt": 0
     },
     "a7fa9d182eccca13f93120985a25dfc5": {
       "id": "a7fa9d182eccca13f93120985a25dfc5",
@@ -839,10 +783,23 @@
       "claimedAt": 0,
       "key": "",
       "keyExpireAt": 0
+    },
+    "db6f53614c3f9d57a2d5de41bf4c847c": {
+      "id": "db6f53614c3f9d57a2d5de41bf4c847c",
+      "createdAt": 1781424084312,
+      "expiresAt": 1781424684312,
+      "browserHash": "f45ad4d3a95c0c245dda947ae66befc00a4c49db388bdd3f6a4acb9ef7bb6de4",
+      "uaHash": "ae0ca36a80758ae7cb8bef7c8d6977d81ef689807d535f6129eeae06a6743c34",
+      "ipHash": "884b0aba9458828bc3b15451ccca53421cbe57b1aa0a776c44e93e3dbd4ffe99",
+      "identityHash": "9f277725c20884adf8ea2086683330f662e1dd50096c6db7051b1961fa4c65cd",
+      "status": "started",
+      "verifiedAt": 0,
+      "claimedAt": 0,
+      "key": "",
+      "keyExpireAt": 0
     }
   },
   "cooldowns": {
-    "ce534fd1e65b1c638cb93e49165286be71aac2da400fca1e2970992c3fbeda69": 1781424025641,
     "8cb99f7c160e304067ee86e1db2dc28c91249ad16f56b4a3351f26a4edeb9cbf": 1781424244956,
     "68678a3840d537807ef0fe23f7b991e3b3d1093611300ca0da05fb99ecd93b64": 1781424303052,
     "13bda31c6fcf07d64fef6d7eb77bee9ed154e8435b12f6127778a49ff2842f0c": 1781424682817,

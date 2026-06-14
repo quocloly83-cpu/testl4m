@@ -1,19 +1,5 @@
 {
   "claims": {
-    "ba8cdcece55e8f1f084c3b3377ceecd8": {
-      "id": "ba8cdcece55e8f1f084c3b3377ceecd8",
-      "createdAt": 1781422980268,
-      "expiresAt": 1781423580268,
-      "browserHash": "",
-      "uaHash": "",
-      "ipHash": "",
-      "identityHash": "4e4dc424b01c1806781dd7ff225f9373ebdec8a3f5ea04e59ff22a96da1d2e77",
-      "status": "claimed",
-      "verifiedAt": 1781423570599,
-      "claimedAt": 1781423570604,
-      "key": "ATH-A8IC-ZHU9",
-      "keyExpireAt": 1781509970604
-    },
     "fbd16acea65dc98c640e558bb2109191": {
       "id": "fbd16acea65dc98c640e558bb2109191",
       "createdAt": 1781423436824,
@@ -55,20 +41,6 @@
       "claimedAt": 1781423866113,
       "key": "ATH-OP8Q-6X42",
       "keyExpireAt": 1781510266113
-    },
-    "5c3e8676d610601439813f3e45b3ccc5": {
-      "id": "5c3e8676d610601439813f3e45b3ccc5",
-      "createdAt": 1781423595156,
-      "expiresAt": 1781424195156,
-      "browserHash": "908444264b41edfa860db9f31c19a2683b51bb73e3af516bc4d5274c1d601579",
-      "uaHash": "61ada4eee6a27f26ab4182f535f3d21fbb9de3fd2137f829130d774192e684c2",
-      "ipHash": "4e504cfbee5d235a0cfc0d1d0657f12ed58784b98d0ad44d73a5d066bd5bb0ff",
-      "identityHash": "45efcada43ab99e586f1146639087d3962f9f0ad929492ac33989d4e70a2075e",
-      "status": "started",
-      "verifiedAt": 0,
-      "claimedAt": 0,
-      "key": "",
-      "keyExpireAt": 0
     },
     "1f0e16bf982025bce4d3744bc0addb25": {
       "id": "1f0e16bf982025bce4d3744bc0addb25",
@@ -662,15 +634,15 @@
       "id": "045d679ebed43fbae49d8abd2fd5acf9",
       "createdAt": 1781424659546,
       "expiresAt": 1781425259546,
-      "browserHash": "a4bfdcc75ecc73b580489416409e6dee6e2b54f9d9315e3afc73995d7c916622",
-      "uaHash": "1c9069f04f86c6779d22e83f72c77822e0427b8ce4652d251adf5d3eaa7e216d",
-      "ipHash": "8561d2500420cbff7c6320d9334b4f9d13f4096054aa8830931c93c54a4abd24",
+      "browserHash": "",
+      "uaHash": "",
+      "ipHash": "",
       "identityHash": "1dbb97caa51ee7a39602b0c2c5d7477a40469f61e31a4e74b29c14baed98a728",
-      "status": "started",
-      "verifiedAt": 0,
-      "claimedAt": 0,
-      "key": "",
-      "keyExpireAt": 0
+      "status": "claimed",
+      "verifiedAt": 1781424799204,
+      "claimedAt": 1781424799208,
+      "key": "ATH-SSJY-59G0",
+      "keyExpireAt": 1781511199208
     },
     "680265608cb8f6dda47583cf6b5ecb41": {
       "id": "680265608cb8f6dda47583cf6b5ecb41",
@@ -741,10 +713,23 @@
       "claimedAt": 0,
       "key": "",
       "keyExpireAt": 0
+    },
+    "bbece3d45e1605de13651ad94b748b20": {
+      "id": "bbece3d45e1605de13651ad94b748b20",
+      "createdAt": 1781424780522,
+      "expiresAt": 1781425380522,
+      "browserHash": "0df717f786d4a88c9d9f859ee3a90e660b889677834a872fb8207901b9d130c8",
+      "uaHash": "b014e0912d0218e29e937461b26c256100091722056be993c2934c540debcb23",
+      "ipHash": "4b5ea08781ba38db365fbdbcea878e61b43d8a7d62fcc298b02e81f8a8953967",
+      "identityHash": "5f22b4397b1f92b735116ccdf8ef48ccc75c3f2391343bf561854634b6a6706e",
+      "status": "started",
+      "verifiedAt": 0,
+      "claimedAt": 0,
+      "key": "",
+      "keyExpireAt": 0
     }
   },
   "cooldowns": {
-    "521fa7aa6740e7cf65b84bf6485c21727ee966f3c1a4e82940dde2aa9e3dd643": 1781424802584,
     "d955bb305c2bc0a7d769949c2106a29a30887b0349071b9e1bd8ac4e12b9227b": 1781424882543,
     "4dbff55061f4c38619df5b86bdcec53cb56ed7c3d47a866469b1dc308e5cdfbe": 1781424905390,
     "afdd4a711c44e7026588c1b965c38adf2b29d9badc4f7b5fb3ee07b11ff89528": 1781424927376,
@@ -1438,6 +1423,7 @@
     "7f1c4ec0e29265bc3ddcbf21b7a3c49dded13ed7595a1e6edd2406a52fc6e74b": 1781510821876,
     "6d986d9b94b225a8c439e09ac7a861925ec6b8676517d98af510a0ec754dbe5c": 1781510880728,
     "25ee87839992346fcb2a93bcd6c2949a54525052680bacc4450f7c7c03c6ea08": 1781511054799,
-    "6c3efe54b807c9a39c769260cd7b1f34fffa4c3fe06288e9e1ff3782a4f738ad": 1781511154809
+    "6c3efe54b807c9a39c769260cd7b1f34fffa4c3fe06288e9e1ff3782a4f738ad": 1781511154809,
+    "1dbb97caa51ee7a39602b0c2c5d7477a40469f61e31a4e74b29c14baed98a728": 1781511199208
   }
 }

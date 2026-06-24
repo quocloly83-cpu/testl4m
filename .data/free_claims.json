@@ -1,33 +1,5 @@
 {
   "claims": {
-    "a2bbe3e591d41828f3e3f2e1a14a5751": {
-      "id": "a2bbe3e591d41828f3e3f2e1a14a5751",
-      "createdAt": 1782298158191,
-      "expiresAt": 1782298758191,
-      "browserHash": "",
-      "uaHash": "",
-      "ipHash": "",
-      "identityHash": "de47e89fd661b08f466edc0c610f8a20cf16b29bca34266a8064761f9c7699b6",
-      "status": "claimed",
-      "verifiedAt": 1782298363854,
-      "claimedAt": 1782298363859,
-      "key": "ATH-FJSF-6D0Q",
-      "keyExpireAt": 1782384763859
-    },
-    "b0bff0e931ea0d2dd84c2a97ddda1ddb": {
-      "id": "b0bff0e931ea0d2dd84c2a97ddda1ddb",
-      "createdAt": 1782298204379,
-      "expiresAt": 1782298804379,
-      "browserHash": "",
-      "uaHash": "",
-      "ipHash": "",
-      "identityHash": "304392586d3c202009a6f2f7762c0d3ebca4e31f0614d313c8317008eba522b2",
-      "status": "claimed",
-      "verifiedAt": 1782298370414,
-      "claimedAt": 1782298370418,
-      "key": "ATH-W501-JZ63",
-      "keyExpireAt": 1782384770418
-    },
     "c24da14ddb731d1c0ffadae03efa0c4e": {
       "id": "c24da14ddb731d1c0ffadae03efa0c4e",
       "createdAt": 1782298253676,
@@ -335,10 +307,23 @@
       "claimedAt": 0,
       "key": "",
       "keyExpireAt": 0
+    },
+    "51748db73ea9cf922c6e95a0b061bea2": {
+      "id": "51748db73ea9cf922c6e95a0b061bea2",
+      "createdAt": 1782299602472,
+      "expiresAt": 1782300202472,
+      "browserHash": "f52ea62d04dccce080048103baa822113b0b8ac3be3f131e00547498504dac9a",
+      "uaHash": "43f25befc81448a7b6d486d436de535ccf8e4308753d40347b7856358735c0cf",
+      "ipHash": "9e83b8c4b69e0ba830025edc19832c86d987dbb8d61dad31725bff186caa2332",
+      "identityHash": "1a647bf033d282198c7a5001579a46554aeaee4885e4e3d9ef91c3b01776709d",
+      "status": "started",
+      "verifiedAt": 0,
+      "claimedAt": 0,
+      "key": "",
+      "keyExpireAt": 0
     }
   },
   "cooldowns": {
-    "f83bbc6d25849fb5a62675251bc2552a43e67b37e4f2699b1ca5ad52294fca54": 1782299585063,
     "bab43ce07c503bc82318d073b8e661e626db3a50eea565ded90190cca9c4fd8c": 1782299620061,
     "599f9e2d71da616509d4d2b32a31d5ddc528e32e6ed14a20ca69886c1a1adfc6": 1782299684636,
     "8e8d7f4a21a582f2d431a72e261e4a74867a685795431c10d466fd4d4c4c6695": 1782299732447,

@@ -1,33 +1,5 @@
 {
   "claims": {
-    "ae419f5c5a5adcb409eb6c9c9ba9d00d": {
-      "id": "ae419f5c5a5adcb409eb6c9c9ba9d00d",
-      "createdAt": 1783478979413,
-      "expiresAt": 1783479579413,
-      "browserHash": "",
-      "uaHash": "",
-      "ipHash": "",
-      "identityHash": "b6f9e7c85472e9a63c5d0458887ab48822e5974664379aa5ea57ad3abd6b6eea",
-      "status": "claimed",
-      "verifiedAt": 1783479211841,
-      "claimedAt": 1783479211844,
-      "key": "ATH-JH3I-M8IK",
-      "keyExpireAt": 1783565611844
-    },
-    "ca14920e3ca4d0c476d538a0faefa8b2": {
-      "id": "ca14920e3ca4d0c476d538a0faefa8b2",
-      "createdAt": 1783479052679,
-      "expiresAt": 1783479652679,
-      "browserHash": "",
-      "uaHash": "",
-      "ipHash": "",
-      "identityHash": "9e2fd6f792144d7bd074cf18468a818ba79791484191bf4e317856e576ffa96b",
-      "status": "claimed",
-      "verifiedAt": 1783479231330,
-      "claimedAt": 1783479231332,
-      "key": "ATH-06D7-BPMK",
-      "keyExpireAt": 1783565631332
-    },
     "60ee0e7575bfc0605486d881c3745160": {
       "id": "60ee0e7575bfc0605486d881c3745160",
       "createdAt": 1783479086599,
@@ -321,10 +293,23 @@
       "claimedAt": 0,
       "key": "",
       "keyExpireAt": 0
+    },
+    "fbc2a62297bf37d73eaf51f345e9864d": {
+      "id": "fbc2a62297bf37d73eaf51f345e9864d",
+      "createdAt": 1783480437421,
+      "expiresAt": 1783481037421,
+      "browserHash": "0dfcc65d0e44d747ab6ac1820a8582e3895e11f93294510fcb1f752a2a1b4647",
+      "uaHash": "690c529def398ba238f4287c9b19068a84e60d3b84588238d1dbd8426b6fbfde",
+      "ipHash": "002e41339fda4de16c70575febe1b5ea49c8b7acef1b24fa68435f24ad6c1923",
+      "identityHash": "b8ea12c06eaf0858bbc2bccde58c8af868951035e75204facde8a2ae3f3be76e",
+      "status": "started",
+      "verifiedAt": 0,
+      "claimedAt": 0,
+      "key": "",
+      "keyExpireAt": 0
     }
   },
   "cooldowns": {
-    "49b84f5558ea162c30eb1284b776b414d9ec45670be5e4bac0e1bd389d300845": 1783480403677,
     "5fd4a50dfc7b89951b8c1f30c53d9a423ec95399ac05bc0493be7765c3a1f5fa": 1783480469988,
     "07a3d293ea725d229975d8c63f65f83d00da39f69c97908e430851cb6c841ce7": 1783480515395,
     "2b64d95c699fba41d7d4608e86d0a9187a450a8ff98e61ef63afb96ae76258d9": 1783480573785,

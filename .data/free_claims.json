@@ -4,15 +4,15 @@
       "id": "5dcc9643f03836464d7a2b6d01c5dd25",
       "createdAt": 1783633372549,
       "expiresAt": 1783633972549,
-      "browserHash": "172de8b656ebb1d510ae94802bf44963aaae8777233fc2199a27c67f2f8794cc",
-      "uaHash": "3ab26e246d1a1a3b0cadcf2bba7fb41697fedf3567fc731ff382e02ab38f2b43",
-      "ipHash": "d9e6ea5d8668cbe0633811f8bea1aa0bac36d96e5e8179bf02f763326c47e0a4",
+      "browserHash": "",
+      "uaHash": "",
+      "ipHash": "",
       "identityHash": "ee9e776a6b3c829985cfa9e1947e7bc81e2975e57c8057078203afbcb65346d3",
-      "status": "started",
-      "verifiedAt": 0,
-      "claimedAt": 0,
-      "key": "",
-      "keyExpireAt": 0
+      "status": "claimed",
+      "verifiedAt": 1783633558907,
+      "claimedAt": 1783633558910,
+      "key": "ATH-B69R-IH9X",
+      "keyExpireAt": 1783719958910
     },
     "98dc5a624d257c55d5b101eee40e8b28": {
       "id": "98dc5a624d257c55d5b101eee40e8b28",
@@ -29,5 +29,7 @@
       "keyExpireAt": 0
     }
   },
-  "cooldowns": {}
+  "cooldowns": {
+    "ee9e776a6b3c829985cfa9e1947e7bc81e2975e57c8057078203afbcb65346d3": 1783719958910
+  }
 }

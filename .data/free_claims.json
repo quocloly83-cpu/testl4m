@@ -1,19 +1,5 @@
 {
   "claims": {
-    "faf3975124090fca75fbe126267a063b": {
-      "id": "faf3975124090fca75fbe126267a063b",
-      "createdAt": 1783709460874,
-      "expiresAt": 1783710060874,
-      "browserHash": "960566e1cc0f4720d74f42f1b355df70dc8e059990f600c1150d2ea77320f06f",
-      "uaHash": "b63bd5ad6b10919d4e35b434de07f51fca04311b3ee91921deb1b17a44abf01c",
-      "ipHash": "14bc5530b72b61d29ec9bd898012daf5d104caaaac860047afda091a61bbb6f4",
-      "identityHash": "0395f2389a1ab57e90059f1b3bf97245d41133452919a03e8700d60435b0f233",
-      "status": "started",
-      "verifiedAt": 0,
-      "claimedAt": 0,
-      "key": "",
-      "keyExpireAt": 0
-    },
     "5ab68ae21b6af75293c3d435c372a451": {
       "id": "5ab68ae21b6af75293c3d435c372a451",
       "createdAt": 1783709551991,
@@ -116,10 +102,24 @@
       "id": "8a04d8f775905177921de12186bf5058",
       "createdAt": 1783710501482,
       "expiresAt": 1783711101482,
-      "browserHash": "bdae64380666c58fe49940cf6733fa5f89cde8a49c2602333237c269a07121d8",
-      "uaHash": "1c49b5c9286ec49328609b893e2717cf7d207baa6a01c78c1415affaeb686c66",
-      "ipHash": "e0a2e55680cd116b7cf4ee02875da2bd364a53ac1c2f097ac128fb2aad6afda1",
+      "browserHash": "",
+      "uaHash": "",
+      "ipHash": "",
       "identityHash": "c41f47f739feb080c89240af2cd2249c38b2a1c691634e77d3a86bcb7e794c0e",
+      "status": "claimed",
+      "verifiedAt": 1783710741035,
+      "claimedAt": 1783710741037,
+      "key": "ATH-96VZ-F3TD",
+      "keyExpireAt": 1783797141037
+    },
+    "c79e46f9a18febf25c3b6ea243913d67": {
+      "id": "c79e46f9a18febf25c3b6ea243913d67",
+      "createdAt": 1783710741974,
+      "expiresAt": 1783711341974,
+      "browserHash": "4c9a9a02187a57c4682d0dd57dee678f9dbc316d900d5d4993c53b21bfc93df7",
+      "uaHash": "2dcb9e3b0396d10e326eeea7c4aed3e3be4f59c3f506fbb17bdf889e53cfef17",
+      "ipHash": "452926898d7b9b09a92cc2e6135150c3c29dd153646b84f03f09e19b61bb0b10",
+      "identityHash": "33f7f14f2de237652a152710115ce5eb38536c49e64a69398e52dbed9d4175e3",
       "status": "started",
       "verifiedAt": 0,
       "claimedAt": 0,
@@ -354,6 +354,7 @@
     "5f2f60bc95ea1786ed3750352549047395f594be0d322a4b04a940904c9f4a22": 1783796188924,
     "251f0b583b89af09245179363d3ef4b3d4301b43ab7f593225580e9207ee607c": 1783796223745,
     "5770b3abe3f5d897d70696e3f59475bdb6aad4038ef0ba3101e495b7a2e2c045": 1783796295836,
-    "b008e7b87bd17e89762de0379af3d5f138d2be16c5b97dd849c6e65f625cc233": 1783796796603
+    "b008e7b87bd17e89762de0379af3d5f138d2be16c5b97dd849c6e65f625cc233": 1783796796603,
+    "c41f47f739feb080c89240af2cd2249c38b2a1c691634e77d3a86bcb7e794c0e": 1783797141037
   }
 }

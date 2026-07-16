@@ -1,19 +1,5 @@
 {
   "claims": {
-    "08c47924346914e4b6a6d552bdec08d7": {
-      "id": "08c47924346914e4b6a6d552bdec08d7",
-      "createdAt": 1784201806932,
-      "expiresAt": 1784202406932,
-      "browserHash": "66adb8a78017b5ce4301382bf43712e4bcde7a3e1d1f4ec621223574aebf2d3e",
-      "uaHash": "c4e9de2a9ffd3c2f6aa5fe1cf3eb95a50ed1c064cc472e4ec76884c5fdf2f395",
-      "ipHash": "6716571c5f145065895dc6eb9b255383dc7b4a7d8cad3ff5e70e33a367e90a88",
-      "identityHash": "8b39168eb2af6b64a21e5cab8a11c3377d6332cf57b48fbce13baf11cc534a6d",
-      "status": "started",
-      "verifiedAt": 0,
-      "claimedAt": 0,
-      "key": "",
-      "keyExpireAt": 0
-    },
     "8872aeee1f070d3a653c6c093ab9c3cf": {
       "id": "8872aeee1f070d3a653c6c093ab9c3cf",
       "createdAt": 1784201891584,
@@ -256,15 +242,15 @@
       "id": "edc6c4c8998f192649ecc6b8be7912e4",
       "createdAt": 1784202786339,
       "expiresAt": 1784203386339,
-      "browserHash": "ee19b6027b6aad3e512dedb09f880383c55031e959fefea6b5a40bd59b94e01a",
-      "uaHash": "e1b7be0f2c5f126e5382343e6388ee42b49e2a467f6e94b79bc172538331b971",
-      "ipHash": "49abfa5b9aedfc7986d24a1b482066a6e8bdfdeb0b735446591dab4ee1050e6a",
+      "browserHash": "",
+      "uaHash": "",
+      "ipHash": "",
       "identityHash": "21030b38aa01424db57738af9cd96e40b4fa6b00315562e7422f710a7a5c5df2",
-      "status": "started",
-      "verifiedAt": 0,
-      "claimedAt": 0,
-      "key": "",
-      "keyExpireAt": 0
+      "status": "claimed",
+      "verifiedAt": 1784203027792,
+      "claimedAt": 1784203027795,
+      "key": "ATH-MM74-A6HQ",
+      "keyExpireAt": 1784289427795
     },
     "7fbecdcb4b37be853cbac6f979ae34da": {
       "id": "7fbecdcb4b37be853cbac6f979ae34da",
@@ -296,8 +282,6 @@
     }
   },
   "cooldowns": {
-    "5f7fbcf892fd8231376b28bb91f2397c9794ff996f8dff19fb0604baf2ea563a": 1784202986096,
-    "b8aefd28c8af82005943be8e04d779a07e13e8373a39642930fc3ef32537e044": 1784202996672,
     "3b648e3ed0d4363e4b165e6896d7cca48d3a784aae4788c513d50352181922f3": 1784203182861,
     "61ea7f076c98318816fa89ba8ed0fec2e2b6554d5ae71d69aceb68d272b02231": 1784203247738,
     "f61c591467ffa92fcd7231479812288dfc1f08177b3ee1a2c90274fbc6e6d15e": 1784203259034,
@@ -841,6 +825,7 @@
     "0972d4d1a4fd8eee08d82d9a97f099cbf921b82e5cb87b625217510ce2c02b4a": 1784289002244,
     "343f6059dfe56c244f0b260064f3a3429b8afa63ea77ea2128633a984b26b23c": 1784289229302,
     "a33bccfd4b63d8c564b88df6a79a0bef072daaad4c03c12b5464257089059c66": 1784289338823,
-    "606fe7300149fe38857d859ff09e6977636619d5ac668dcc41b596314bf93c3c": 1784289339642
+    "606fe7300149fe38857d859ff09e6977636619d5ac668dcc41b596314bf93c3c": 1784289339642,
+    "21030b38aa01424db57738af9cd96e40b4fa6b00315562e7422f710a7a5c5df2": 1784289427795
   }
 }

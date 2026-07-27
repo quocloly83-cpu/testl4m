@@ -1,33 +1,5 @@
 {
   "claims": {
-    "c761b68b3f8691e1daf964ba230c09c6": {
-      "id": "c761b68b3f8691e1daf964ba230c09c6",
-      "createdAt": 1785159505862,
-      "expiresAt": 1785160105862,
-      "browserHash": "",
-      "uaHash": "",
-      "ipHash": "",
-      "identityHash": "9325ad1e0542803f35c5ab39533778685386a6ed50e1be30288be15d5f9c0203",
-      "status": "claimed",
-      "verifiedAt": 1785159831152,
-      "claimedAt": 1785159831154,
-      "key": "ATH-IHTZ-786M",
-      "keyExpireAt": 1785246231154
-    },
-    "119568f889fd1f57e47596cbd7d0ef95": {
-      "id": "119568f889fd1f57e47596cbd7d0ef95",
-      "createdAt": 1785159682207,
-      "expiresAt": 1785160282207,
-      "browserHash": "",
-      "uaHash": "",
-      "ipHash": "",
-      "identityHash": "2ef614ad5cce29ba07b9aab2b87271ad2729a7b40f7a78b29e18cba33f0aaca9",
-      "status": "claimed",
-      "verifiedAt": 1785159843102,
-      "claimedAt": 1785159843104,
-      "key": "ATH-H9EM-5FOX",
-      "keyExpireAt": 1785246243104
-    },
     "18607a93eab6ad0c3967dc54a79b6220": {
       "id": "18607a93eab6ad0c3967dc54a79b6220",
       "createdAt": 1785159738686,
@@ -195,10 +167,23 @@
       "claimedAt": 1785160758918,
       "key": "ATH-8BB7-FLZ5",
       "keyExpireAt": 1785247158918
+    },
+    "47404f65e73612d42d4fc34c27119634": {
+      "id": "47404f65e73612d42d4fc34c27119634",
+      "createdAt": 1785161050713,
+      "expiresAt": 1785161650713,
+      "browserHash": "8d9a6e6d9042bde3695c6673b0ad84662ba3f292b7d99a31cafe7e9226798bee",
+      "uaHash": "a983b0767deba13ec5bbeda1c2e3c657fde32adf77c69c8486012d4a6cf5d3d3",
+      "ipHash": "6d8326f1ed7d10c6033821bed1cc97dff3e3ec33acd56c640488e3ae02bb2022",
+      "identityHash": "aa8ef82bed0f202abe6768a9b077963b28dd99f9e8a194a45a14b2f7821a741f",
+      "status": "started",
+      "verifiedAt": 0,
+      "claimedAt": 0,
+      "key": "",
+      "keyExpireAt": 0
     }
   },
   "cooldowns": {
-    "f52f1ef2bf408d9bd64c791bfa4284bdeda703499e2239ea6ed08f45527670cc": 1785161022401,
     "ebabd06ce18ea9ac2eac8027e22fedc43c7e7185177713690f5dcc683e5addd8": 1785161297211,
     "072a6488a8f69fba8ab5f15825539bbb7a4d8a8f2bc48b5f927856761efc4b70": 1785161515382,
     "b9650b9e781d8748df474359ecce33d90e0797c07655406422a00bffd150462f": 1785161533327,

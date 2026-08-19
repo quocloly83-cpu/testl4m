@@ -1,33 +1,5 @@
 {
   "claims": {
-    "c078d2cdd31be6bc15677dd32e32d7d7": {
-      "id": "c078d2cdd31be6bc15677dd32e32d7d7",
-      "createdAt": 1787101013584,
-      "expiresAt": 1787101613584,
-      "browserHash": "",
-      "uaHash": "",
-      "ipHash": "",
-      "identityHash": "2c840fab3713c65c9a4f041e32831aafc8f18ed10bf807c42f7582bac2dfb204",
-      "status": "claimed",
-      "verifiedAt": 1787101241090,
-      "claimedAt": 1787101241092,
-      "key": "ATH-B7K4-7DSK",
-      "keyExpireAt": 1787187641092
-    },
-    "fcff8fc6429edf701a518a524465e0b5": {
-      "id": "fcff8fc6429edf701a518a524465e0b5",
-      "createdAt": 1787101083486,
-      "expiresAt": 1787101683486,
-      "browserHash": "",
-      "uaHash": "",
-      "ipHash": "",
-      "identityHash": "eeb7fef4e8e14a94b820c88c95e91cb1d9715e2dad5f127c923a80722cb0f913",
-      "status": "claimed",
-      "verifiedAt": 1787101302538,
-      "claimedAt": 1787101302540,
-      "key": "ATH-N3ML-SXW5",
-      "keyExpireAt": 1787187702540
-    },
     "20b03691bc01f5a6af35b297de216198": {
       "id": "20b03691bc01f5a6af35b297de216198",
       "createdAt": 1787101755036,
@@ -125,10 +97,23 @@
       "claimedAt": 0,
       "key": "",
       "keyExpireAt": 0
+    },
+    "3511dd83a4de8661316cdbe764a006c4": {
+      "id": "3511dd83a4de8661316cdbe764a006c4",
+      "createdAt": 1787102873924,
+      "expiresAt": 1787103473924,
+      "browserHash": "fe31dad7b75ab526459f10cf5f428a9c08dfd13cf5551e433babb7038cb4f10f",
+      "uaHash": "673df8b7cc1dfa473875eafea01c29105149e44ace51f0883031ce445d946a30",
+      "ipHash": "7ad5adc249f78788d3056ee30e8caa68259af7a58fd56a1b31e3d0b1f16e85c0",
+      "identityHash": "14e4cd5ad442795deaa2a8c02145d73a584500837eb08b2c460cd7ce1151b83b",
+      "status": "started",
+      "verifiedAt": 0,
+      "claimedAt": 0,
+      "key": "",
+      "keyExpireAt": 0
     }
   },
   "cooldowns": {
-    "351c352ab465e5dc361c79a87f0a55c90f9e31d3ab959e213b5499ea48f6786c": 1787102279775,
     "bc072bf862244fae3741bc428a9802ae2e32d063e50ece2abd089d2e722ef88d": 1787103088529,
     "dba81a72f15c71ac03af3261f9d5e2f5cf6827f5b23a911a4947ed57627e5407": 1787103127860,
     "9d4831551ccd1974512a13edb00b92fd8fae8522551323506b13b42e91d9ef0f": 1787103582983,

@@ -1,33 +1,5 @@
 {
   "claims": {
-    "4358ca5f416c1c15c879cd22831132ea": {
-      "id": "4358ca5f416c1c15c879cd22831132ea",
-      "createdAt": 1787137771999,
-      "expiresAt": 1787138371999,
-      "browserHash": "",
-      "uaHash": "",
-      "ipHash": "",
-      "identityHash": "5c53101504903b406be15d2c341e7207705de3b07fcd20b9b62ea8daffcdd0b3",
-      "status": "claimed",
-      "verifiedAt": 1787137911629,
-      "claimedAt": 1787137911632,
-      "key": "ATH-H5ES-ZDIJ",
-      "keyExpireAt": 1787224311632
-    },
-    "7928186f29c5160f6eafac7c9ffe8814": {
-      "id": "7928186f29c5160f6eafac7c9ffe8814",
-      "createdAt": 1787137795126,
-      "expiresAt": 1787138395126,
-      "browserHash": "",
-      "uaHash": "",
-      "ipHash": "",
-      "identityHash": "9404a4cd9ef687e44e538db98748c99d02ec49bdc82c4ec0d5a7a6d3b4597550",
-      "status": "claimed",
-      "verifiedAt": 1787137982375,
-      "claimedAt": 1787137982377,
-      "key": "ATH-Q5XM-L3CP",
-      "keyExpireAt": 1787224382377
-    },
     "5addffbcf04ff54a9a26099b2edb1200": {
       "id": "5addffbcf04ff54a9a26099b2edb1200",
       "createdAt": 1787137997019,
@@ -391,10 +363,23 @@
       "claimedAt": 0,
       "key": "",
       "keyExpireAt": 0
+    },
+    "5fea9a1ae4030633a96e29a65c1fddc9": {
+      "id": "5fea9a1ae4030633a96e29a65c1fddc9",
+      "createdAt": 1787139213402,
+      "expiresAt": 1787139813402,
+      "browserHash": "83cce2afeccd96d2c6dce6067b54f5e1b81ca52c9fa9fc215946ba922cd0d97f",
+      "uaHash": "11ac3775e76fa37daabbe9ab1190f1e9c092bcfa33ff10c23a89c4a69cb4ecc3",
+      "ipHash": "0eac943cd3c6dbe447ca7a2a246db0a4935ca10b57bdff74ec774b7fcac3d69a",
+      "identityHash": "f6d592cc9b0a277133471e1aae1e3c1cc7ee152529098b7bc35ed1620e02bff4",
+      "status": "started",
+      "verifiedAt": 0,
+      "claimedAt": 0,
+      "key": "",
+      "keyExpireAt": 0
     }
   },
   "cooldowns": {
-    "6cde40b22c372ac7745e22040f1f9433261d21abfc12fe0bbf6328a28e9ee6f4": 1787139145211,
     "eba48f5994f2412325644ec315fb1bac18feeeffd5e89d83f397c3c00d310d06": 1787139288457,
     "453634642359c3a59729ba1968eca950d36ac0e03f6b2cac668aac4a53824dd7": 1787139317861,
     "1b8a248a8a6efb2b5a37b014bc0d89c23ecd50a623cba2f98a9c7ac13d0cf018": 1787139520572,

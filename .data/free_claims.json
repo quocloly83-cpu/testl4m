@@ -1,33 +1,5 @@
 {
   "claims": {
-    "409e8ac504edc6ef4b2cdd29d9c21614": {
-      "id": "409e8ac504edc6ef4b2cdd29d9c21614",
-      "createdAt": 1787183397883,
-      "expiresAt": 1787183997883,
-      "browserHash": "",
-      "uaHash": "",
-      "ipHash": "",
-      "identityHash": "7bb71f6a279bbea789b50da20fabcac3fc25ab47ce3bedba9aa570eab11a7c4b",
-      "status": "claimed",
-      "verifiedAt": 1787183591810,
-      "claimedAt": 1787183591812,
-      "key": "ATH-33JU-DQUF",
-      "keyExpireAt": 1787269991812
-    },
-    "f1a0c45ed6abf2dd99adddadde8c5fc1": {
-      "id": "f1a0c45ed6abf2dd99adddadde8c5fc1",
-      "createdAt": 1787183911448,
-      "expiresAt": 1787184511448,
-      "browserHash": "",
-      "uaHash": "",
-      "ipHash": "",
-      "identityHash": "9dcd9b31adf2319eabbd704790d50813ccdec69d06b9c95961703ef780c9f237",
-      "status": "claimed",
-      "verifiedAt": 1787184056696,
-      "claimedAt": 1787184056757,
-      "key": "ATH-LORO-S5RS",
-      "keyExpireAt": 1787270456757
-    },
     "2e9e04e3e9bba17ca7725343c0d3db39": {
       "id": "2e9e04e3e9bba17ca7725343c0d3db39",
       "createdAt": 1787184409586,
@@ -111,10 +83,23 @@
       "claimedAt": 0,
       "key": "",
       "keyExpireAt": 0
+    },
+    "c00b75b76f9b38a18fe30ef04e322d67": {
+      "id": "c00b75b76f9b38a18fe30ef04e322d67",
+      "createdAt": 1787185319742,
+      "expiresAt": 1787185919742,
+      "browserHash": "ebf57607d6ec637071dd34bfecb87c3595b6ec1df28cdf7219827fa8d715d592",
+      "uaHash": "e513fbe69a32323d733fc6434eb0912255fd4802e5df6a5669845b5c9d8ae8a4",
+      "ipHash": "e1595a959d38ba90c6be2b1d863fe76acdee133874e53de4389907d875837be3",
+      "identityHash": "346fc4ae6b537bd790aa8b6b088043ce0dfc58af7d27a428b8eba12bdba37f00",
+      "status": "started",
+      "verifiedAt": 0,
+      "claimedAt": 0,
+      "key": "",
+      "keyExpireAt": 0
     }
   },
   "cooldowns": {
-    "6c898bdbc8085291bbac4a58c4d87754b69bf35d6fa2e5bd8e2cd3b5ddda77f1": 1787185236575,
     "ee2a24a50fc983f0b6c32d549b1616ecb2207a3a136aebe6d16a0619cc0c871a": 1787185727336,
     "77b96bab265307dd7f64b8c4aaa26599cb5d96429c4013d99a8502e56369a9c6": 1787186423624,
     "2c840fab3713c65c9a4f041e32831aafc8f18ed10bf807c42f7582bac2dfb204": 1787187641092,

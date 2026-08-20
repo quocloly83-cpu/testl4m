@@ -1,19 +1,5 @@
 {
   "claims": {
-    "db820d53f9cd3462ba77ec5b2dccb39c": {
-      "id": "db820d53f9cd3462ba77ec5b2dccb39c",
-      "createdAt": 1787224015397,
-      "expiresAt": 1787224615397,
-      "browserHash": "b0c08ab46c35999d2226ba3c817d7c291ca11a9830895c682bebd7d4e654e70b",
-      "uaHash": "08a537686bad157d488183af0faca7d2f1187c21be76424304e320451ce790ee",
-      "ipHash": "ceb26ac1815f3a4a22d2bb85e628411dfe76a991ffa7bf6c4b64dcf1973fd380",
-      "identityHash": "a08ca487b781fa741d5fae2755fc5ce8ebb7c93a7e4b7caac6215e7a619d34f0",
-      "status": "started",
-      "verifiedAt": 0,
-      "claimedAt": 0,
-      "key": "",
-      "keyExpireAt": 0
-    },
     "28f3d6c7e816f61fc9f642bb722f1a2b": {
       "id": "28f3d6c7e816f61fc9f642bb722f1a2b",
       "createdAt": 1787224015671,
@@ -209,12 +195,23 @@
       "claimedAt": 0,
       "key": "",
       "keyExpireAt": 0
+    },
+    "c92083444fa27e73b5f36fa8e4eb4737": {
+      "id": "c92083444fa27e73b5f36fa8e4eb4737",
+      "createdAt": 1787225252266,
+      "expiresAt": 1787225852266,
+      "browserHash": "3077d3b4a0f2c136290bd3651d5b66c623682d9f47874c3e6fdf483e8a3fa2ea",
+      "uaHash": "ca0445db725fc58e3c8421f4a353ee1b84b9438a4bb6f2e5cb8a3e90d168bc1d",
+      "ipHash": "47a7e3045390acaddcce416d358e4897d21b5e40bd6de83032f13e4925861645",
+      "identityHash": "d7879dedb743744ccb5db074b422584f077322f0a58bb0b7da651219ec912b22",
+      "status": "started",
+      "verifiedAt": 0,
+      "claimedAt": 0,
+      "key": "",
+      "keyExpireAt": 0
     }
   },
   "cooldowns": {
-    "91036c68bc66cd24efeba82c215644a13230add369bc18e6aec9c72411b70078": 1787225152414,
-    "916406e83e017748c31a65c43cfe0ae0d6ddd13a10b425c3e8ecb6636c32b594": 1787225163274,
-    "b09839856e515a5476b6c5d7e5543ee949f6458a37f1c4dcf62f1e0bec5836a4": 1787225236634,
     "0467a5ffe92f4aff697c44e1aa5c66458eac4bd9df56de3df2d93997e4badf2c": 1787225479577,
     "db2b712a4bc6496ebe5635563fe6a2b8b3ea912875acbf587322fd8b25ef9e1d": 1787225680902,
     "222d179b11c4fbeced322aa4730cb3d2628d613ed1b434abe7ac366b41945d7a": 1787226131397,

@@ -28,20 +28,6 @@
       "key": "ATH-SCIV-KYDF",
       "keyExpireAt": 1787299475514
     },
-    "96aea5c87d6eaae91b3edb8025a59127": {
-      "id": "96aea5c87d6eaae91b3edb8025a59127",
-      "createdAt": 1787212693471,
-      "expiresAt": 1787213293471,
-      "browserHash": "6d7def8c7624dd45149a46382321323f7f1d8d8351d6a3b0c434493dad77576b",
-      "uaHash": "b3f71dfcf29c558b24fe90a3a508fadccbad55c9e776545937324dffc16f5411",
-      "ipHash": "e7d08e25b44a708f0e778a1cf32916b03f18258fd5328c4eda585a02e7d9b96f",
-      "identityHash": "6aada74eaf7ac9bb1ba15bbd715468b563e8c59ef93e421189582800163577af",
-      "status": "started",
-      "verifiedAt": 0,
-      "claimedAt": 0,
-      "key": "",
-      "keyExpireAt": 0
-    },
     "38b02aa6d900974f644dbe09a52938be": {
       "id": "38b02aa6d900974f644dbe09a52938be",
       "createdAt": 1787212748544,
@@ -335,10 +321,23 @@
       "claimedAt": 1787213877875,
       "key": "ATH-4CQT-2XRM",
       "keyExpireAt": 1787300277875
+    },
+    "dbc5484837883fc7b0d8af99fc6fc8da": {
+      "id": "dbc5484837883fc7b0d8af99fc6fc8da",
+      "createdAt": 1787213982379,
+      "expiresAt": 1787214582379,
+      "browserHash": "89b8080b3a4e449a1522ad567a217188a0b466ea827544439a43353a0802d436",
+      "uaHash": "f795376adb82c6ca8ed9003ffa540815b26d9c420bb1ce623349cf94b25f8956",
+      "ipHash": "4922deaae56a87a88b037bb040fc74b633971fb6445ab841b242efb339673d3c",
+      "identityHash": "71f61e276abe958ad2488bdec85703a7b02da85a713d4e892123a6ef48d40e86",
+      "status": "started",
+      "verifiedAt": 0,
+      "claimedAt": 0,
+      "key": "",
+      "keyExpireAt": 0
     }
   },
   "cooldowns": {
-    "f49a7610d30aa4844cb64a51c60260ce17924d3f70570712f0d048ee6999ef3e": 1787213915859,
     "6456567e2de360a53f53ab71d9486230a044f01a308ede354a86d79e3e13000e": 1787214212344,
     "9817abec6a75bff6623f3c5eacb86d6928d5337195e5e725adca13be48546c45": 1787214634427,
     "8a698a304b7f9fb34e5fde3101156bb58d44dfebcddddc9a670b645bc6a53214": 1787214653062,

@@ -1,19 +1,5 @@
 {
   "claims": {
-    "61fb5e7cbd048f81245ddbeaa69042a9": {
-      "id": "61fb5e7cbd048f81245ddbeaa69042a9",
-      "createdAt": 1787302876698,
-      "expiresAt": 1787303476698,
-      "browserHash": "7fc5b3c4e34ce9997af69e8412996436011cb0dff66477ab6935f669ecce6179",
-      "uaHash": "fcf31751ef180e21c7e33f2b5612c8ce218aca393bfce354a34e7ad971df3524",
-      "ipHash": "4a696d101fec8fe28b4997cbd501ebee9a2452178bf4fe4a49bdc0e628922dee",
-      "identityHash": "4ef5537a3d2177e759570040070a9bc71f8b52e74c2f811a626867b544490eab",
-      "status": "started",
-      "verifiedAt": 0,
-      "claimedAt": 0,
-      "key": "",
-      "keyExpireAt": 0
-    },
     "aec07fcaea21ef3e9965cdcf722b14ad": {
       "id": "aec07fcaea21ef3e9965cdcf722b14ad",
       "createdAt": 1787302960365,
@@ -158,15 +144,15 @@
       "id": "3677a5b772fd32bffad8345ad1e0dadd",
       "createdAt": 1787303914297,
       "expiresAt": 1787304514297,
-      "browserHash": "08be0091a4be4eb53114adb73dba9156699035fe074664009fb8b0b1498c274d",
-      "uaHash": "eb347f2aac4078d37015f57bb79c4c0440ba9fde14ae4a7df7e29cfd375ce49a",
-      "ipHash": "e464bd8b977283b9b45251dacdece71a47364cc62bc335215548169e4cda0d1f",
+      "browserHash": "",
+      "uaHash": "",
+      "ipHash": "",
       "identityHash": "1e0d15e30bab2012ef7457dfd53d77fb5ef72362e604e9853675103902703d9b",
-      "status": "started",
-      "verifiedAt": 0,
-      "claimedAt": 0,
-      "key": "",
-      "keyExpireAt": 0
+      "status": "claimed",
+      "verifiedAt": 1787304075989,
+      "claimedAt": 1787304075991,
+      "key": "ATH-MYVR-UGF6",
+      "keyExpireAt": 1787390475991
     },
     "6be58cd6be008707cee7394279927c4d": {
       "id": "6be58cd6be008707cee7394279927c4d",
@@ -198,7 +184,6 @@
     }
   },
   "cooldowns": {
-    "21f576acce5888d7d0ebe868cfb3256768064d99637aa01c9e772501cee3ad98": 1787304069059,
     "de5da15767150c1f308bffc77fcc062d4673c12a377a2f364101512efcad00dd": 1787304337851,
     "25240ff9c06728ac29131d73f47a544138857227a6603e6a921101e912f36e1e": 1787304527422,
     "e3a33eadfb0f2e7359dccad76bab5bdde0f632e8892eaae42119f2b5b724e409": 1787304678101,
@@ -524,6 +509,7 @@
     "7ad73da4f4711fff491e5c54eb989653f7fe24359a4eaed7fe9de0ddfd58a620": 1787388902968,
     "23b233810b072a3073a31ad717d6006b58c5fa8811c137bb5468efbd14bea5e9": 1787389030612,
     "69d48914c80502c9aabf49608e3118032c156776b3d7c9060a4e17e3ac982c07": 1787389634226,
-    "2e9ef2c9469cb89fd0994b50d0d91b9198662bc171eb51613b199eea23217827": 1787390293960
+    "2e9ef2c9469cb89fd0994b50d0d91b9198662bc171eb51613b199eea23217827": 1787390293960,
+    "1e0d15e30bab2012ef7457dfd53d77fb5ef72362e604e9853675103902703d9b": 1787390475991
   }
 }

@@ -1,33 +1,5 @@
 {
   "claims": {
-    "46ba1d23662feb932531a9155736b104": {
-      "id": "46ba1d23662feb932531a9155736b104",
-      "createdAt": 1787398695271,
-      "expiresAt": 1787399295271,
-      "browserHash": "",
-      "uaHash": "",
-      "ipHash": "",
-      "identityHash": "ccd325f03bc3a13c4928e77486d4e5d6c7207701e7ab2fdb937180df9395675e",
-      "status": "claimed",
-      "verifiedAt": 1787398941426,
-      "claimedAt": 1787398941427,
-      "key": "ATH-G4QI-2Z1P",
-      "keyExpireAt": 1787485341427
-    },
-    "30e3ef3f8db21db5dac2e58fb5300c5a": {
-      "id": "30e3ef3f8db21db5dac2e58fb5300c5a",
-      "createdAt": 1787398777757,
-      "expiresAt": 1787399377757,
-      "browserHash": "",
-      "uaHash": "",
-      "ipHash": "",
-      "identityHash": "b6493d4a7eb45f9d4fc88bc705d8b1159ed0d5f5ab2c3e99ff4318d553a1ba50",
-      "status": "claimed",
-      "verifiedAt": 1787398975349,
-      "claimedAt": 1787398975372,
-      "key": "ATH-JX70-T7VA",
-      "keyExpireAt": 1787485375372
-    },
     "e4368c0c5e44302abee96208197eccbd": {
       "id": "e4368c0c5e44302abee96208197eccbd",
       "createdAt": 1787398938517,
@@ -265,11 +237,23 @@
       "claimedAt": 0,
       "key": "",
       "keyExpireAt": 0
+    },
+    "bccfbafc1390e65829e8eb75a2520558": {
+      "id": "bccfbafc1390e65829e8eb75a2520558",
+      "createdAt": 1787400249934,
+      "expiresAt": 1787400849934,
+      "browserHash": "7928ba652070524d409ba4c76677d68f728021cf5266ac7152220d79a1fc916c",
+      "uaHash": "699c905ed08ecf652be2897df3d72e8dc86822378b911bf32eb3de690b501546",
+      "ipHash": "abbd848e87c981836783f21798b78028907e1bbfdc971241ad7b0a9e03521130",
+      "identityHash": "924016e4001f9deaf78cbe05dcf6872f3a2850bf353f3c58dca491ccc22de0f6",
+      "status": "started",
+      "verifiedAt": 0,
+      "claimedAt": 0,
+      "key": "",
+      "keyExpireAt": 0
     }
   },
   "cooldowns": {
-    "04dde5e54d45c0e05a6e0609ab00e550b131fd666e20a7c5f666a09e2b7cd4fa": 1787400131212,
-    "e976b7492bd81378d0cb7e6df578224a4b8310505d2b0c9441f2acbc4067593b": 1787400170505,
     "e27c25d8db85388b28d95a329565e51cddc4e2a5ca5f54b0b15352c020225364": 1787400475088,
     "2047c4ccd968980538ca11caf20ca44291f634a7b1306a9edd265a5b8d7c354b": 1787400615404,
     "1b64f03e9fb1b81eba7e493f04b6ee9f8e9b8935fec94dbb32277cfe6236dde9": 1787400687784,
